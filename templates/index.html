@@ -1,0 +1,29 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Company Information</title>
+</head>
+<body>
+    <h1>Company Information</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Company Name</th>
+                <th>Market Cap</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for company in data %}
+            <tr class="{% if 'T' in company['Market Cap'] %}large-cap{% elif 'B' in company['Market Cap'] %}medium-cap{% else %}small-cap{% endif %}">
+                <td><strong>{{ company['Company Name'] }}</strong></td>
+                <td>{{ company['Market Cap'] }}</td>
+                <td>{{ company['Price'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
