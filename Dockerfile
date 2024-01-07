@@ -1,23 +1,17 @@
-# Use the official Python base image
+# Use an official Python runtime as the base image
 FROM python:3.9
 
-# Set working directory within the container
+# Set the working directory in the container
 WORKDIR /app
 
-# Copy the current directory contents into the container at /app
-COPY . /app.py
+# Copy the requirements file into the container at /app
+COPY requirements.txt .
 
-COPY ./requirements.txt
+# Install any needed packages specified in requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Install any needed dependencies specified in requirements.txt
-RUN pip install -r requirements.txt
+# Copy the content of the local src directory to the working directory in the container
+COPY . /app
 
-# Make port 5000 available to the world outside this container
-EXPOSE 5000
-
-# Define environment variables
-ENV FLASK_APP=app.py
-ENV FLASK_RUN_HOST=0.0.0.0
-
-# Run the application
-CMD ["flask", "run"]
+# Command to run your application
+CMD ["python", "app.py"]
