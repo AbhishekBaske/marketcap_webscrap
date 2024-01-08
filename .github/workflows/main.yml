@@ -29,5 +29,7 @@ jobs:
         run: |
           git config --global user.email "a.baske86@gmail.com"
           git config --global user.name "AbhishekBaske"
-          git commit -am "Automated data update"
-          git push
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Automated data update"  # Commit only if changes are detected
+          git remote add origin_with_token https://AbhishekBaske:${{ secrets.PAT_ACCESS_TOKEN }}@github.com/AbhishekBaske/marketcap_webscrap.git
+          git push origin_with_token main
