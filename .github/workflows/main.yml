@@ -23,7 +23,7 @@ jobs:
           pip install -r requirements.txt  # Replace with your requirements file if needed
 
       - name: Run script to scrape data
-        run: webscrap.py  # Replace with your script filename
+        run: python webscrap.py  # Replace with your script filename
 
       - name: Commit changes
         run: |
