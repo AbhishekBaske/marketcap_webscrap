@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.159 T",
-        "Price": "$8.92"
+        "Market Cap": "$2.149 T",
+        "Price": "$8.88"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -100,14 +100,14 @@
         "Price": "$161.53"
     },
     {
-        "Company Name": "LVMH",
-        "Market Cap": "$378.07 B",
-        "Price": "$752.44"
-    },
-    {
         "Company Name": "Samsung",
         "Market Cap": "$376.61 B",
         "Price": "$56.77"
+    },
+    {
+        "Company Name": "LVMH",
+        "Market Cap": "$376.47 B",
+        "Price": "$749.26"
     },
     {
         "Company Name": "Tencent",
@@ -126,8 +126,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$308.07 B",
-        "Price": "$115.46"
+        "Market Cap": "$307.25 B",
+        "Price": "$115.16"
     },
     {
         "Company Name": "Merck",
@@ -181,8 +181,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$255.78 B",
-        "Price": "$477.97"
+        "Market Cap": "$255.81 B",
+        "Price": "$478.03"
     },
     {
         "Company Name": "Toyota",
@@ -201,8 +201,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$240.04 B",
-        "Price": "$297.47"
+        "Market Cap": "$240.42 B",
+        "Price": "$297.95"
     },
     {
         "Company Name": "AMD",
@@ -240,11 +240,6 @@
         "Price": "$64.62"
     },
     {
-        "Company Name": "Hermès",
-        "Market Cap": "$212.37 B",
-        "Price": "$2,012"
-    },
-    {
         "Company Name": "Netflix",
         "Market Cap": "$212.28 B",
         "Price": "$485.03"
@@ -253,6 +248,11 @@
         "Company Name": "McDonald",
         "Market Cap": "$211.72 B",
         "Price": "$291.90"
+    },
+    {
+        "Company Name": "Hermès",
+        "Market Cap": "$211.65 B",
+        "Price": "$2,005"
     },
     {
         "Company Name": "Reliance Industries",
@@ -456,8 +456,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$137.98 B",
-        "Price": "$174.68"
+        "Market Cap": "$138.02 B",
+        "Price": "$174.73"
     },
     {
         "Company Name": "American Express",
@@ -486,8 +486,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$130.87 B",
-        "Price": "$722.19"
+        "Market Cap": "$130.38 B",
+        "Price": "$719.45"
     },
     {
         "Company Name": "Sanofi",
