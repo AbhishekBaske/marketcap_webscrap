@@ -1,7 +1,7 @@
 Company Name,Market Cap,Price
 Apple,$2.885 T,$185.56
 Microsoft,$2.784 T,$374.69
-Saudi Aramco,$2.149 T,$8.88
+Saudi Aramco,$2.146 T,$8.87
 Alphabet (Google),$1.747 T,$140.53
 Amazon,$1.540 T,$149.10
 NVIDIA,$1.290 T,$522.53
@@ -19,15 +19,15 @@ Walmart,$426.04 B,$158.25
 Exxon Mobil,$403.35 B,$100.92
 Mastercard,$395.72 B,$421.98
 Johnson & Johnson,$388.84 B,$161.53
-Samsung,$376.61 B,$56.77
-LVMH,$376.47 B,$749.26
+Samsung,$376.71 B,$56.78
+LVMH,$375.02 B,$746.36
 Tencent,$352.04 B,$37.26
 Procter & Gamble,$350.44 B,$148.69
 Home Depot,$346.28 B,$347.93
-Nestlé,$307.25 B,$115.16
+Nestlé,$306.24 B,$114.78
 Merck,$297.44 B,$117.38
 Costco,$293.61 B,$661.69
-Kweichow Moutai,$287.97 B,$229.24
+Kweichow Moutai,$287.93 B,$229.21
 Oracle,$287.70 B,$104.66
 AbbVie,$285.01 B,$161.43
 ASML,$284.43 B,$720.84
@@ -35,22 +35,22 @@ Chevron,$282.21 B,$149.50
 Bank of America ,$270.33 B,$34.16
 Adobe,$264.32 B,$580.55
 Coca-Cola,$259.88 B,$60.11
-L'Oréal,$255.81 B,$478.03
+L'Oréal,$255.49 B,$477.42
 Toyota,$253.56 B,$187.89
 Salesforce,$252.52 B,$260.87
-International Holding Company,$245.08 B,$111.73
-Roche,$240.42 B,$297.95
+International Holding Company,$245.06 B,$111.72
+Roche,$238.68 B,$295.79
 AMD,$236.15 B,$146.18
 Pepsico,$232.50 B,$169.11
-ICBC,$225.82 B,$0.47
+ICBC,$225.79 B,$0.47
 Novartis,$220.09 B,$107.08
 AstraZeneca,$214.57 B,$69.21
 Accenture,$213.39 B,$340.35
 Shell,$212.47 B,$64.62
 Netflix,$212.28 B,$485.03
 McDonald,$211.72 B,$291.90
-Hermès,$211.65 B,"$2,005"
-Reliance Industries,$210.14 B,$31.06
+Hermès,$210.98 B,"$1,999"
+Reliance Industries,$210.06 B,$31.05
 Thermo Fisher Scientific,$209.17 B,$541.38
 Cisco,$205.04 B,$50.46
 Intel,$204.26 B,$48.45
@@ -58,12 +58,12 @@ Linde,$197.97 B,$408.29
 Pinduoduo,$196.03 B,$147.55
 Abbott Laboratories,$195.13 B,$112.40
 T-Mobile US,$188.98 B,$163.41
-China Mobile,$184.51 B,$8.40
-PetroChina,$183.27 B,$1.04
+China Mobile,$184.49 B,$8.39
+PetroChina,$183.24 B,$1.04
 Alibaba,$182.19 B,$72.88
 Wells Fargo,$181.29 B,$49.92
 SAP,$178.44 B,$152.56
-Agricultural Bank of China,$177.63 B,$0.52
+Agricultural Bank of China,$177.60 B,$0.52
 Comcast,$176.01 B,$43.73
 Danaher,$173.54 B,$234.86
 Verizon,$168.58 B,$40.10
@@ -74,28 +74,28 @@ Pfizer,$167.02 B,$29.58
 HDFC Bank,$166.83 B,$65.92
 Amgen,$166.37 B,$310.88
 TotalEnergies,$160.91 B,$66.65
-Tata Consultancy Services,$160.68 B,$44.41
+Tata Consultancy Services,$160.62 B,$44.40
 HSBC,$159.18 B,$41.43
 Nike,$156.99 B,$103.62
 QUALCOMM,$154.74 B,$139.03
 Morgan Stanley,$153.47 B,$93.51
 Texas Instruments,$153.06 B,$168.54
-Bank of China,$151.77 B,$0.57
+Bank of China,$151.75 B,$0.57
 Philip Morris,$149.48 B,$96.29
 Caterpillar,$148.78 B,$292.25
 IBM,$147.13 B,$161.14
 Union Pacific Corporation,$146.68 B,$240.62
-China Construction Bank,$146.52 B,$0.93
+China Construction Bank,$146.50 B,$0.93
 ServiceNow,$142.77 B,$696.26
 Royal Bank Of Canada,$142.49 B,$101.31
 General Electric,$139.61 B,$128.28
 Boeing,$138.53 B,$229.00
-Siemens,$138.02 B,$174.73
 American Express,$137.88 B,$189.21
+Siemens,$137.24 B,$173.74
 S&P Global,$136.91 B,$432.17
 United Parcel Service,$136.24 B,$159.92
 ConocoPhillips,$135.95 B,$114.50
 Honeywell,$133.60 B,$202.66
-Dior,$130.38 B,$719.45
 Sanofi,$130.38 B,$51.99
 Inditex,$130.37 B,$20.94
+Anheuser-Busch Inbev,$129.91 B,$65.47
