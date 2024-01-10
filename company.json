@@ -101,8 +101,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$379.41 B",
-        "Price": "$747.92"
+        "Market Cap": "$379.69 B",
+        "Price": "$748.47"
     },
     {
         "Company Name": "Samsung",
@@ -126,8 +126,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$308.99 B",
-        "Price": "$115.81"
+        "Market Cap": "$309.75 B",
+        "Price": "$116.09"
     },
     {
         "Company Name": "Merck",
@@ -181,8 +181,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$257.48 B",
-        "Price": "$481.53"
+        "Market Cap": "$257.60 B",
+        "Price": "$481.74"
     },
     {
         "Company Name": "Salesforce",
@@ -206,8 +206,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$237.39 B",
-        "Price": "$294.05"
+        "Market Cap": "$238.67 B",
+        "Price": "$295.63"
     },
     {
         "Company Name": "Pepsico",
@@ -225,6 +225,11 @@
         "Price": "$106.39"
     },
     {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$215.98 B",
+        "Price": "$31.92"
+    },
+    {
         "Company Name": "Accenture",
         "Market Cap": "$214.90 B",
         "Price": "$342.75"
@@ -235,14 +240,9 @@
         "Price": "$68.91"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$213.55 B",
-        "Price": "$31.56"
-    },
-    {
         "Company Name": "Hermès",
-        "Market Cap": "$211.25 B",
-        "Price": "$2,006"
+        "Market Cap": "$211.82 B",
+        "Price": "$2,012"
     },
     {
         "Company Name": "Netflix",
@@ -371,8 +371,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$161.39 B",
-        "Price": "$44.61"
+        "Market Cap": "$161.82 B",
+        "Price": "$44.73"
     },
     {
         "Company Name": "HSBC",
@@ -451,8 +451,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$138.34 B",
-        "Price": "$175.14"
+        "Market Cap": "$138.79 B",
+        "Price": "$175.71"
     },
     {
         "Company Name": "Boeing",
@@ -486,8 +486,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$131.65 B",
-        "Price": "$718.19"
+        "Market Cap": "$131.45 B",
+        "Price": "$717.10"
     },
     {
         "Company Name": "Sanofi",
