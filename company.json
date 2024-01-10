@@ -106,7 +106,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$370.75 B",
+        "Market Cap": "$370.62 B",
         "Price": "$55.82"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$225.61 B",
+        "Market Cap": "$224.39 B",
         "Price": "$0.47"
     },
     {
@@ -321,7 +321,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$176.93 B",
+        "Market Cap": "$176.73 B",
         "Price": "$0.52"
     },
     {
@@ -406,7 +406,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$149.51 B",
+        "Market Cap": "$149.77 B",
         "Price": "$0.56"
     },
     {
@@ -418,6 +418,11 @@
         "Company Name": "IBM",
         "Market Cap": "$147.22 B",
         "Price": "$161.23"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$146.88 B",
+        "Price": "$0.92"
     },
     {
         "Company Name": "Philip Morris",
@@ -433,11 +438,6 @@
         "Company Name": "Union Pacific Corporation",
         "Market Cap": "$145.69 B",
         "Price": "$239.00"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$145.15 B",
-        "Price": "$0.92"
     },
     {
         "Company Name": "Royal Bank Of Canada",
