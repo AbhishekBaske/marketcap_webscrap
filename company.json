@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$245.05 B",
-        "Price": "$111.72"
+        "Market Cap": "$245.07 B",
+        "Price": "$111.73"
     },
     {
         "Company Name": "AMD",
@@ -235,11 +235,6 @@
         "Price": "$68.91"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$211.22 B",
-        "Price": "$31.14"
-    },
-    {
         "Company Name": "Netflix",
         "Market Cap": "$211.00 B",
         "Price": "$482.09"
@@ -248,6 +243,11 @@
         "Company Name": "McDonald",
         "Market Cap": "$210.98 B",
         "Price": "$290.87"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$210.79 B",
+        "Price": "$31.07"
     },
     {
         "Company Name": "Hermès",
@@ -371,8 +371,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$161.47 B",
-        "Price": "$44.63"
+        "Market Cap": "$161.69 B",
+        "Price": "$44.69"
     },
     {
         "Company Name": "HSBC",
