@@ -16,7 +16,7 @@
     },
     {
         "Company Name": "Alphabet (Google)",
-        "Market Cap": "$1.772 T",
+        "Market Cap": "$1.773 T",
         "Price": "$142.56"
     },
     {
@@ -31,12 +31,12 @@
     },
     {
         "Company Name": "Meta Platforms (Facebook)",
-        "Market Cap": "$918.54 B",
+        "Market Cap": "$915.37 B",
         "Price": "$357.43"
     },
     {
         "Company Name": "Berkshire Hathaway ",
-        "Market Cap": "$798.41 B",
+        "Market Cap": "$798.22 B",
         "Price": "$366.90"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
         "Company Name": "Novo Nordisk",
-        "Market Cap": "$477.39 B",
+        "Market Cap": "$476.76 B",
         "Price": "$106.95"
     },
     {
@@ -100,14 +100,14 @@
         "Price": "$161.63"
     },
     {
-        "Company Name": "Samsung",
-        "Market Cap": "$375.92 B",
-        "Price": "$56.60"
-    },
-    {
         "Company Name": "LVMH",
         "Market Cap": "$374.08 B",
         "Price": "$744.50"
+    },
+    {
+        "Company Name": "Samsung",
+        "Market Cap": "$370.89 B",
+        "Price": "$55.84"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -141,8 +141,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$287.59 B",
-        "Price": "$228.94"
+        "Market Cap": "$289.25 B",
+        "Price": "$230.26"
     },
     {
         "Company Name": "AbbVie",
@@ -191,7 +191,7 @@
     },
     {
         "Company Name": "Toyota",
-        "Market Cap": "$251.00 B",
+        "Market Cap": "$252.02 B",
         "Price": "$185.99"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$225.70 B",
+        "Market Cap": "$226.93 B",
         "Price": "$0.47"
     },
     {
@@ -250,14 +250,14 @@
         "Price": "$1,997"
     },
     {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$210.66 B",
+        "Price": "$31.05"
+    },
+    {
         "Company Name": "Shell",
         "Market Cap": "$210.11 B",
         "Price": "$63.90"
-    },
-    {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$210.10 B",
-        "Price": "$31.05"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -296,12 +296,12 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$184.35 B",
-        "Price": "$8.39"
+        "Market Cap": "$184.49 B",
+        "Price": "$8.40"
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$183.02 B",
+        "Market Cap": "$183.67 B",
         "Price": "$1.04"
     },
     {
@@ -321,7 +321,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$177.47 B",
+        "Market Cap": "$176.99 B",
         "Price": "$0.52"
     },
     {
@@ -375,19 +375,19 @@
         "Price": "$44.40"
     },
     {
-        "Company Name": "TotalEnergies",
-        "Market Cap": "$158.09 B",
-        "Price": "$65.48"
-    },
-    {
         "Company Name": "HSBC",
-        "Market Cap": "$155.91 B",
+        "Market Cap": "$156.32 B",
         "Price": "$40.58"
     },
     {
         "Company Name": "QUALCOMM",
         "Market Cap": "$155.69 B",
         "Price": "$139.89"
+    },
+    {
+        "Company Name": "TotalEnergies",
+        "Market Cap": "$155.69 B",
+        "Price": "$65.48"
     },
     {
         "Company Name": "Nike",
@@ -400,14 +400,14 @@
         "Price": "$168.63"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$151.79 B",
-        "Price": "$0.57"
-    },
-    {
         "Company Name": "Morgan Stanley",
         "Market Cap": "$151.09 B",
         "Price": "$92.06"
+    },
+    {
+        "Company Name": "Bank of China",
+        "Market Cap": "$150.68 B",
+        "Price": "$0.57"
     },
     {
         "Company Name": "Caterpillar",
@@ -420,14 +420,14 @@
         "Price": "$95.59"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$146.98 B",
-        "Price": "$0.93"
-    },
-    {
         "Company Name": "IBM",
         "Market Cap": "$146.17 B",
         "Price": "$160.08"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$145.87 B",
+        "Price": "$0.92"
     },
     {
         "Company Name": "Union Pacific Corporation",
