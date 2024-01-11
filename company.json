@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$368.79 B",
-        "Price": "$55.55"
+        "Market Cap": "$368.28 B",
+        "Price": "$55.47"
     },
     {
         "Company Name": "Home Depot",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$246.21 B",
-        "Price": "$112.25"
+        "Market Cap": "$246.18 B",
+        "Price": "$112.23"
     },
     {
         "Company Name": "Roche",
@@ -226,8 +226,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$218.78 B",
-        "Price": "$32.33"
+        "Market Cap": "$217.51 B",
+        "Price": "$32.15"
     },
     {
         "Company Name": "Accenture",
@@ -355,6 +355,11 @@
         "Price": "$28.99"
     },
     {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$163.61 B",
+        "Price": "$45.22"
+    },
+    {
         "Company Name": "Walt Disney",
         "Market Cap": "$163.42 B",
         "Price": "$89.29"
@@ -363,11 +368,6 @@
         "Company Name": "Amgen",
         "Market Cap": "$162.99 B",
         "Price": "$304.57"
-    },
-    {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$162.38 B",
-        "Price": "$44.88"
     },
     {
         "Company Name": "BHP Group",
