@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$368.28 B",
-        "Price": "$55.47"
+        "Market Cap": "$369.29 B",
+        "Price": "$55.62"
     },
     {
         "Company Name": "Home Depot",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$289.13 B",
-        "Price": "$230.16"
+        "Market Cap": "$289.32 B",
+        "Price": "$230.32"
     },
     {
         "Company Name": "Oracle",
@@ -226,8 +226,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$217.51 B",
-        "Price": "$32.15"
+        "Market Cap": "$218.17 B",
+        "Price": "$32.25"
     },
     {
         "Company Name": "Accenture",
@@ -296,18 +296,13 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$183.24 B",
-        "Price": "$8.35"
+        "Market Cap": "$182.54 B",
+        "Price": "$8.32"
     },
     {
         "Company Name": "SAP",
         "Market Cap": "$182.28 B",
         "Price": "$155.84"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$180.43 B",
-        "Price": "$1.03"
     },
     {
         "Company Name": "Alibaba",
@@ -320,14 +315,19 @@
         "Price": "$49.08"
     },
     {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$175.56 B",
-        "Price": "$0.51"
+        "Company Name": "PetroChina",
+        "Market Cap": "$177.73 B",
+        "Price": "$1.01"
     },
     {
         "Company Name": "Comcast",
         "Market Cap": "$175.01 B",
         "Price": "$43.48"
+    },
+    {
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$174.13 B",
+        "Price": "$0.51"
     },
     {
         "Company Name": "Intuit",
@@ -355,11 +355,6 @@
         "Price": "$28.99"
     },
     {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$163.61 B",
-        "Price": "$45.22"
-    },
-    {
         "Company Name": "Walt Disney",
         "Market Cap": "$163.42 B",
         "Price": "$89.29"
@@ -368,6 +363,11 @@
         "Company Name": "Amgen",
         "Market Cap": "$162.99 B",
         "Price": "$304.57"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$162.91 B",
+        "Price": "$45.03"
     },
     {
         "Company Name": "BHP Group",
@@ -405,24 +405,19 @@
         "Price": "$91.48"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$149.62 B",
-        "Price": "$0.56"
-    },
-    {
         "Company Name": "Caterpillar",
         "Market Cap": "$149.34 B",
         "Price": "$293.35"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$148.13 B",
+        "Price": "$0.56"
+    },
+    {
         "Company Name": "IBM",
         "Market Cap": "$147.22 B",
         "Price": "$161.23"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$147.09 B",
-        "Price": "$0.92"
     },
     {
         "Company Name": "Philip Morris",
@@ -438,6 +433,11 @@
         "Company Name": "Union Pacific Corporation",
         "Market Cap": "$145.69 B",
         "Price": "$239.00"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$145.31 B",
+        "Price": "$0.91"
     },
     {
         "Company Name": "Royal Bank Of Canada",
