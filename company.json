@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.123 T",
-        "Price": "$8.78"
+        "Market Cap": "$2.120 T",
+        "Price": "$8.76"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -101,13 +101,13 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$372.81 B",
-        "Price": "$746.35"
+        "Market Cap": "$372.30 B",
+        "Price": "$745.33"
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$369.73 B",
-        "Price": "$55.69"
+        "Market Cap": "$369.48 B",
+        "Price": "$55.65"
     },
     {
         "Company Name": "Home Depot",
@@ -126,8 +126,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$306.67 B",
-        "Price": "$114.94"
+        "Market Cap": "$306.31 B",
+        "Price": "$114.81"
     },
     {
         "Company Name": "Merck",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$288.79 B",
-        "Price": "$229.89"
+        "Market Cap": "$288.95 B",
+        "Price": "$230.02"
     },
     {
         "Company Name": "Oracle",
@@ -186,8 +186,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$258.87 B",
-        "Price": "$483.58"
+        "Market Cap": "$259.31 B",
+        "Price": "$484.41"
     },
     {
         "Company Name": "Salesforce",
@@ -196,18 +196,18 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$246.07 B",
-        "Price": "$112.18"
-    },
-    {
-        "Company Name": "Roche",
-        "Market Cap": "$240.51 B",
-        "Price": "$298.03"
+        "Market Cap": "$246.09 B",
+        "Price": "$112.19"
     },
     {
         "Company Name": "AMD",
         "Market Cap": "$239.96 B",
         "Price": "$148.54"
+    },
+    {
+        "Company Name": "Roche",
+        "Market Cap": "$239.74 B",
+        "Price": "$297.07"
     },
     {
         "Company Name": "Pepsico",
@@ -216,13 +216,13 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$224.44 B",
+        "Market Cap": "$224.42 B",
         "Price": "$0.47"
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$221.65 B",
-        "Price": "$32.76"
+        "Market Cap": "$221.72 B",
+        "Price": "$32.77"
     },
     {
         "Company Name": "Novartis",
@@ -240,14 +240,14 @@
         "Price": "$69.57"
     },
     {
-        "Company Name": "Hermès",
-        "Market Cap": "$213.36 B",
-        "Price": "$2,037"
-    },
-    {
         "Company Name": "McDonald",
         "Market Cap": "$213.31 B",
         "Price": "$294.09"
+    },
+    {
+        "Company Name": "Hermès",
+        "Market Cap": "$212.88 B",
+        "Price": "$2,033"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -296,7 +296,7 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$182.66 B",
+        "Market Cap": "$182.64 B",
         "Price": "$8.32"
     },
     {
@@ -316,7 +316,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$177.43 B",
+        "Market Cap": "$177.53 B",
         "Price": "$1.01"
     },
     {
@@ -326,7 +326,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$174.07 B",
+        "Market Cap": "$174.17 B",
         "Price": "$0.51"
     },
     {
@@ -366,8 +366,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$162.79 B",
-        "Price": "$44.99"
+        "Market Cap": "$162.84 B",
+        "Price": "$45.01"
     },
     {
         "Company Name": "BHP Group",
@@ -411,7 +411,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$147.72 B",
+        "Market Cap": "$147.80 B",
         "Price": "$0.56"
     },
     {
@@ -436,7 +436,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$145.26 B",
+        "Market Cap": "$145.34 B",
         "Price": "$0.91"
     },
     {
