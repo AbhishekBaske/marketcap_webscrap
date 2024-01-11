@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$369.14 B",
-        "Price": "$55.60"
+        "Market Cap": "$367.63 B",
+        "Price": "$55.37"
     },
     {
         "Company Name": "Home Depot",
@@ -121,7 +121,7 @@
     },
     {
         "Company Name": "Tencent",
-        "Market Cap": "$339.14 B",
+        "Market Cap": "$338.64 B",
         "Price": "$35.83"
     },
     {
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$288.61 B",
-        "Price": "$229.75"
+        "Market Cap": "$288.45 B",
+        "Price": "$229.63"
     },
     {
         "Company Name": "Oracle",
@@ -221,7 +221,7 @@
     },
     {
         "Company Name": "Novartis",
-        "Market Cap": "$222.99 B",
+        "Market Cap": "$220.83 B",
         "Price": "$107.44"
     },
     {
@@ -261,7 +261,7 @@
     },
     {
         "Company Name": "Shell",
-        "Market Cap": "$205.34 B",
+        "Market Cap": "$205.78 B",
         "Price": "$63.07"
     },
     {
@@ -295,18 +295,18 @@
         "Price": "$163.29"
     },
     {
+        "Company Name": "China Mobile",
+        "Market Cap": "$182.61 B",
+        "Price": "$8.32"
+    },
+    {
         "Company Name": "SAP",
         "Market Cap": "$182.28 B",
         "Price": "$155.84"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$181.77 B",
-        "Price": "$8.28"
-    },
-    {
         "Company Name": "PetroChina",
-        "Market Cap": "$179.68 B",
+        "Market Cap": "$179.92 B",
         "Price": "$1.02"
     },
     {
@@ -321,7 +321,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$175.30 B",
+        "Market Cap": "$175.78 B",
         "Price": "$0.51"
     },
     {
@@ -405,14 +405,14 @@
         "Price": "$91.48"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$149.40 B",
+        "Price": "$0.56"
+    },
+    {
         "Company Name": "Caterpillar",
         "Market Cap": "$149.34 B",
         "Price": "$293.35"
-    },
-    {
-        "Company Name": "Bank of China",
-        "Market Cap": "$149.03 B",
-        "Price": "$0.56"
     },
     {
         "Company Name": "IBM",
@@ -441,7 +441,7 @@
     },
     {
         "Company Name": "Royal Bank Of Canada",
-        "Market Cap": "$142.08 B",
+        "Market Cap": "$141.56 B",
         "Price": "$100.65"
     },
     {
