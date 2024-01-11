@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$369.65 B",
-        "Price": "$55.67"
+        "Market Cap": "$369.14 B",
+        "Price": "$55.60"
     },
     {
         "Company Name": "Home Depot",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$287.57 B",
-        "Price": "$228.92"
+        "Market Cap": "$288.61 B",
+        "Price": "$229.75"
     },
     {
         "Company Name": "Oracle",
@@ -216,7 +216,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$224.38 B",
+        "Market Cap": "$225.60 B",
         "Price": "$0.47"
     },
     {
@@ -295,19 +295,19 @@
         "Price": "$163.29"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$183.17 B",
-        "Price": "$8.34"
-    },
-    {
         "Company Name": "SAP",
         "Market Cap": "$182.28 B",
         "Price": "$155.84"
     },
     {
+        "Company Name": "China Mobile",
+        "Market Cap": "$181.77 B",
+        "Price": "$8.28"
+    },
+    {
         "Company Name": "PetroChina",
-        "Market Cap": "$181.64 B",
-        "Price": "$1.03"
+        "Market Cap": "$179.68 B",
+        "Price": "$1.02"
     },
     {
         "Company Name": "Alibaba",
@@ -321,8 +321,8 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$176.73 B",
-        "Price": "$0.52"
+        "Market Cap": "$175.30 B",
+        "Price": "$0.51"
     },
     {
         "Company Name": "Comcast",
@@ -405,14 +405,14 @@
         "Price": "$91.48"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$149.77 B",
-        "Price": "$0.56"
-    },
-    {
         "Company Name": "Caterpillar",
         "Market Cap": "$149.34 B",
         "Price": "$293.35"
+    },
+    {
+        "Company Name": "Bank of China",
+        "Market Cap": "$149.03 B",
+        "Price": "$0.56"
     },
     {
         "Company Name": "IBM",
@@ -421,7 +421,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$146.88 B",
+        "Market Cap": "$146.66 B",
         "Price": "$0.92"
     },
     {
