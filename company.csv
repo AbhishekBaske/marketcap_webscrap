@@ -1,7 +1,7 @@
 Company Name,Market Cap,Price
 Apple,$2.895 T,$186.19
 Microsoft,$2.844 T,$382.77
-Saudi Aramco,$2.126 T,$8.79
+Saudi Aramco,$2.123 T,$8.78
 Alphabet (Google),$1.789 T,$143.80
 Amazon,$1.588 T,$153.73
 NVIDIA,$1.342 T,$543.50
@@ -19,12 +19,12 @@ Walmart,$434.22 B,$161.29
 Mastercard,$401.62 B,$428.27
 Exxon Mobil,$394.44 B,$98.69
 Johnson & Johnson,$389.66 B,$161.87
-LVMH,$373.90 B,$748.55
+LVMH,$372.81 B,$746.35
 Samsung,$369.73 B,$55.69
 Home Depot,$355.10 B,$356.80
 Procter & Gamble,$353.39 B,$149.94
 Tencent,$338.64 B,$35.83
-Nestlé,$307.14 B,$115.12
+Nestlé,$306.67 B,$114.94
 Merck,$301.19 B,$118.86
 Costco,$298.52 B,$672.76
 AbbVie,$291.11 B,$164.89
@@ -36,10 +36,10 @@ Adobe,$269.09 B,$591.03
 Bank of America ,$265.90 B,$33.60
 Coca-Cola,$260.26 B,$60.20
 Toyota,$260.08 B,$192.72
-L'Oréal,$259.67 B,$485.07
+L'Oréal,$258.87 B,$483.58
 Salesforce,$255.67 B,$264.13
 International Holding Company,$246.07 B,$112.18
-Roche,$240.93 B,$298.56
+Roche,$240.51 B,$298.03
 AMD,$239.96 B,$148.54
 Pepsico,$229.49 B,$166.92
 ICBC,$224.44 B,$0.47
@@ -47,7 +47,7 @@ Reliance Industries,$221.65 B,$32.76
 Novartis,$220.83 B,$107.44
 Accenture,$216.51 B,$345.33
 AstraZeneca,$215.68 B,$69.57
-Hermès,$213.71 B,"$2,041"
+Hermès,$213.36 B,"$2,037"
 McDonald,$213.31 B,$294.09
 Thermo Fisher Scientific,$210.15 B,$543.93
 Netflix,$209.35 B,$478.33
@@ -89,7 +89,7 @@ Union Pacific Corporation,$145.69 B,$239.00
 China Construction Bank,$145.26 B,$0.91
 Royal Bank Of Canada,$141.56 B,$100.65
 General Electric,$141.16 B,$129.70
-Siemens,$140.39 B,$177.73
+Siemens,$139.97 B,$177.20
 Boeing,$137.83 B,$227.84
 United Parcel Service,$137.34 B,$161.22
 S&P Global,$137.21 B,$433.13
