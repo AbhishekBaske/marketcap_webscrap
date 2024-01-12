@@ -100,14 +100,14 @@
         "Price": "$161.15"
     },
     {
-        "Company Name": "LVMH",
-        "Market Cap": "$371.02 B",
-        "Price": "$731.02"
-    },
-    {
         "Company Name": "Samsung",
         "Market Cap": "$369.22 B",
         "Price": "$55.62"
+    },
+    {
+        "Company Name": "LVMH",
+        "Market Cap": "$367.51 B",
+        "Price": "$724.11"
     },
     {
         "Company Name": "Home Depot",
@@ -126,8 +126,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$302.80 B",
-        "Price": "$113.49"
+        "Market Cap": "$303.21 B",
+        "Price": "$113.64"
     },
     {
         "Company Name": "Merck",
@@ -186,8 +186,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$260.61 B",
-        "Price": "$487.38"
+        "Market Cap": "$260.20 B",
+        "Price": "$486.62"
     },
     {
         "Company Name": "Coca-Cola",
@@ -196,13 +196,13 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$244.36 B",
-        "Price": "$111.40"
+        "Market Cap": "$243.76 B",
+        "Price": "$111.13"
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$239.91 B",
-        "Price": "$297.33"
+        "Market Cap": "$240.39 B",
+        "Price": "$297.91"
     },
     {
         "Company Name": "AMD",
@@ -245,14 +245,14 @@
         "Price": "$69.18"
     },
     {
-        "Company Name": "Hermès",
-        "Market Cap": "$214.06 B",
-        "Price": "$2,025"
-    },
-    {
         "Company Name": "McDonald",
         "Market Cap": "$213.35 B",
         "Price": "$294.15"
+    },
+    {
+        "Company Name": "Hermès",
+        "Market Cap": "$212.58 B",
+        "Price": "$2,011"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -446,8 +446,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$141.01 B",
-        "Price": "$178.52"
+        "Market Cap": "$140.70 B",
+        "Price": "$178.13"
     },
     {
         "Company Name": "Royal Bank Of Canada",
