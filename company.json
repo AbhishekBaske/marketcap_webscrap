@@ -100,14 +100,14 @@
         "Price": "$161.15"
     },
     {
-        "Company Name": "Samsung",
-        "Market Cap": "$370.71 B",
-        "Price": "$55.84"
-    },
-    {
         "Company Name": "LVMH",
         "Market Cap": "$368.65 B",
         "Price": "$738.03"
+    },
+    {
+        "Company Name": "Samsung",
+        "Market Cap": "$367.68 B",
+        "Price": "$55.39"
     },
     {
         "Company Name": "Home Depot",
@@ -196,7 +196,7 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$246.10 B",
+        "Market Cap": "$246.08 B",
         "Price": "$112.19"
     },
     {
@@ -220,14 +220,14 @@
         "Price": "$0.47"
     },
     {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$221.66 B",
+        "Price": "$32.76"
+    },
+    {
         "Company Name": "Novartis",
         "Market Cap": "$221.16 B",
         "Price": "$107.60"
-    },
-    {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$219.75 B",
-        "Price": "$32.48"
     },
     {
         "Company Name": "Accenture",
@@ -336,8 +336,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$168.96 B",
-        "Price": "$46.70"
+        "Market Cap": "$168.90 B",
+        "Price": "$46.68"
     },
     {
         "Company Name": "Danaher",
