@@ -106,7 +106,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$369.98 B",
+        "Market Cap": "$370.22 B",
         "Price": "$55.73"
     },
     {
@@ -226,7 +226,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$221.14 B",
+        "Market Cap": "$222.98 B",
         "Price": "$0.47"
     },
     {
@@ -311,12 +311,12 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$177.51 B",
+        "Market Cap": "$177.55 B",
         "Price": "$1.01"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$176.67 B",
+        "Market Cap": "$176.36 B",
         "Price": "$0.52"
     },
     {
@@ -400,19 +400,14 @@
         "Price": "$165.80"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$150.28 B",
-        "Price": "$0.56"
-    },
-    {
         "Company Name": "Texas Instruments",
         "Market Cap": "$149.73 B",
         "Price": "$164.87"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$149.54 B",
-        "Price": "$0.91"
+        "Company Name": "Bank of China",
+        "Market Cap": "$149.68 B",
+        "Price": "$0.56"
     },
     {
         "Company Name": "ServiceNow",
@@ -423,6 +418,11 @@
         "Company Name": "Philip Morris",
         "Market Cap": "$147.89 B",
         "Price": "$95.27"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$147.85 B",
+        "Price": "$0.91"
     },
     {
         "Company Name": "Caterpillar",
