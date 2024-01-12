@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$288.38 B",
-        "Price": "$229.57"
+        "Market Cap": "$289.07 B",
+        "Price": "$230.12"
     },
     {
         "Company Name": "Oracle",
@@ -215,14 +215,14 @@
         "Price": "$166.13"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$221.80 B",
+        "Price": "$0.47"
+    },
+    {
         "Company Name": "Reliance Industries",
         "Market Cap": "$221.64 B",
         "Price": "$32.76"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$221.20 B",
-        "Price": "$0.47"
     },
     {
         "Company Name": "Novartis",
@@ -295,14 +295,14 @@
         "Price": "$162.17"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$183.40 B",
-        "Price": "$8.35"
-    },
-    {
         "Company Name": "SAP",
         "Market Cap": "$183.06 B",
         "Price": "$156.51"
+    },
+    {
+        "Company Name": "China Mobile",
+        "Market Cap": "$182.56 B",
+        "Price": "$8.31"
     },
     {
         "Company Name": "Alibaba",
@@ -316,7 +316,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$177.50 B",
+        "Market Cap": "$177.26 B",
         "Price": "$1.01"
     },
     {
@@ -401,13 +401,13 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$150.27 B",
+        "Market Cap": "$149.90 B",
         "Price": "$0.56"
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$150.22 B",
-        "Price": "$0.92"
+        "Market Cap": "$149.30 B",
+        "Price": "$0.91"
     },
     {
         "Company Name": "ServiceNow",
