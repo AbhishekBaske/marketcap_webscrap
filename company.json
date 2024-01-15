@@ -101,8 +101,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$372.41 B",
-        "Price": "$56.06"
+        "Market Cap": "$372.91 B",
+        "Price": "$56.14"
     },
     {
         "Company Name": "LVMH",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$288.89 B",
-        "Price": "$229.48"
+        "Market Cap": "$289.68 B",
+        "Price": "$230.11"
     },
     {
         "Company Name": "AbbVie",
@@ -220,14 +220,14 @@
         "Price": "$33.08"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$223.60 B",
+        "Price": "$0.47"
+    },
+    {
         "Company Name": "Accenture",
         "Market Cap": "$223.41 B",
         "Price": "$356.33"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$223.00 B",
-        "Price": "$0.47"
     },
     {
         "Company Name": "Novartis",
@@ -301,8 +301,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$183.48 B",
-        "Price": "$8.36"
+        "Market Cap": "$183.90 B",
+        "Price": "$8.38"
     },
     {
         "Company Name": "Alibaba",
@@ -311,12 +311,12 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$178.78 B",
+        "Market Cap": "$179.52 B",
         "Price": "$1.02"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$176.84 B",
+        "Market Cap": "$176.36 B",
         "Price": "$0.52"
     },
     {
@@ -400,14 +400,14 @@
         "Price": "$39.38"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$150.05 B",
+        "Price": "$0.56"
+    },
+    {
         "Company Name": "Texas Instruments",
         "Market Cap": "$149.73 B",
         "Price": "$164.87"
-    },
-    {
-        "Company Name": "Bank of China",
-        "Market Cap": "$149.68 B",
-        "Price": "$0.56"
     },
     {
         "Company Name": "ServiceNow",
@@ -420,14 +420,14 @@
         "Price": "$89.70"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$148.07 B",
+        "Price": "$0.92"
+    },
+    {
         "Company Name": "Philip Morris",
         "Market Cap": "$147.89 B",
         "Price": "$95.27"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$147.85 B",
-        "Price": "$0.91"
     },
     {
         "Company Name": "Caterpillar",
