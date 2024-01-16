@@ -1,7 +1,7 @@
 Company Name,Market Cap,Price
 Microsoft,$2.887 T,$388.47
 Apple,$2.874 T,$185.92
-Saudi Aramco,$2.072 T,$8.56
+Saudi Aramco,$2.065 T,$8.54
 Alphabet (Google),$1.795 T,$144.24
 Amazon,$1.597 T,$154.62
 NVIDIA,$1.351 T,$547.10
@@ -19,13 +19,13 @@ Walmart,$434.31 B,$161.32
 Mastercard,$402.39 B,$429.10
 Exxon Mobil,$399.47 B,$99.95
 Johnson & Johnson,$390.91 B,$162.39
+LVMH,$361.90 B,$723.75
 Samsung,$361.88 B,$54.51
-LVMH,$361.84 B,$723.64
 Procter & Gamble,$354.94 B,$150.60
 Home Depot,$354.02 B,$355.71
 Tencent,$348.73 B,$36.93
+Nestlé,$303.80 B,$113.86
 Costco,$303.17 B,$683.24
-Nestlé,$302.68 B,$113.44
 Merck,$300.61 B,$118.63
 Oracle,$293.03 B,$106.60
 AbbVie,$286.72 B,$162.40
@@ -36,11 +36,11 @@ Adobe,$271.66 B,$596.54
 Toyota,$264.69 B,$195.68
 Salesforce,$263.22 B,$271.93
 Coca-Cola,$261.09 B,$60.39
-L'Oréal,$260.90 B,$464.69
+L'Oréal,$260.44 B,$463.87
 Bank of America ,$259.12 B,$32.80
-International Holding Company,$244.03 B,$111.25
+International Holding Company,$244.27 B,$111.36
 AMD,$236.84 B,$146.56
-Roche,$233.30 B,$289.05
+Roche,$233.16 B,$288.88
 Pepsico,$230.00 B,$167.27
 Reliance Industries,$224.29 B,$33.15
 Accenture,$223.41 B,$356.33
@@ -50,7 +50,7 @@ Netflix,$215.44 B,$492.16
 AstraZeneca,$215.22 B,$69.42
 McDonald,$212.86 B,$293.47
 Thermo Fisher Scientific,$210.31 B,$544.32
-Hermès,$208.42 B,"$1,986"
+Hermès,$208.40 B,"$1,986"
 Shell,$207.55 B,$63.80
 Cisco,$204.55 B,$50.34
 Intel,$198.65 B,$47.12
@@ -89,7 +89,7 @@ Morgan Stanley,$147.22 B,$89.70
 Union Pacific Corporation,$144.90 B,$237.71
 General Electric,$141.26 B,$129.79
 Royal Bank Of Canada,$138.91 B,$98.56
-Siemens,$138.82 B,$175.75
+Siemens,$138.55 B,$175.40
 S&P Global,$138.44 B,$437.00
 United Parcel Service,$134.86 B,$158.31
 Inditex,$132.95 B,$21.35

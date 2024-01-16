@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.072 T",
-        "Price": "$8.56"
+        "Market Cap": "$2.065 T",
+        "Price": "$8.54"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -100,14 +100,14 @@
         "Price": "$162.39"
     },
     {
+        "Company Name": "LVMH",
+        "Market Cap": "$361.90 B",
+        "Price": "$723.75"
+    },
+    {
         "Company Name": "Samsung",
         "Market Cap": "$361.88 B",
         "Price": "$54.51"
-    },
-    {
-        "Company Name": "LVMH",
-        "Market Cap": "$361.84 B",
-        "Price": "$723.64"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -125,14 +125,14 @@
         "Price": "$36.93"
     },
     {
+        "Company Name": "Nestlé",
+        "Market Cap": "$303.80 B",
+        "Price": "$113.86"
+    },
+    {
         "Company Name": "Costco",
         "Market Cap": "$303.17 B",
         "Price": "$683.24"
-    },
-    {
-        "Company Name": "Nestlé",
-        "Market Cap": "$302.68 B",
-        "Price": "$113.44"
     },
     {
         "Company Name": "Merck",
@@ -186,8 +186,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$260.90 B",
-        "Price": "$464.69"
+        "Market Cap": "$260.44 B",
+        "Price": "$463.87"
     },
     {
         "Company Name": "Bank of America ",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$244.03 B",
-        "Price": "$111.25"
+        "Market Cap": "$244.27 B",
+        "Price": "$111.36"
     },
     {
         "Company Name": "AMD",
@@ -206,8 +206,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$233.30 B",
-        "Price": "$289.05"
+        "Market Cap": "$233.16 B",
+        "Price": "$288.88"
     },
     {
         "Company Name": "Pepsico",
@@ -256,7 +256,7 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$208.42 B",
+        "Market Cap": "$208.40 B",
         "Price": "$1,986"
     },
     {
@@ -451,8 +451,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$138.82 B",
-        "Price": "$175.75"
+        "Market Cap": "$138.55 B",
+        "Price": "$175.40"
     },
     {
         "Company Name": "S&P Global",
