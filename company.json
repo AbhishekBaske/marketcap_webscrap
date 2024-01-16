@@ -100,14 +100,14 @@
         "Price": "$162.39"
     },
     {
-        "Company Name": "Samsung",
-        "Market Cap": "$367.38 B",
-        "Price": "$55.34"
-    },
-    {
         "Company Name": "LVMH",
         "Market Cap": "$367.22 B",
         "Price": "$732.65"
+    },
+    {
+        "Company Name": "Samsung",
+        "Market Cap": "$365.87 B",
+        "Price": "$55.11"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$287.31 B",
-        "Price": "$228.72"
+        "Market Cap": "$287.64 B",
+        "Price": "$228.98"
     },
     {
         "Company Name": "AbbVie",
@@ -296,8 +296,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$185.92 B",
-        "Price": "$8.47"
+        "Market Cap": "$186.06 B",
+        "Price": "$8.48"
     },
     {
         "Company Name": "SAP",
@@ -311,12 +311,12 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$180.14 B",
+        "Market Cap": "$179.40 B",
         "Price": "$1.02"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$178.58 B",
+        "Market Cap": "$178.10 B",
         "Price": "$0.52"
     },
     {
@@ -421,7 +421,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$148.47 B",
+        "Market Cap": "$148.02 B",
         "Price": "$0.92"
     },
     {
