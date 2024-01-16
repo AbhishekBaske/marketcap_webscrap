@@ -11,7 +11,7 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.091 T",
+        "Market Cap": "$2.120 T",
         "Price": "$8.64"
     },
     {
@@ -100,14 +100,14 @@
         "Price": "$162.39"
     },
     {
+        "Company Name": "Samsung",
+        "Market Cap": "$367.38 B",
+        "Price": "$55.34"
+    },
+    {
         "Company Name": "LVMH",
         "Market Cap": "$367.22 B",
         "Price": "$732.65"
-    },
-    {
-        "Company Name": "Samsung",
-        "Market Cap": "$366.38 B",
-        "Price": "$55.19"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$287.92 B",
-        "Price": "$228.71"
+        "Market Cap": "$287.31 B",
+        "Price": "$228.72"
     },
     {
         "Company Name": "AbbVie",
@@ -295,14 +295,14 @@
         "Price": "$162.54"
     },
     {
+        "Company Name": "China Mobile",
+        "Market Cap": "$185.92 B",
+        "Price": "$8.47"
+    },
+    {
         "Company Name": "SAP",
         "Market Cap": "$185.44 B",
         "Price": "$158.54"
-    },
-    {
-        "Company Name": "China Mobile",
-        "Market Cap": "$184.37 B",
-        "Price": "$8.41"
     },
     {
         "Company Name": "Alibaba",
@@ -311,12 +311,12 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$179.90 B",
+        "Market Cap": "$180.14 B",
         "Price": "$1.02"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$176.67 B",
+        "Market Cap": "$178.58 B",
         "Price": "$0.52"
     },
     {
@@ -401,8 +401,8 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$150.32 B",
-        "Price": "$0.56"
+        "Market Cap": "$150.70 B",
+        "Price": "$0.57"
     },
     {
         "Company Name": "Texas Instruments",
@@ -421,7 +421,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$148.02 B",
+        "Market Cap": "$148.47 B",
         "Price": "$0.92"
     },
     {
