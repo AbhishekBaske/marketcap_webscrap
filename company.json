@@ -100,14 +100,14 @@
         "Price": "$160.52"
     },
     {
-        "Company Name": "LVMH",
-        "Market Cap": "$356.83 B",
-        "Price": "$711.27"
-    },
-    {
         "Company Name": "Home Depot",
         "Market Cap": "$356.73 B",
         "Price": "$358.43"
+    },
+    {
+        "Company Name": "LVMH",
+        "Market Cap": "$356.23 B",
+        "Price": "$710.07"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -126,8 +126,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$302.83 B",
-        "Price": "$113.50"
+        "Market Cap": "$302.43 B",
+        "Price": "$113.35"
     },
     {
         "Company Name": "Costco",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$246.30 B",
-        "Price": "$460.62"
+        "Market Cap": "$245.22 B",
+        "Price": "$458.61"
     },
     {
         "Company Name": "International Holding Company",
@@ -206,8 +206,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$231.45 B",
-        "Price": "$286.85"
+        "Market Cap": "$231.50 B",
+        "Price": "$286.91"
     },
     {
         "Company Name": "Pepsico",
@@ -256,8 +256,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$206.30 B",
-        "Price": "$1,961"
+        "Market Cap": "$206.05 B",
+        "Price": "$1,959"
     },
     {
         "Company Name": "Cisco",
@@ -456,8 +456,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$136.65 B",
-        "Price": "$173.00"
+        "Market Cap": "$136.31 B",
+        "Price": "$172.56"
     },
     {
         "Company Name": "United Parcel Service",
