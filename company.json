@@ -66,7 +66,7 @@
     },
     {
         "Company Name": "JPMorgan Chase",
-        "Market Cap": "$489.25 B",
+        "Market Cap": "$483.25 B",
         "Price": "$167.99"
     },
     {
@@ -101,7 +101,7 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$363.68 B",
+        "Market Cap": "$363.30 B",
         "Price": "$724.16"
     },
     {
@@ -116,8 +116,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$351.24 B",
-        "Price": "$52.90"
+        "Market Cap": "$351.74 B",
+        "Price": "$52.98"
     },
     {
         "Company Name": "Tencent",
@@ -185,28 +185,28 @@
         "Price": "$59.99"
     },
     {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$258.84 B",
-        "Price": "$461.69"
-    },
-    {
         "Company Name": "AMD",
         "Market Cap": "$256.44 B",
         "Price": "$158.74"
     },
     {
         "Company Name": "Bank of America ",
-        "Market Cap": "$253.74 B",
+        "Market Cap": "$253.60 B",
         "Price": "$32.12"
     },
     {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$246.87 B",
+        "Price": "$461.69"
+    },
+    {
         "Company Name": "International Holding Company",
-        "Market Cap": "$245.42 B",
-        "Price": "$111.89"
+        "Market Cap": "$245.41 B",
+        "Price": "$111.88"
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$234.78 B",
+        "Market Cap": "$234.01 B",
         "Price": "$290.02"
     },
     {
@@ -216,8 +216,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$224.46 B",
-        "Price": "$33.17"
+        "Market Cap": "$223.41 B",
+        "Price": "$33.02"
     },
     {
         "Company Name": "Novartis",
@@ -256,7 +256,7 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$209.07 B",
+        "Market Cap": "$208.68 B",
         "Price": "$1,984"
     },
     {
@@ -331,8 +331,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$169.92 B",
-        "Price": "$46.97"
+        "Market Cap": "$169.60 B",
+        "Price": "$46.88"
     },
     {
         "Company Name": "Intuit",
