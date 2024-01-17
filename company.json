@@ -116,7 +116,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$350.18 B",
+        "Market Cap": "$350.49 B",
         "Price": "$52.74"
     },
     {
@@ -220,6 +220,11 @@
         "Price": "$108.26"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$222.44 B",
+        "Price": "$0.45"
+    },
+    {
         "Company Name": "Accenture",
         "Market Cap": "$221.73 B",
         "Price": "$353.65"
@@ -228,11 +233,6 @@
         "Company Name": "Reliance Industries",
         "Market Cap": "$221.66 B",
         "Price": "$32.76"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$220.17 B",
-        "Price": "$0.45"
     },
     {
         "Company Name": "McDonald",
@@ -301,17 +301,17 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$182.09 B",
+        "Market Cap": "$182.19 B",
         "Price": "$8.30"
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$175.87 B",
+        "Market Cap": "$175.52 B",
         "Price": "$1.00"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$175.42 B",
+        "Market Cap": "$175.33 B",
         "Price": "$0.51"
     },
     {
@@ -396,7 +396,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$148.50 B",
+        "Market Cap": "$148.13 B",
         "Price": "$0.56"
     },
     {
@@ -420,14 +420,14 @@
         "Price": "$235.81"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$142.77 B",
-        "Price": "$0.91"
-    },
-    {
         "Company Name": "Caterpillar",
         "Market Cap": "$141.84 B",
         "Price": "$278.63"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$140.95 B",
+        "Price": "$0.91"
     },
     {
         "Company Name": "HDFC Bank",
