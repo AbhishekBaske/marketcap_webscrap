@@ -150,14 +150,14 @@
         "Price": "$161.48"
     },
     {
-        "Company Name": "Kweichow Moutai",
-        "Market Cap": "$280.42 B",
-        "Price": "$223.23"
-    },
-    {
         "Company Name": "ASML",
         "Market Cap": "$279.93 B",
         "Price": "$706.50"
+    },
+    {
+        "Company Name": "Kweichow Moutai",
+        "Market Cap": "$277.15 B",
+        "Price": "$220.63"
     },
     {
         "Company Name": "Adobe",
@@ -216,8 +216,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$223.41 B",
-        "Price": "$33.02"
+        "Market Cap": "$223.31 B",
+        "Price": "$33.01"
     },
     {
         "Company Name": "Novartis",
@@ -231,8 +231,8 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$221.87 B",
-        "Price": "$0.46"
+        "Market Cap": "$220.63 B",
+        "Price": "$0.45"
     },
     {
         "Company Name": "AstraZeneca",
@@ -301,17 +301,17 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$183.49 B",
-        "Price": "$8.36"
+        "Market Cap": "$181.81 B",
+        "Price": "$8.29"
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$178.59 B",
-        "Price": "$1.02"
+        "Market Cap": "$178.10 B",
+        "Price": "$1.01"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$177.82 B",
+        "Market Cap": "$176.87 B",
         "Price": "$0.52"
     },
     {
@@ -330,14 +330,14 @@
         "Price": "$93.05"
     },
     {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$169.60 B",
-        "Price": "$46.88"
-    },
-    {
         "Company Name": "Intuit",
         "Market Cap": "$169.03 B",
         "Price": "$603.83"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$168.87 B",
+        "Price": "$46.67"
     },
     {
         "Company Name": "Wells Fargo",
@@ -396,8 +396,8 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$149.63 B",
-        "Price": "$0.56"
+        "Market Cap": "$150.37 B",
+        "Price": "$0.57"
     },
     {
         "Company Name": "ServiceNow",
