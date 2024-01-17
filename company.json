@@ -105,14 +105,14 @@
         "Price": "$725.03"
     },
     {
-        "Company Name": "Samsung",
-        "Market Cap": "$359.36 B",
-        "Price": "$54.12"
-    },
-    {
         "Company Name": "Home Depot",
         "Market Cap": "$356.73 B",
         "Price": "$358.43"
+    },
+    {
+        "Company Name": "Samsung",
+        "Market Cap": "$354.90 B",
+        "Price": "$53.45"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -121,7 +121,7 @@
     },
     {
         "Company Name": "Tencent",
-        "Market Cap": "$336.93 B",
+        "Market Cap": "$340.72 B",
         "Price": "$35.68"
     },
     {
@@ -145,14 +145,14 @@
         "Price": "$106.57"
     },
     {
-        "Company Name": "Kweichow Moutai",
-        "Market Cap": "$286.44 B",
-        "Price": "$228.02"
-    },
-    {
         "Company Name": "AbbVie",
         "Market Cap": "$285.09 B",
         "Price": "$161.48"
+    },
+    {
+        "Company Name": "Kweichow Moutai",
+        "Market Cap": "$281.51 B",
+        "Price": "$224.10"
     },
     {
         "Company Name": "ASML",
@@ -215,14 +215,19 @@
         "Price": "$166.17"
     },
     {
-        "Company Name": "ICBC",
-        "Market Cap": "$225.54 B",
-        "Price": "$0.47"
-    },
-    {
         "Company Name": "Reliance Industries",
         "Market Cap": "$223.94 B",
         "Price": "$33.10"
+    },
+    {
+        "Company Name": "ICBC",
+        "Market Cap": "$223.68 B",
+        "Price": "$0.46"
+    },
+    {
+        "Company Name": "Novartis",
+        "Market Cap": "$222.80 B",
+        "Price": "$107.69"
     },
     {
         "Company Name": "Accenture",
@@ -230,9 +235,9 @@
         "Price": "$354.56"
     },
     {
-        "Company Name": "Novartis",
-        "Market Cap": "$222.06 B",
-        "Price": "$107.69"
+        "Company Name": "AstraZeneca",
+        "Market Cap": "$214.23 B",
+        "Price": "$67.27"
     },
     {
         "Company Name": "McDonald",
@@ -250,11 +255,6 @@
         "Price": "$542.00"
     },
     {
-        "Company Name": "AstraZeneca",
-        "Market Cap": "$208.55 B",
-        "Price": "$67.27"
-    },
-    {
         "Company Name": "Hermès",
         "Market Cap": "$208.41 B",
         "Price": "$1,986"
@@ -266,7 +266,7 @@
     },
     {
         "Company Name": "Shell",
-        "Market Cap": "$200.89 B",
+        "Market Cap": "$203.80 B",
         "Price": "$61.76"
     },
     {
@@ -296,8 +296,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$185.42 B",
-        "Price": "$8.45"
+        "Market Cap": "$184.02 B",
+        "Price": "$8.39"
     },
     {
         "Company Name": "SAP",
@@ -306,12 +306,12 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$179.44 B",
-        "Price": "$1.02"
+        "Market Cap": "$177.73 B",
+        "Price": "$1.01"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$177.46 B",
+        "Market Cap": "$176.51 B",
         "Price": "$0.52"
     },
     {
@@ -396,8 +396,8 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$150.10 B",
-        "Price": "$0.57"
+        "Market Cap": "$149.36 B",
+        "Price": "$0.56"
     },
     {
         "Company Name": "ServiceNow",
@@ -425,14 +425,14 @@
         "Price": "$37.95"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$144.19 B",
-        "Price": "$0.92"
-    },
-    {
         "Company Name": "Union Pacific Corporation",
         "Market Cap": "$143.99 B",
         "Price": "$236.21"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$143.32 B",
+        "Price": "$0.91"
     },
     {
         "Company Name": "Morgan Stanley",
@@ -446,7 +446,7 @@
     },
     {
         "Company Name": "Royal Bank Of Canada",
-        "Market Cap": "$138.61 B",
+        "Market Cap": "$139.00 B",
         "Price": "$98.35"
     },
     {
