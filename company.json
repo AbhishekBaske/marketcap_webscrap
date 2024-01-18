@@ -101,8 +101,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$372.29 B",
-        "Price": "$724.18"
+        "Market Cap": "$372.24 B",
+        "Price": "$724.07"
     },
     {
         "Company Name": "Samsung",
@@ -131,8 +131,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$301.40 B",
-        "Price": "$112.97"
+        "Market Cap": "$301.46 B",
+        "Price": "$112.99"
     },
     {
         "Company Name": "Merck",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$249.63 B",
-        "Price": "$463.89"
+        "Market Cap": "$248.55 B",
+        "Price": "$461.87"
     },
     {
         "Company Name": "International Holding Company",
@@ -206,8 +206,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$230.28 B",
-        "Price": "$285.39"
+        "Market Cap": "$231.40 B",
+        "Price": "$286.78"
     },
     {
         "Company Name": "Pepsico",
@@ -235,14 +235,14 @@
         "Price": "$353.65"
     },
     {
-        "Company Name": "Hermès",
-        "Market Cap": "$211.93 B",
-        "Price": "$2,007"
-    },
-    {
         "Company Name": "McDonald",
         "Market Cap": "$211.19 B",
         "Price": "$291.16"
+    },
+    {
+        "Company Name": "Hermès",
+        "Market Cap": "$211.12 B",
+        "Price": "$1,999"
     },
     {
         "Company Name": "Netflix",
@@ -445,14 +445,14 @@
         "Price": "$437.73"
     },
     {
-        "Company Name": "Siemens",
-        "Market Cap": "$138.21 B",
-        "Price": "$174.97"
-    },
-    {
         "Company Name": "General Electric",
         "Market Cap": "$138.09 B",
         "Price": "$126.88"
+    },
+    {
+        "Company Name": "Siemens",
+        "Market Cap": "$138.02 B",
+        "Price": "$174.73"
     },
     {
         "Company Name": "Royal Bank Of Canada",
@@ -491,12 +491,12 @@
     },
     {
         "Company Name": "Airbus",
-        "Market Cap": "$128.56 B",
-        "Price": "$162.59"
+        "Market Cap": "$128.49 B",
+        "Price": "$162.51"
     },
     {
-        "Company Name": "Dior",
-        "Market Cap": "$127.78 B",
-        "Price": "$699.35"
+        "Company Name": "ConocoPhillips",
+        "Market Cap": "$127.72 B",
+        "Price": "$107.57"
     }
 ]
