@@ -110,14 +110,14 @@
         "Price": "$705.00"
     },
     {
+        "Company Name": "Samsung",
+        "Market Cap": "$353.58 B",
+        "Price": "$53.21"
+    },
+    {
         "Company Name": "Procter & Gamble",
         "Market Cap": "$353.39 B",
         "Price": "$149.94"
-    },
-    {
-        "Company Name": "Samsung",
-        "Market Cap": "$352.09 B",
-        "Price": "$52.98"
     },
     {
         "Company Name": "Tencent",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$275.31 B",
-        "Price": "$219.16"
+        "Market Cap": "$275.07 B",
+        "Price": "$218.98"
     },
     {
         "Company Name": "Adobe",
@@ -215,14 +215,14 @@
         "Price": "$166.44"
     },
     {
-        "Company Name": "Novartis",
-        "Market Cap": "$223.98 B",
-        "Price": "$108.26"
+        "Company Name": "ICBC",
+        "Market Cap": "$223.59 B",
+        "Price": "$0.46"
     },
     {
-        "Company Name": "ICBC",
-        "Market Cap": "$222.34 B",
-        "Price": "$0.45"
+        "Company Name": "Novartis",
+        "Market Cap": "$223.41 B",
+        "Price": "$108.26"
     },
     {
         "Company Name": "Accenture",
@@ -240,14 +240,14 @@
         "Price": "$291.16"
     },
     {
-        "Company Name": "AstraZeneca",
-        "Market Cap": "$210.98 B",
-        "Price": "$66.25"
-    },
-    {
         "Company Name": "Netflix",
         "Market Cap": "$210.23 B",
         "Price": "$480.33"
+    },
+    {
+        "Company Name": "AstraZeneca",
+        "Market Cap": "$209.89 B",
+        "Price": "$66.25"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -266,7 +266,7 @@
     },
     {
         "Company Name": "Shell",
-        "Market Cap": "$201.42 B",
+        "Market Cap": "$201.41 B",
         "Price": "$61.04"
     },
     {
@@ -305,19 +305,19 @@
         "Price": "$8.30"
     },
     {
-        "Company Name": "PetroChina",
-        "Market Cap": "$175.52 B",
-        "Price": "$1.00"
-    },
-    {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$175.33 B",
+        "Market Cap": "$173.91 B",
         "Price": "$0.51"
     },
     {
         "Company Name": "Alibaba",
         "Market Cap": "$173.53 B",
         "Price": "$68.93"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$173.33 B",
+        "Price": "$0.99"
     },
     {
         "Company Name": "Comcast",
@@ -370,6 +370,11 @@
         "Price": "$139.32"
     },
     {
+        "Company Name": "HDFC Bank",
+        "Market Cap": "$153.86 B",
+        "Price": "$55.59"
+    },
+    {
         "Company Name": "BHP Group",
         "Market Cap": "$152.89 B",
         "Price": "$60.42"
@@ -395,14 +400,14 @@
         "Price": "$727.54"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$148.13 B",
-        "Price": "$0.56"
-    },
-    {
         "Company Name": "Texas Instruments",
         "Market Cap": "$147.50 B",
         "Price": "$162.42"
+    },
+    {
+        "Company Name": "Bank of China",
+        "Market Cap": "$146.66 B",
+        "Price": "$0.55"
     },
     {
         "Company Name": "Philip Morris",
@@ -425,24 +430,19 @@
         "Price": "$278.63"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$140.95 B",
-        "Price": "$0.91"
+        "Company Name": "Morgan Stanley",
+        "Market Cap": "$141.10 B",
+        "Price": "$84.41"
     },
     {
-        "Company Name": "HDFC Bank",
-        "Market Cap": "$140.68 B",
-        "Price": "$55.59"
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$139.02 B",
+        "Price": "$0.90"
     },
     {
         "Company Name": "S&P Global",
         "Market Cap": "$138.67 B",
         "Price": "$437.73"
-    },
-    {
-        "Company Name": "Morgan Stanley",
-        "Market Cap": "$138.54 B",
-        "Price": "$84.41"
     },
     {
         "Company Name": "General Electric",
@@ -451,7 +451,7 @@
     },
     {
         "Company Name": "Royal Bank Of Canada",
-        "Market Cap": "$137.77 B",
+        "Market Cap": "$137.30 B",
         "Price": "$97.48"
     },
     {
