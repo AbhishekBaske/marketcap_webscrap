@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$367.34 B",
-        "Price": "$55.31"
+        "Market Cap": "$367.83 B",
+        "Price": "$55.39"
     },
     {
         "Company Name": "Home Depot",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$281.22 B",
-        "Price": "$223.87"
+        "Market Cap": "$284.23 B",
+        "Price": "$226.27"
     },
     {
         "Company Name": "Adobe",
@@ -220,14 +220,14 @@
         "Price": "$359.55"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$223.55 B",
+        "Price": "$0.46"
+    },
+    {
         "Company Name": "Novartis",
         "Market Cap": "$222.93 B",
         "Price": "$108.03"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$222.93 B",
-        "Price": "$0.46"
     },
     {
         "Company Name": "Reliance Industries",
@@ -301,18 +301,18 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$182.80 B",
-        "Price": "$8.32"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$175.11 B",
-        "Price": "$1.00"
+        "Market Cap": "$183.22 B",
+        "Price": "$8.34"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$174.85 B",
+        "Market Cap": "$173.43 B",
         "Price": "$0.51"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$173.16 B",
+        "Price": "$0.99"
     },
     {
         "Company Name": "Comcast",
@@ -406,8 +406,8 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$147.98 B",
-        "Price": "$0.56"
+        "Market Cap": "$146.87 B",
+        "Price": "$0.55"
     },
     {
         "Company Name": "HSBC",
@@ -431,8 +431,8 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$141.85 B",
-        "Price": "$0.91"
+        "Market Cap": "$140.55 B",
+        "Price": "$0.90"
     },
     {
         "Company Name": "Morgan Stanley",
