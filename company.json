@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$284.05 B",
-        "Price": "$226.12"
+        "Market Cap": "$283.72 B",
+        "Price": "$225.86"
     },
     {
         "Company Name": "Toyota",
@@ -220,19 +220,19 @@
         "Price": "$359.55"
     },
     {
-        "Company Name": "ICBC",
-        "Market Cap": "$222.94 B",
-        "Price": "$0.46"
-    },
-    {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$222.17 B",
-        "Price": "$32.84"
-    },
-    {
         "Company Name": "Novartis",
         "Market Cap": "$222.05 B",
         "Price": "$108.03"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$222.02 B",
+        "Price": "$32.81"
+    },
+    {
+        "Company Name": "ICBC",
+        "Market Cap": "$221.69 B",
+        "Price": "$0.45"
     },
     {
         "Company Name": "McDonald",
@@ -301,28 +301,28 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$184.22 B",
-        "Price": "$8.38"
+        "Market Cap": "$183.09 B",
+        "Price": "$8.33"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$173.91 B",
+        "Market Cap": "$173.44 B",
         "Price": "$0.51"
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$172.68 B",
+        "Market Cap": "$173.41 B",
         "Price": "$0.99"
-    },
-    {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$171.55 B",
-        "Price": "$47.42"
     },
     {
         "Company Name": "Comcast",
         "Market Cap": "$171.22 B",
         "Price": "$42.54"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$171.19 B",
+        "Price": "$47.32"
     },
     {
         "Company Name": "Intuit",
@@ -401,7 +401,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$146.51 B",
+        "Market Cap": "$146.14 B",
         "Price": "$0.55"
     },
     {
@@ -431,7 +431,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$140.77 B",
+        "Market Cap": "$141.21 B",
         "Price": "$0.90"
     },
     {
