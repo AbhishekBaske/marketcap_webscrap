@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$285.89 B",
-        "Price": "$227.58"
+        "Market Cap": "$286.01 B",
+        "Price": "$227.69"
     },
     {
         "Company Name": "AMD",
@@ -201,8 +201,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$241.04 B",
-        "Price": "$109.89"
+        "Market Cap": "$238.95 B",
+        "Price": "$108.94"
     },
     {
         "Company Name": "Accenture",
@@ -221,7 +221,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$223.51 B",
+        "Market Cap": "$222.89 B",
         "Price": "$0.46"
     },
     {
@@ -301,23 +301,18 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$179.56 B",
-        "Price": "$8.17"
+        "Market Cap": "$179.14 B",
+        "Price": "$8.15"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$175.89 B",
-        "Price": "$0.52"
+        "Market Cap": "$175.41 B",
+        "Price": "$0.51"
     },
     {
         "Company Name": "Comcast",
         "Market Cap": "$174.48 B",
         "Price": "$43.35"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$174.22 B",
-        "Price": "$0.99"
     },
     {
         "Company Name": "Intuit",
@@ -328,6 +323,11 @@
         "Company Name": "Alibaba",
         "Market Cap": "$173.54 B",
         "Price": "$69.42"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$173.49 B",
+        "Price": "$0.99"
     },
     {
         "Company Name": "Wells Fargo",
@@ -421,7 +421,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$143.77 B",
+        "Market Cap": "$143.33 B",
         "Price": "$0.91"
     },
     {
