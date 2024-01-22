@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.049 T",
-        "Price": "$8.47"
+        "Market Cap": "$2.046 T",
+        "Price": "$8.46"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$363.93 B",
-        "Price": "$724.19"
+        "Market Cap": "$362.73 B",
+        "Price": "$721.79"
     },
     {
         "Company Name": "Home Depot",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$298.38 B",
-        "Price": "$111.83"
+        "Market Cap": "$298.19 B",
+        "Price": "$111.76"
     },
     {
         "Company Name": "AbbVie",
@@ -196,18 +196,18 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$249.17 B",
-        "Price": "$465.99"
+        "Market Cap": "$248.15 B",
+        "Price": "$464.08"
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$239.79 B",
-        "Price": "$109.32"
+        "Market Cap": "$239.37 B",
+        "Price": "$109.13"
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$228.41 B",
-        "Price": "$283.01"
+        "Market Cap": "$229.10 B",
+        "Price": "$283.87"
     },
     {
         "Company Name": "Accenture",
@@ -245,14 +245,14 @@
         "Price": "$551.75"
     },
     {
-        "Company Name": "Hermès",
-        "Market Cap": "$211.93 B",
-        "Price": "$2,014"
-    },
-    {
         "Company Name": "Netflix",
         "Market Cap": "$211.37 B",
         "Price": "$482.95"
+    },
+    {
+        "Company Name": "Hermès",
+        "Market Cap": "$210.39 B",
+        "Price": "$1,999"
     },
     {
         "Company Name": "Cisco",
@@ -440,11 +440,6 @@
         "Price": "$129.81"
     },
     {
-        "Company Name": "Siemens",
-        "Market Cap": "$140.31 B",
-        "Price": "$177.63"
-    },
-    {
         "Company Name": "Royal Bank Of Canada",
         "Market Cap": "$140.11 B",
         "Price": "$99.62"
@@ -458,6 +453,11 @@
         "Company Name": "S&P Global",
         "Market Cap": "$140.00 B",
         "Price": "$441.95"
+    },
+    {
+        "Company Name": "Siemens",
+        "Market Cap": "$139.64 B",
+        "Price": "$176.78"
     },
     {
         "Company Name": "Applied Materials",
