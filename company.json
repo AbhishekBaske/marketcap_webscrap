@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.058 T",
-        "Price": "$8.51"
+        "Market Cap": "$2.065 T",
+        "Price": "$8.54"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -36,7 +36,7 @@
     },
     {
         "Company Name": "Berkshire Hathaway ",
-        "Market Cap": "$798.32 B",
+        "Market Cap": "$798.46 B",
         "Price": "$366.99"
     },
     {
@@ -101,18 +101,18 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$371.53 B",
-        "Price": "$56.00"
+        "Market Cap": "$376.77 B",
+        "Price": "$56.79"
+    },
+    {
+        "Company Name": "LVMH",
+        "Market Cap": "$361.09 B",
+        "Price": "$718.54"
     },
     {
         "Company Name": "Home Depot",
         "Market Cap": "$360.69 B",
         "Price": "$362.41"
-    },
-    {
-        "Company Name": "LVMH",
-        "Market Cap": "$358.95 B",
-        "Price": "$718.61"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -141,8 +141,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$299.22 B",
-        "Price": "$112.15"
+        "Market Cap": "$299.34 B",
+        "Price": "$112.19"
     },
     {
         "Company Name": "ASML",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$248.36 B",
-        "Price": "$464.47"
+        "Market Cap": "$248.33 B",
+        "Price": "$464.42"
     },
     {
         "Company Name": "International Holding Company",
@@ -216,23 +216,23 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$226.72 B",
-        "Price": "$280.98"
+        "Market Cap": "$226.86 B",
+        "Price": "$281.09"
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$224.73 B",
+        "Market Cap": "$224.74 B",
         "Price": "$0.46"
-    },
-    {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$222.77 B",
-        "Price": "$32.92"
     },
     {
         "Company Name": "Novartis",
         "Market Cap": "$222.46 B",
         "Price": "$108.23"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$221.23 B",
+        "Price": "$32.70"
     },
     {
         "Company Name": "McDonald",
@@ -251,7 +251,7 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$209.18 B",
+        "Market Cap": "$210.19 B",
         "Price": "$1,997"
     },
     {
@@ -276,7 +276,7 @@
     },
     {
         "Company Name": "Shell",
-        "Market Cap": "$198.70 B",
+        "Market Cap": "$198.68 B",
         "Price": "$61.11"
     },
     {
@@ -301,7 +301,7 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$182.62 B",
+        "Market Cap": "$182.63 B",
         "Price": "$8.31"
     },
     {
@@ -326,18 +326,13 @@
     },
     {
         "Company Name": "Alibaba",
-        "Market Cap": "$173.83 B",
+        "Market Cap": "$173.54 B",
         "Price": "$69.42"
     },
     {
         "Company Name": "Wells Fargo",
         "Market Cap": "$173.17 B",
         "Price": "$48.12"
-    },
-    {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$171.74 B",
-        "Price": "$47.47"
     },
     {
         "Company Name": "Danaher",
@@ -351,8 +346,13 @@
     },
     {
         "Company Name": "QUALCOMM",
-        "Market Cap": "$169.13 B",
+        "Market Cap": "$169.71 B",
         "Price": "$151.96"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$168.09 B",
+        "Price": "$46.46"
     },
     {
         "Company Name": "Verizon",
@@ -431,7 +431,7 @@
     },
     {
         "Company Name": "HDFC Bank",
-        "Market Cap": "$141.32 B",
+        "Market Cap": "$141.35 B",
         "Price": "$55.84"
     },
     {
@@ -461,8 +461,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$138.54 B",
-        "Price": "$175.39"
+        "Market Cap": "$138.53 B",
+        "Price": "$175.37"
     },
     {
         "Company Name": "Uber",
