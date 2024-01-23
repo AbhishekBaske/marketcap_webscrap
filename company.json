@@ -101,13 +101,13 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$372.16 B",
-        "Price": "$56.10"
+        "Market Cap": "$369.96 B",
+        "Price": "$55.80"
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$362.69 B",
-        "Price": "$721.72"
+        "Market Cap": "$362.45 B",
+        "Price": "$721.25"
     },
     {
         "Company Name": "Home Depot",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$299.40 B",
-        "Price": "$112.22"
+        "Market Cap": "$299.25 B",
+        "Price": "$112.16"
     },
     {
         "Company Name": "AbbVie",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$247.27 B",
-        "Price": "$462.44"
+        "Market Cap": "$247.11 B",
+        "Price": "$462.14"
     },
     {
         "Company Name": "International Holding Company",
@@ -211,8 +211,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$230.20 B",
-        "Price": "$285.23"
+        "Market Cap": "$230.09 B",
+        "Price": "$285.09"
     },
     {
         "Company Name": "Pepsico",
@@ -221,7 +221,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$224.74 B",
+        "Market Cap": "$224.30 B",
         "Price": "$0.45"
     },
     {
@@ -231,7 +231,7 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$221.26 B",
+        "Market Cap": "$221.25 B",
         "Price": "$32.70"
     },
     {
@@ -251,8 +251,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$210.37 B",
-        "Price": "$1,999"
+        "Market Cap": "$210.23 B",
+        "Price": "$1,998"
     },
     {
         "Company Name": "Cisco",
@@ -301,7 +301,7 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$182.63 B",
+        "Market Cap": "$179.48 B",
         "Price": "$8.16"
     },
     {
@@ -321,18 +321,18 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$174.55 B",
+        "Market Cap": "$174.35 B",
         "Price": "$0.51"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$174.06 B",
-        "Price": "$0.98"
     },
     {
         "Company Name": "Walt Disney",
         "Market Cap": "$174.02 B",
         "Price": "$95.08"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$171.84 B",
+        "Price": "$0.98"
     },
     {
         "Company Name": "Alibaba",
@@ -351,7 +351,7 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$168.12 B",
+        "Market Cap": "$168.11 B",
         "Price": "$46.47"
     },
     {
@@ -406,7 +406,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$148.00 B",
+        "Market Cap": "$147.01 B",
         "Price": "$0.56"
     },
     {
@@ -430,11 +430,6 @@
         "Price": "$131.23"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$142.52 B",
-        "Price": "$0.90"
-    },
-    {
         "Company Name": "HDFC Bank",
         "Market Cap": "$142.01 B",
         "Price": "$56.10"
@@ -451,8 +446,13 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$140.52 B",
-        "Price": "$177.90"
+        "Market Cap": "$140.43 B",
+        "Price": "$177.78"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$140.32 B",
+        "Price": "$0.90"
     },
     {
         "Company Name": "Applied Materials",
