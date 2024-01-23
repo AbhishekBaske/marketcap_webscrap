@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.036 T",
-        "Price": "$8.42"
+        "Market Cap": "$2.042 T",
+        "Price": "$8.44"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$364.59 B",
-        "Price": "$729.90"
+        "Market Cap": "$362.74 B",
+        "Price": "$726.19"
     },
     {
         "Company Name": "Home Depot",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$299.64 B",
-        "Price": "$112.31"
+        "Market Cap": "$299.05 B",
+        "Price": "$112.09"
     },
     {
         "Company Name": "AbbVie",
@@ -196,18 +196,18 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$249.89 B",
-        "Price": "$465.75"
+        "Market Cap": "$247.87 B",
+        "Price": "$461.98"
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.59 B",
-        "Price": "$108.77"
+        "Market Cap": "$238.65 B",
+        "Price": "$108.80"
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$230.31 B",
-        "Price": "$285.64"
+        "Market Cap": "$231.01 B",
+        "Price": "$286.50"
     },
     {
         "Company Name": "Accenture",
@@ -230,14 +230,14 @@
         "Price": "$108.47"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$217.05 B",
-        "Price": "$32.08"
-    },
-    {
         "Company Name": "McDonald",
         "Market Cap": "$216.44 B",
         "Price": "$298.41"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$215.96 B",
+        "Price": "$31.92"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -250,14 +250,14 @@
         "Price": "$485.71"
     },
     {
-        "Company Name": "Hermès",
-        "Market Cap": "$210.83 B",
-        "Price": "$2,013"
-    },
-    {
         "Company Name": "Cisco",
         "Market Cap": "$209.55 B",
         "Price": "$51.57"
+    },
+    {
+        "Company Name": "Hermès",
+        "Market Cap": "$209.41 B",
+        "Price": "$2,000"
     },
     {
         "Company Name": "AstraZeneca",
@@ -301,8 +301,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$181.04 B",
-        "Price": "$8.23"
+        "Market Cap": "$179.49 B",
+        "Price": "$8.16"
     },
     {
         "Company Name": "Intuit",
@@ -351,8 +351,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$169.31 B",
-        "Price": "$46.80"
+        "Market Cap": "$168.37 B",
+        "Price": "$46.54"
     },
     {
         "Company Name": "Verizon",
@@ -420,11 +420,6 @@
         "Price": "$0.56"
     },
     {
-        "Company Name": "Siemens",
-        "Market Cap": "$143.82 B",
-        "Price": "$179.34"
-    },
-    {
         "Company Name": "Philip Morris",
         "Market Cap": "$143.48 B",
         "Price": "$92.43"
@@ -453,6 +448,11 @@
         "Company Name": "Morgan Stanley",
         "Market Cap": "$140.70 B",
         "Price": "$85.73"
+    },
+    {
+        "Company Name": "Siemens",
+        "Market Cap": "$140.49 B",
+        "Price": "$177.86"
     },
     {
         "Company Name": "Applied Materials",
