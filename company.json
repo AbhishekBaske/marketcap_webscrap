@@ -96,13 +96,13 @@
     },
     {
         "Company Name": "Exxon Mobil",
-        "Market Cap": "$386.96 B",
+        "Market Cap": "$387.48 B",
         "Price": "$96.82"
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$373.17 B",
-        "Price": "$56.28"
+        "Market Cap": "$372.67 B",
+        "Price": "$56.21"
     },
     {
         "Company Name": "LVMH",
@@ -160,14 +160,14 @@
         "Price": "$225.00"
     },
     {
+        "Company Name": "AMD",
+        "Market Cap": "$281.46 B",
+        "Price": "$168.18"
+    },
+    {
         "Company Name": "Adobe",
         "Market Cap": "$276.42 B",
         "Price": "$603.59"
-    },
-    {
-        "Company Name": "AMD",
-        "Market Cap": "$271.69 B",
-        "Price": "$168.18"
     },
     {
         "Company Name": "Toyota",
@@ -201,8 +201,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$239.99 B",
-        "Price": "$109.41"
+        "Market Cap": "$239.97 B",
+        "Price": "$109.40"
     },
     {
         "Company Name": "Roche",
@@ -231,8 +231,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$222.06 B",
-        "Price": "$32.82"
+        "Market Cap": "$218.02 B",
+        "Price": "$32.22"
     },
     {
         "Company Name": "McDonald",
@@ -340,14 +340,14 @@
         "Price": "$231.97"
     },
     {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$170.85 B",
-        "Price": "$47.22"
-    },
-    {
         "Company Name": "QUALCOMM",
         "Market Cap": "$170.73 B",
         "Price": "$152.87"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$169.41 B",
+        "Price": "$46.82"
     },
     {
         "Company Name": "PetroChina",
@@ -411,7 +411,7 @@
     },
     {
         "Company Name": "HSBC",
-        "Market Cap": "$146.86 B",
+        "Market Cap": "$146.81 B",
         "Price": "$38.33"
     },
     {
@@ -480,14 +480,14 @@
         "Price": "$64.55"
     },
     {
+        "Company Name": "Inditex",
+        "Market Cap": "$132.63 B",
+        "Price": "$21.26"
+    },
+    {
         "Company Name": "Honeywell",
         "Market Cap": "$132.53 B",
         "Price": "$201.04"
-    },
-    {
-        "Company Name": "Inditex",
-        "Market Cap": "$132.36 B",
-        "Price": "$21.26"
     },
     {
         "Company Name": "Intuitive Surgical",
