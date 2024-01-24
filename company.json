@@ -101,8 +101,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$374.22 B",
-        "Price": "$749.18"
+        "Market Cap": "$373.51 B",
+        "Price": "$747.77"
     },
     {
         "Company Name": "Samsung",
@@ -151,8 +151,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$295.46 B",
-        "Price": "$110.74"
+        "Market Cap": "$294.47 B",
+        "Price": "$110.37"
     },
     {
         "Company Name": "Kweichow Moutai",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$250.14 B",
-        "Price": "$467.80"
+        "Market Cap": "$249.97 B",
+        "Price": "$467.48"
     },
     {
         "Company Name": "International Holding Company",
@@ -221,8 +221,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$227.35 B",
-        "Price": "$281.76"
+        "Market Cap": "$227.02 B",
+        "Price": "$281.36"
     },
     {
         "Company Name": "Novartis",
@@ -251,8 +251,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$211.66 B",
-        "Price": "$1,992"
+        "Market Cap": "$211.42 B",
+        "Price": "$1,990"
     },
     {
         "Company Name": "Cisco",
@@ -426,8 +426,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$142.69 B",
-        "Price": "$180.65"
+        "Market Cap": "$143.49 B",
+        "Price": "$181.65"
     },
     {
         "Company Name": "Philip Morris",
@@ -475,14 +475,14 @@
         "Price": "$185.47"
     },
     {
-        "Company Name": "Prosus",
-        "Market Cap": "$134.40 B",
-        "Price": "$30.76"
-    },
-    {
         "Company Name": "Honeywell",
         "Market Cap": "$133.78 B",
         "Price": "$202.94"
+    },
+    {
+        "Company Name": "Prosus",
+        "Market Cap": "$133.35 B",
+        "Price": "$30.52"
     },
     {
         "Company Name": "Uber",
@@ -495,8 +495,8 @@
         "Price": "$371.41"
     },
     {
-        "Company Name": "Inditex",
-        "Market Cap": "$129.93 B",
-        "Price": "$20.87"
+        "Company Name": "Dior",
+        "Market Cap": "$130.23 B",
+        "Price": "$720.20"
     }
 ]
