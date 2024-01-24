@@ -12,7 +12,7 @@
     {
         "Company Name": "Saudi Aramco",
         "Market Cap": "$2.065 T",
-        "Price": "$8.44"
+        "Price": "$8.45"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -101,13 +101,13 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$365.48 B",
-        "Price": "$55.10"
+        "Market Cap": "$364.63 B",
+        "Price": "$54.97"
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$363.63 B",
-        "Price": "$727.98"
+        "Market Cap": "$363.79 B",
+        "Price": "$728.30"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$299.08 B",
-        "Price": "$110.27"
+        "Market Cap": "$299.13 B",
+        "Price": "$110.29"
     },
     {
         "Company Name": "AbbVie",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$282.81 B",
-        "Price": "$225.13"
+        "Market Cap": "$283.17 B",
+        "Price": "$225.42"
     },
     {
         "Company Name": "Toyota",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$248.49 B",
-        "Price": "$463.13"
+        "Market Cap": "$248.60 B",
+        "Price": "$463.34"
     },
     {
         "Company Name": "International Holding Company",
@@ -216,18 +216,18 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$229.74 B",
-        "Price": "$280.27"
+        "Market Cap": "$229.78 B",
+        "Price": "$280.32"
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$226.32 B",
+        "Market Cap": "$226.33 B",
         "Price": "$0.47"
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$222.61 B",
-        "Price": "$31.97"
+        "Market Cap": "$222.46 B",
+        "Price": "$31.95"
     },
     {
         "Company Name": "Novartis",
@@ -266,8 +266,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$205.77 B",
-        "Price": "$1,965"
+        "Market Cap": "$205.86 B",
+        "Price": "$1,966"
     },
     {
         "Company Name": "Shell",
@@ -306,8 +306,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$181.15 B",
-        "Price": "$8.25"
+        "Market Cap": "$181.30 B",
+        "Price": "$8.26"
     },
     {
         "Company Name": "Intuit",
@@ -321,7 +321,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$177.00 B",
+        "Market Cap": "$176.91 B",
         "Price": "$0.52"
     },
     {
@@ -336,18 +336,13 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$174.86 B",
+        "Market Cap": "$175.02 B",
         "Price": "$1.00"
     },
     {
         "Company Name": "Walt Disney",
         "Market Cap": "$171.62 B",
         "Price": "$93.77"
-    },
-    {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$171.62 B",
-        "Price": "$46.42"
     },
     {
         "Company Name": "Danaher",
@@ -358,6 +353,11 @@
         "Company Name": "QUALCOMM",
         "Market Cap": "$171.43 B",
         "Price": "$153.50"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$170.44 B",
+        "Price": "$46.10"
     },
     {
         "Company Name": "Amgen",
@@ -396,7 +396,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$148.55 B",
+        "Market Cap": "$149.22 B",
         "Price": "$0.56"
     },
     {
@@ -421,7 +421,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$144.98 B",
+        "Market Cap": "$145.58 B",
         "Price": "$0.91"
     },
     {
@@ -451,8 +451,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$138.99 B",
-        "Price": "$175.96"
+        "Market Cap": "$139.05 B",
+        "Price": "$176.03"
     },
     {
         "Company Name": "Applied Materials",
