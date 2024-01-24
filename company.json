@@ -106,7 +106,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$368.46 B",
+        "Market Cap": "$369.05 B",
         "Price": "$55.55"
     },
     {
@@ -311,12 +311,12 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$178.94 B",
+        "Market Cap": "$179.03 B",
         "Price": "$0.52"
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$178.31 B",
+        "Market Cap": "$178.44 B",
         "Price": "$1.02"
     },
     {
@@ -396,7 +396,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$152.32 B",
+        "Market Cap": "$152.03 B",
         "Price": "$0.57"
     },
     {
@@ -405,14 +405,14 @@
         "Price": "$64.24"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$148.62 B",
+        "Price": "$0.93"
+    },
+    {
         "Company Name": "HSBC",
         "Market Cap": "$148.42 B",
         "Price": "$38.75"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$148.08 B",
-        "Price": "$0.93"
     },
     {
         "Company Name": "Caterpillar",
