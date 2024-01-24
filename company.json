@@ -101,8 +101,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$374.33 B",
-        "Price": "$749.40"
+        "Market Cap": "$374.22 B",
+        "Price": "$749.18"
     },
     {
         "Company Name": "Samsung",
@@ -145,14 +145,14 @@
         "Price": "$119.84"
     },
     {
-        "Company Name": "Nestlé",
-        "Market Cap": "$296.51 B",
-        "Price": "$111.13"
-    },
-    {
         "Company Name": "AbbVie",
         "Market Cap": "$295.72 B",
         "Price": "$167.50"
+    },
+    {
+        "Company Name": "Nestlé",
+        "Market Cap": "$295.46 B",
+        "Price": "$110.74"
     },
     {
         "Company Name": "Kweichow Moutai",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$250.61 B",
-        "Price": "$468.68"
+        "Market Cap": "$250.14 B",
+        "Price": "$467.80"
     },
     {
         "Company Name": "International Holding Company",
@@ -221,8 +221,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$227.54 B",
-        "Price": "$281.99"
+        "Market Cap": "$227.35 B",
+        "Price": "$281.76"
     },
     {
         "Company Name": "Novartis",
@@ -251,8 +251,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$211.59 B",
-        "Price": "$1,991"
+        "Market Cap": "$211.66 B",
+        "Price": "$1,992"
     },
     {
         "Company Name": "Cisco",
@@ -425,14 +425,14 @@
         "Price": "$288.83"
     },
     {
+        "Company Name": "Siemens",
+        "Market Cap": "$142.69 B",
+        "Price": "$180.65"
+    },
+    {
         "Company Name": "Philip Morris",
         "Market Cap": "$142.51 B",
         "Price": "$91.80"
-    },
-    {
-        "Company Name": "Siemens",
-        "Market Cap": "$142.50 B",
-        "Price": "$180.41"
     },
     {
         "Company Name": "Morgan Stanley",
@@ -476,8 +476,8 @@
     },
     {
         "Company Name": "Prosus",
-        "Market Cap": "$134.09 B",
-        "Price": "$30.69"
+        "Market Cap": "$134.40 B",
+        "Price": "$30.76"
     },
     {
         "Company Name": "Honeywell",
@@ -495,8 +495,8 @@
         "Price": "$371.41"
     },
     {
-        "Company Name": "Dior",
-        "Market Cap": "$130.03 B",
-        "Price": "$719.11"
+        "Company Name": "Inditex",
+        "Market Cap": "$129.93 B",
+        "Price": "$20.87"
     }
 ]
