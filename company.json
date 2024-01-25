@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.046 T",
-        "Price": "$8.46"
+        "Market Cap": "$2.043 T",
+        "Price": "$8.44"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -101,8 +101,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$370.82 B",
-        "Price": "$742.38"
+        "Market Cap": "$368.70 B",
+        "Price": "$738.13"
     },
     {
         "Company Name": "Samsung",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$293.72 B",
-        "Price": "$110.09"
+        "Market Cap": "$292.17 B",
+        "Price": "$109.51"
     },
     {
         "Company Name": "AbbVie",
@@ -196,13 +196,13 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$251.14 B",
-        "Price": "$469.68"
+        "Market Cap": "$249.60 B",
+        "Price": "$466.79"
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.59 B",
-        "Price": "$108.77"
+        "Market Cap": "$238.89 B",
+        "Price": "$108.91"
     },
     {
         "Company Name": "Netflix",
@@ -226,8 +226,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$227.09 B",
-        "Price": "$281.64"
+        "Market Cap": "$226.07 B",
+        "Price": "$280.37"
     },
     {
         "Company Name": "Novartis",
@@ -246,8 +246,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$209.80 B",
-        "Price": "$2,003"
+        "Market Cap": "$209.30 B",
+        "Price": "$1,998"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -430,14 +430,14 @@
         "Price": "$174.14"
     },
     {
-        "Company Name": "Siemens",
-        "Market Cap": "$143.75 B",
-        "Price": "$181.99"
-    },
-    {
         "Company Name": "Morgan Stanley",
         "Market Cap": "$143.72 B",
         "Price": "$87.57"
+    },
+    {
+        "Company Name": "Siemens",
+        "Market Cap": "$143.67 B",
+        "Price": "$181.88"
     },
     {
         "Company Name": "General Electric",
@@ -471,8 +471,8 @@
     },
     {
         "Company Name": "Prosus",
-        "Market Cap": "$134.57 B",
-        "Price": "$30.80"
+        "Market Cap": "$134.88 B",
+        "Price": "$30.87"
     },
     {
         "Company Name": "United Parcel Service",
