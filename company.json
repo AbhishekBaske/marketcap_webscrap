@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$418.55 B",
-        "Price": "$837.92"
+        "Market Cap": "$417.73 B",
+        "Price": "$836.29"
     },
     {
         "Company Name": "Mastercard",
@@ -141,8 +141,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$302.87 B",
-        "Price": "$113.52"
+        "Market Cap": "$303.21 B",
+        "Price": "$113.64"
     },
     {
         "Company Name": "Costco",
@@ -191,8 +191,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$257.03 B",
-        "Price": "$480.69"
+        "Market Cap": "$258.02 B",
+        "Price": "$482.54"
     },
     {
         "Company Name": "Coca-Cola",
@@ -221,13 +221,18 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$231.05 B",
-        "Price": "$286.72"
+        "Market Cap": "$231.57 B",
+        "Price": "$287.35"
     },
     {
         "Company Name": "Pepsico",
         "Market Cap": "$228.99 B",
         "Price": "$166.56"
+    },
+    {
+        "Company Name": "Hermès",
+        "Market Cap": "$220.98 B",
+        "Price": "$2,110"
     },
     {
         "Company Name": "Novartis",
@@ -238,11 +243,6 @@
         "Company Name": "Reliance Industries",
         "Market Cap": "$220.40 B",
         "Price": "$32.58"
-    },
-    {
-        "Company Name": "Hermès",
-        "Market Cap": "$219.75 B",
-        "Price": "$2,098"
     },
     {
         "Company Name": "McDonald",
@@ -425,24 +425,24 @@
         "Price": "$241.57"
     },
     {
+        "Company Name": "Siemens",
+        "Market Cap": "$144.57 B",
+        "Price": "$183.03"
+    },
+    {
         "Company Name": "Morgan Stanley",
         "Market Cap": "$144.46 B",
         "Price": "$88.02"
     },
     {
-        "Company Name": "Siemens",
-        "Market Cap": "$144.42 B",
-        "Price": "$182.83"
-    },
-    {
-        "Company Name": "Dior",
-        "Market Cap": "$144.04 B",
-        "Price": "$798.43"
-    },
-    {
         "Company Name": "Applied Materials",
         "Market Cap": "$143.63 B",
         "Price": "$172.63"
+    },
+    {
+        "Company Name": "Dior",
+        "Market Cap": "$143.26 B",
+        "Price": "$794.08"
     },
     {
         "Company Name": "HDFC Bank",
@@ -486,8 +486,8 @@
     },
     {
         "Company Name": "Prosus",
-        "Market Cap": "$134.05 B",
-        "Price": "$30.68"
+        "Market Cap": "$133.88 B",
+        "Price": "$30.64"
     },
     {
         "Company Name": "Honeywell",
