@@ -95,14 +95,14 @@
         "Price": "$102.13"
     },
     {
+        "Company Name": "LVMH",
+        "Market Cap": "$402.20 B",
+        "Price": "$805.19"
+    },
+    {
         "Company Name": "Johnson & Johnson",
         "Market Cap": "$384.10 B",
         "Price": "$159.56"
-    },
-    {
-        "Company Name": "LVMH",
-        "Market Cap": "$370.47 B",
-        "Price": "$741.67"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$298.46 B",
-        "Price": "$111.86"
+        "Market Cap": "$300.30 B",
+        "Price": "$112.55"
     },
     {
         "Company Name": "AbbVie",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$253.56 B",
-        "Price": "$474.19"
+        "Market Cap": "$254.94 B",
+        "Price": "$476.79"
     },
     {
         "Company Name": "Netflix",
@@ -216,7 +216,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$232.84 B",
+        "Market Cap": "$232.23 B",
         "Price": "$0.49"
     },
     {
@@ -226,8 +226,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$226.97 B",
-        "Price": "$281.65"
+        "Market Cap": "$228.22 B",
+        "Price": "$283.20"
     },
     {
         "Company Name": "Novartis",
@@ -246,8 +246,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$215.42 B",
-        "Price": "$2,057"
+        "Market Cap": "$214.92 B",
+        "Price": "$2,052"
     },
     {
         "Company Name": "Cisco",
@@ -305,14 +305,14 @@
         "Price": "$144.43"
     },
     {
+        "Company Name": "China Mobile",
+        "Market Cap": "$189.30 B",
+        "Price": "$8.62"
+    },
+    {
         "Company Name": "Alibaba",
         "Market Cap": "$187.64 B",
         "Price": "$73.85"
-    },
-    {
-        "Company Name": "China Mobile",
-        "Market Cap": "$186.49 B",
-        "Price": "$8.49"
     },
     {
         "Company Name": "Agricultural Bank of China",
@@ -460,6 +460,11 @@
         "Price": "$129.93"
     },
     {
+        "Company Name": "Dior",
+        "Market Cap": "$139.21 B",
+        "Price": "$771.65"
+    },
+    {
         "Company Name": "Royal Bank Of Canada",
         "Market Cap": "$138.13 B",
         "Price": "$98.21"
@@ -493,10 +498,5 @@
         "Company Name": "Inditex",
         "Market Cap": "$132.49 B",
         "Price": "$21.28"
-    },
-    {
-        "Company Name": "Intuitive Surgical",
-        "Market Cap": "$132.01 B",
-        "Price": "$374.97"
     }
 ]
