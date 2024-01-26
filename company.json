@@ -85,6 +85,11 @@
         "Price": "$162.84"
     },
     {
+        "Company Name": "LVMH",
+        "Market Cap": "$412.69 B",
+        "Price": "$826.19"
+    },
+    {
         "Company Name": "Mastercard",
         "Market Cap": "$409.62 B",
         "Price": "$436.80"
@@ -93,11 +98,6 @@
         "Company Name": "Exxon Mobil",
         "Market Cap": "$408.19 B",
         "Price": "$102.13"
-    },
-    {
-        "Company Name": "LVMH",
-        "Market Cap": "$407.55 B",
-        "Price": "$815.91"
     },
     {
         "Company Name": "Johnson & Johnson",
@@ -140,14 +140,14 @@
         "Price": "$120.13"
     },
     {
-        "Company Name": "Nestlé",
-        "Market Cap": "$301.87 B",
-        "Price": "$113.14"
-    },
-    {
         "Company Name": "Costco",
         "Market Cap": "$301.69 B",
         "Price": "$679.90"
+    },
+    {
+        "Company Name": "Nestlé",
+        "Market Cap": "$300.43 B",
+        "Price": "$112.60"
     },
     {
         "Company Name": "AbbVie",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$255.41 B",
-        "Price": "$477.65"
+        "Market Cap": "$254.97 B",
+        "Price": "$476.84"
     },
     {
         "Company Name": "Netflix",
@@ -221,8 +221,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$230.50 B",
-        "Price": "$286.03"
+        "Market Cap": "$229.57 B",
+        "Price": "$284.87"
     },
     {
         "Company Name": "Pepsico",
@@ -241,8 +241,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$216.48 B",
-        "Price": "$2,067"
+        "Market Cap": "$216.07 B",
+        "Price": "$2,063"
     },
     {
         "Company Name": "McDonald",
@@ -435,19 +435,24 @@
         "Price": "$172.63"
     },
     {
+        "Company Name": "Siemens",
+        "Market Cap": "$142.92 B",
+        "Price": "$180.93"
+    },
+    {
         "Company Name": "HDFC Bank",
         "Market Cap": "$142.84 B",
         "Price": "$56.43"
     },
     {
-        "Company Name": "Siemens",
-        "Market Cap": "$142.68 B",
-        "Price": "$180.63"
-    },
-    {
         "Company Name": "S&P Global",
         "Market Cap": "$142.35 B",
         "Price": "$449.34"
+    },
+    {
+        "Company Name": "Dior",
+        "Market Cap": "$141.94 B",
+        "Price": "$786.80"
     },
     {
         "Company Name": "Philip Morris",
@@ -458,11 +463,6 @@
         "Company Name": "General Electric",
         "Market Cap": "$141.41 B",
         "Price": "$129.93"
-    },
-    {
-        "Company Name": "Dior",
-        "Market Cap": "$140.18 B",
-        "Price": "$777.06"
     },
     {
         "Company Name": "Royal Bank Of Canada",
@@ -490,13 +490,13 @@
         "Price": "$202.56"
     },
     {
+        "Company Name": "Prosus",
+        "Market Cap": "$133.31 B",
+        "Price": "$30.51"
+    },
+    {
         "Company Name": "ConocoPhillips",
         "Market Cap": "$133.04 B",
         "Price": "$112.05"
-    },
-    {
-        "Company Name": "Inditex",
-        "Market Cap": "$132.49 B",
-        "Price": "$21.28"
     }
 ]
