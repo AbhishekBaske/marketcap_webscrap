@@ -210,14 +210,14 @@
         "Price": "$108.79"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$235.80 B",
+        "Price": "$0.49"
+    },
+    {
         "Company Name": "Accenture",
         "Market Cap": "$232.65 B",
         "Price": "$371.07"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$232.23 B",
-        "Price": "$0.49"
     },
     {
         "Company Name": "Pepsico",
@@ -296,7 +296,7 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$189.30 B",
+        "Market Cap": "$189.47 B",
         "Price": "$8.62"
     },
     {
@@ -321,7 +321,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$183.74 B",
+        "Market Cap": "$183.47 B",
         "Price": "$0.54"
     },
     {
@@ -395,11 +395,6 @@
         "Price": "$27.47"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$153.93 B",
-        "Price": "$0.95"
-    },
-    {
         "Company Name": "TotalEnergies",
         "Market Cap": "$153.68 B",
         "Price": "$65.54"
@@ -413,6 +408,11 @@
         "Company Name": "HSBC",
         "Market Cap": "$151.83 B",
         "Price": "$39.65"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$150.94 B",
+        "Price": "$0.95"
     },
     {
         "Company Name": "Texas Instruments",
