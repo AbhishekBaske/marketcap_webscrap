@@ -11,7 +11,7 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.047 T",
+        "Market Cap": "$2.037 T",
         "Price": "$8.42"
     },
     {
@@ -105,14 +105,14 @@
         "Price": "$743.36"
     },
     {
-        "Company Name": "Samsung",
-        "Market Cap": "$366.27 B",
-        "Price": "$55.20"
-    },
-    {
         "Company Name": "Procter & Gamble",
         "Market Cap": "$366.17 B",
         "Price": "$155.62"
+    },
+    {
+        "Company Name": "Samsung",
+        "Market Cap": "$364.78 B",
+        "Price": "$54.98"
     },
     {
         "Company Name": "Tencent",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$284.93 B",
-        "Price": "$226.82"
+        "Market Cap": "$287.38 B",
+        "Price": "$228.78"
     },
     {
         "Company Name": "Adobe",
@@ -206,18 +206,18 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.62 B",
-        "Price": "$108.78"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$233.37 B",
-        "Price": "$0.49"
+        "Market Cap": "$238.92 B",
+        "Price": "$108.92"
     },
     {
         "Company Name": "Accenture",
         "Market Cap": "$233.20 B",
         "Price": "$371.94"
+    },
+    {
+        "Company Name": "ICBC",
+        "Market Cap": "$232.76 B",
+        "Price": "$0.49"
     },
     {
         "Company Name": "Pepsico",
@@ -270,6 +270,11 @@
         "Price": "$67.02"
     },
     {
+        "Company Name": "PetroChina",
+        "Market Cap": "$207.61 B",
+        "Price": "$1.18"
+    },
+    {
         "Company Name": "SAP",
         "Market Cap": "$204.15 B",
         "Price": "$173.44"
@@ -278,11 +283,6 @@
         "Company Name": "Shell",
         "Market Cap": "$203.08 B",
         "Price": "$62.49"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$201.25 B",
-        "Price": "$1.15"
     },
     {
         "Company Name": "Linde",
@@ -306,8 +306,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$191.34 B",
-        "Price": "$8.71"
+        "Market Cap": "$190.22 B",
+        "Price": "$8.66"
     },
     {
         "Company Name": "Alibaba",
@@ -316,8 +316,8 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$182.74 B",
-        "Price": "$0.53"
+        "Market Cap": "$184.16 B",
+        "Price": "$0.54"
     },
     {
         "Company Name": "Comcast",
@@ -370,14 +370,14 @@
         "Price": "$45.86"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$158.31 B",
+        "Price": "$0.60"
+    },
+    {
         "Company Name": "ServiceNow",
         "Market Cap": "$157.21 B",
         "Price": "$766.69"
-    },
-    {
-        "Company Name": "Bank of China",
-        "Market Cap": "$156.83 B",
-        "Price": "$0.59"
     },
     {
         "Company Name": "BHP Group",
@@ -391,7 +391,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$153.21 B",
+        "Market Cap": "$153.89 B",
         "Price": "$0.95"
     },
     {
