@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$370.96 B",
-        "Price": "$55.90"
+        "Market Cap": "$372.95 B",
+        "Price": "$56.19"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$288.65 B",
-        "Price": "$229.78"
+        "Market Cap": "$287.90 B",
+        "Price": "$229.18"
     },
     {
         "Company Name": "AMD",
@@ -231,8 +231,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$225.89 B",
-        "Price": "$33.39"
+        "Market Cap": "$228.79 B",
+        "Price": "$33.81"
     },
     {
         "Company Name": "Hermès",
@@ -248,11 +248,6 @@
         "Company Name": "McDonald",
         "Market Cap": "$215.57 B",
         "Price": "$292.26"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$214.66 B",
-        "Price": "$1.23"
     },
     {
         "Company Name": "Cisco",
@@ -273,6 +268,11 @@
         "Company Name": "Shell",
         "Market Cap": "$205.26 B",
         "Price": "$63.17"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$204.68 B",
+        "Price": "$1.17"
     },
     {
         "Company Name": "SAP",
@@ -296,8 +296,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$190.70 B",
-        "Price": "$8.68"
+        "Market Cap": "$190.27 B",
+        "Price": "$8.66"
     },
     {
         "Company Name": "Pinduoduo",
@@ -311,8 +311,8 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$185.69 B",
-        "Price": "$0.54"
+        "Market Cap": "$186.16 B",
+        "Price": "$0.55"
     },
     {
         "Company Name": "Alibaba",
@@ -366,12 +366,12 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$165.41 B",
-        "Price": "$45.72"
+        "Market Cap": "$165.28 B",
+        "Price": "$45.68"
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$158.84 B",
+        "Market Cap": "$158.11 B",
         "Price": "$0.60"
     },
     {
@@ -400,14 +400,14 @@
         "Price": "$65.54"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$153.02 B",
-        "Price": "$0.97"
-    },
-    {
         "Company Name": "Caterpillar",
         "Market Cap": "$152.43 B",
         "Price": "$299.43"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$152.36 B",
+        "Price": "$0.96"
     },
     {
         "Company Name": "HSBC",
