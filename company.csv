@@ -1,7 +1,7 @@
 Company Name,Market Cap,Price
 Microsoft,$3.045 T,$409.72
 Apple,$2.964 T,$191.73
-Saudi Aramco,$2.026 T,$8.34
+Saudi Aramco,$2.036 T,$8.34
 Alphabet (Google),$1.913 T,$154.84
 Amazon,$1.666 T,$161.26
 NVIDIA,$1.542 T,$624.65
@@ -20,7 +20,7 @@ LVMH,$420.25 B,$841.34
 Mastercard,$413.16 B,$440.58
 Exxon Mobil,$412.18 B,$103.13
 Johnson & Johnson,$383.96 B,$159.36
-Samsung,$370.04 B,$55.74
+Samsung,$368.04 B,$55.44
 Procter & Gamble,$367.44 B,$156.16
 Home Depot,$354.01 B,$355.70
 ASML,$348.27 B,$882.62
@@ -32,7 +32,7 @@ Merck,$307.32 B,$121.28
 AbbVie,$289.38 B,$163.91
 AMD,$287.28 B,$177.83
 Adobe,$284.86 B,$630.23
-Kweichow Moutai,$283.45 B,$225.65
+Kweichow Moutai,$283.28 B,$225.51
 Chevron,$281.42 B,$149.08
 Salesforce,$278.64 B,$287.86
 Toyota,$271.95 B,$201.66
@@ -41,8 +41,8 @@ Coca-Cola,$258.23 B,$59.73
 L'Oréal,$257.68 B,$481.90
 Netflix,$249.17 B,$575.79
 International Holding Company,$238.62 B,$108.78
+ICBC,$236.81 B,$0.49
 Reliance Industries,$235.77 B,$34.85
-ICBC,$235.58 B,$0.49
 Accenture,$234.08 B,$373.35
 Roche,$231.41 B,$286.44
 Pepsico,$231.18 B,$168.15
@@ -51,18 +51,18 @@ Novartis,$221.88 B,$107.95
 McDonald,$215.57 B,$292.31
 Thermo Fisher Scientific,$215.50 B,$557.77
 Cisco,$212.47 B,$52.29
+PetroChina,$208.82 B,$1.19
 AstraZeneca,$208.31 B,$67.19
 SAP,$206.26 B,$176.34
 Shell,$206.04 B,$63.41
-PetroChina,$205.90 B,$1.18
 Abbott Laboratories,$196.95 B,$113.45
 Linde,$196.67 B,$405.61
 T-Mobile US,$195.02 B,$163.09
-China Mobile,$190.00 B,$8.64
+China Mobile,$189.86 B,$8.63
 Pinduoduo,$188.32 B,$130.15
 Comcast,$186.20 B,$46.11
 Intel,$185.35 B,$43.84
-Agricultural Bank of China,$184.39 B,$0.54
+Agricultural Bank of China,$185.34 B,$0.54
 Alibaba,$183.95 B,$73.58
 Intuit,$182.76 B,$652.88
 Wells Fargo,$181.20 B,$50.35
@@ -74,15 +74,15 @@ QUALCOMM,$168.28 B,$149.64
 Amgen,$167.75 B,$313.45
 Tata Consultancy Services,$165.87 B,$45.73
 ServiceNow,$161.38 B,$787.24
+Bank of China,$157.90 B,$0.60
 Nike,$157.39 B,$103.88
 BHP Group,$156.78 B,$61.96
-Bank of China,$155.70 B,$0.59
 Pfizer,$155.16 B,$27.48
 Caterpillar,$154.38 B,$303.25
 TotalEnergies,$153.53 B,$65.55
 HSBC,$151.88 B,$39.68
+China Construction Bank,$151.38 B,$0.96
 Texas Instruments,$150.93 B,$166.04
-China Construction Bank,$150.28 B,$0.95
 Union Pacific Corporation,$149.45 B,$245.17
 American Express,$145.22 B,$200.86
 Dior,$144.29 B,$799.83
