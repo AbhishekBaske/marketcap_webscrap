@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.023 T",
-        "Price": "$8.36"
+        "Market Cap": "$2.020 T",
+        "Price": "$8.35"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$419.93 B",
-        "Price": "$840.68"
+        "Market Cap": "$420.63 B",
+        "Price": "$842.09"
     },
     {
         "Company Name": "Mastercard",
@@ -135,11 +135,6 @@
         "Price": "$113.75"
     },
     {
-        "Company Name": "Nestlé",
-        "Market Cap": "$308.09 B",
-        "Price": "$115.47"
-    },
-    {
         "Company Name": "Costco",
         "Market Cap": "$307.95 B",
         "Price": "$694.01"
@@ -148,6 +143,11 @@
         "Company Name": "Merck",
         "Market Cap": "$307.32 B",
         "Price": "$121.28"
+    },
+    {
+        "Company Name": "Nestlé",
+        "Market Cap": "$306.54 B",
+        "Price": "$114.89"
     },
     {
         "Company Name": "AbbVie",
@@ -191,8 +191,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$259.37 B",
-        "Price": "$484.57"
+        "Market Cap": "$259.69 B",
+        "Price": "$485.16"
     },
     {
         "Company Name": "Coca-Cola",
@@ -206,8 +206,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.66 B",
-        "Price": "$108.80"
+        "Market Cap": "$238.60 B",
+        "Price": "$108.78"
     },
     {
         "Company Name": "ICBC",
@@ -221,8 +221,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$231.84 B",
-        "Price": "$288.04"
+        "Market Cap": "$231.47 B",
+        "Price": "$287.58"
     },
     {
         "Company Name": "Pepsico",
@@ -231,13 +231,13 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$230.38 B",
-        "Price": "$34.05"
+        "Market Cap": "$229.17 B",
+        "Price": "$33.87"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$223.13 B",
-        "Price": "$2,131"
+        "Market Cap": "$223.36 B",
+        "Price": "$2,133"
     },
     {
         "Company Name": "Novartis",
@@ -366,8 +366,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$165.41 B",
-        "Price": "$45.72"
+        "Market Cap": "$165.44 B",
+        "Price": "$45.73"
     },
     {
         "Company Name": "ServiceNow",
@@ -426,8 +426,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$145.27 B",
-        "Price": "$805.26"
+        "Market Cap": "$145.57 B",
+        "Price": "$806.89"
     },
     {
         "Company Name": "American Express",
@@ -436,8 +436,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$144.14 B",
-        "Price": "$182.48"
+        "Market Cap": "$144.12 B",
+        "Price": "$182.45"
     },
     {
         "Company Name": "Morgan Stanley",

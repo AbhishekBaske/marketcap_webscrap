@@ -1,7 +1,7 @@
 Company Name,Market Cap,Price
 Microsoft,$3.045 T,$409.72
 Apple,$2.964 T,$191.73
-Saudi Aramco,$2.023 T,$8.36
+Saudi Aramco,$2.020 T,$8.35
 Alphabet (Google),$1.929 T,$154.84
 Amazon,$1.666 T,$161.26
 NVIDIA,$1.542 T,$624.65
@@ -16,7 +16,7 @@ JPMorgan Chase,$496.89 B,$172.73
 Novo Nordisk,$485.87 B,$109.02
 UnitedHealth,$466.66 B,$504.54
 Walmart,$444.32 B,$165.04
-LVMH,$419.93 B,$840.68
+LVMH,$420.63 B,$842.09
 Mastercard,$413.16 B,$440.58
 Exxon Mobil,$412.18 B,$103.13
 Johnson & Johnson,$383.62 B,$159.36
@@ -26,9 +26,9 @@ Home Depot,$354.01 B,$355.70
 ASML,$348.27 B,$882.62
 Tencent,$340.36 B,$35.72
 Oracle,$312.68 B,$113.75
-Nestlé,$308.09 B,$115.47
 Costco,$307.95 B,$694.01
 Merck,$307.32 B,$121.28
+Nestlé,$306.54 B,$114.89
 AbbVie,$289.38 B,$163.91
 AMD,$287.28 B,$177.83
 Adobe,$284.86 B,$630.23
@@ -37,16 +37,16 @@ Chevron,$281.42 B,$149.08
 Salesforce,$278.64 B,$287.86
 Toyota,$271.95 B,$201.66
 Bank of America ,$265.36 B,$33.61
-L'Oréal,$259.37 B,$484.57
+L'Oréal,$259.69 B,$485.16
 Coca-Cola,$258.23 B,$59.73
 Netflix,$249.17 B,$575.79
-International Holding Company,$238.66 B,$108.80
+International Holding Company,$238.60 B,$108.78
 ICBC,$235.53 B,$0.49
 Accenture,$234.08 B,$373.35
-Roche,$231.84 B,$288.04
+Roche,$231.47 B,$287.58
 Pepsico,$231.18 B,$168.15
-Reliance Industries,$230.38 B,$34.05
-Hermès,$223.13 B,"$2,131"
+Reliance Industries,$229.17 B,$33.87
+Hermès,$223.36 B,"$2,133"
 Novartis,$221.88 B,$107.95
 Thermo Fisher Scientific,$215.50 B,$557.77
 Cisco,$212.47 B,$52.29
@@ -72,7 +72,7 @@ Danaher,$172.85 B,$233.93
 IBM,$170.88 B,$187.14
 Amgen,$167.75 B,$313.45
 QUALCOMM,$167.12 B,$149.64
-Tata Consultancy Services,$165.41 B,$45.72
+Tata Consultancy Services,$165.44 B,$45.73
 ServiceNow,$161.38 B,$787.24
 Nike,$157.39 B,$103.88
 Bank of China,$156.86 B,$0.59
@@ -84,9 +84,9 @@ HSBC,$151.88 B,$39.68
 Texas Instruments,$150.93 B,$166.04
 China Construction Bank,$150.12 B,$0.95
 Union Pacific Corporation,$149.45 B,$245.17
-Dior,$145.27 B,$805.26
+Dior,$145.57 B,$806.89
 American Express,$145.22 B,$200.86
-Siemens,$144.14 B,$182.48
+Siemens,$144.12 B,$182.45
 Morgan Stanley,$143.81 B,$87.62
 General Electric,$142.68 B,$131.10
 S&P Global,$142.49 B,$449.81
