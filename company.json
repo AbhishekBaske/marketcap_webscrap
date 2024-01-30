@@ -105,14 +105,14 @@
         "Price": "$158.77"
     },
     {
-        "Company Name": "Samsung",
-        "Market Cap": "$370.92 B",
-        "Price": "$55.87"
-    },
-    {
         "Company Name": "Procter & Gamble",
         "Market Cap": "$370.57 B",
         "Price": "$157.49"
+    },
+    {
+        "Company Name": "Samsung",
+        "Market Cap": "$370.54 B",
+        "Price": "$55.87"
     },
     {
         "Company Name": "Home Depot",
@@ -211,7 +211,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$235.46 B",
+        "Market Cap": "$236.90 B",
         "Price": "$0.49"
     },
     {
@@ -276,7 +276,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$205.05 B",
+        "Market Cap": "$204.80 B",
         "Price": "$1.17"
     },
     {
@@ -306,7 +306,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$184.50 B",
+        "Market Cap": "$184.43 B",
         "Price": "$0.54"
     },
     {
@@ -381,7 +381,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$156.90 B",
+        "Market Cap": "$156.69 B",
         "Price": "$0.60"
     },
     {
@@ -410,14 +410,14 @@
         "Price": "$27.02"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$150.77 B",
+        "Price": "$0.95"
+    },
+    {
         "Company Name": "Union Pacific Corporation",
         "Market Cap": "$150.38 B",
         "Price": "$246.70"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$150.15 B",
-        "Price": "$0.95"
     },
     {
         "Company Name": "American Express",
