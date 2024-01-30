@@ -11,7 +11,7 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.036 T",
+        "Market Cap": "$2.017 T",
         "Price": "$8.34"
     },
     {
@@ -166,8 +166,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$283.53 B",
-        "Price": "$225.71"
+        "Market Cap": "$282.75 B",
+        "Price": "$225.08"
     },
     {
         "Company Name": "Chevron",
@@ -221,8 +221,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$233.70 B",
-        "Price": "$34.54"
+        "Market Cap": "$232.29 B",
+        "Price": "$34.33"
     },
     {
         "Company Name": "Pepsico",
@@ -276,8 +276,8 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$205.96 B",
-        "Price": "$1.18"
+        "Market Cap": "$204.98 B",
+        "Price": "$1.17"
     },
     {
         "Company Name": "Abbott Laboratories",
@@ -296,13 +296,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$190.00 B",
-        "Price": "$8.64"
-    },
-    {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$186.34 B",
-        "Price": "$0.55"
+        "Market Cap": "$189.72 B",
+        "Price": "$8.63"
     },
     {
         "Company Name": "Alibaba",
@@ -318,6 +313,11 @@
         "Company Name": "Intel",
         "Market Cap": "$185.35 B",
         "Price": "$43.84"
+    },
+    {
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$183.97 B",
+        "Price": "$0.54"
     },
     {
         "Company Name": "Intuit",
@@ -366,7 +366,7 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$166.32 B",
+        "Market Cap": "$166.30 B",
         "Price": "$45.97"
     },
     {
@@ -375,14 +375,14 @@
         "Price": "$787.24"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$157.58 B",
-        "Price": "$0.60"
-    },
-    {
         "Company Name": "Nike",
         "Market Cap": "$157.39 B",
         "Price": "$103.88"
+    },
+    {
+        "Company Name": "Bank of China",
+        "Market Cap": "$156.85 B",
+        "Price": "$0.59"
     },
     {
         "Company Name": "BHP Group",
@@ -410,14 +410,14 @@
         "Price": "$39.68"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$151.43 B",
-        "Price": "$0.96"
-    },
-    {
         "Company Name": "Texas Instruments",
         "Market Cap": "$150.93 B",
         "Price": "$166.04"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$150.54 B",
+        "Price": "$0.95"
     },
     {
         "Company Name": "Union Pacific Corporation",
