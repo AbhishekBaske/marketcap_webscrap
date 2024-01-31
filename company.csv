@@ -1,7 +1,7 @@
 Company Name,Market Cap,Price
 Microsoft,$3.036 T,$408.59
 Apple,$2.907 T,$188.04
-Saudi Aramco,$2.017 T,$8.34
+Saudi Aramco,$2.010 T,$8.31
 Alphabet (Google),$1.896 T,$153.05
 Amazon,$1.643 T,$159.00
 NVIDIA,$1.550 T,$627.74
@@ -16,7 +16,7 @@ JPMorgan Chase,$507.07 B,$176.27
 Novo Nordisk,$485.80 B,$109.02
 UnitedHealth,$465.80 B,$503.61
 Walmart,$445.80 B,$165.59
-LVMH,$422.27 B,$845.38
+LVMH,$420.44 B,$841.70
 Exxon Mobil,$419.06 B,$104.85
 Mastercard,$417.48 B,$445.19
 Johnson & Johnson,$382.20 B,$158.77
@@ -27,8 +27,8 @@ ASML,$344.31 B,$868.03
 Tencent,$330.49 B,$34.90
 Oracle,$313.81 B,$114.16
 Costco,$310.93 B,$700.74
+Nestlé,$308.44 B,$115.60
 Merck,$308.28 B,$121.66
-Nestlé,$306.06 B,$114.71
 AbbVie,$291.17 B,$164.92
 Adobe,$283.83 B,$627.96
 Chevron,$283.38 B,$150.12
@@ -37,16 +37,16 @@ Salesforce,$278.52 B,$287.73
 AMD,$277.96 B,$172.06
 Bank of America ,$274.68 B,$34.79
 Toyota,$272.21 B,$201.85
+L'Oréal,$259.03 B,$484.42
 Coca-Cola,$258.97 B,$59.90
-L'Oréal,$258.53 B,$483.50
 Netflix,$243.57 B,$562.85
-International Holding Company,$238.70 B,$108.82
+International Holding Company,$238.65 B,$108.80
 ICBC,$237.50 B,$0.49
 Pepsico,$233.20 B,$169.62
 Accenture,$232.80 B,$371.30
-Reliance Industries,$231.17 B,$34.17
-Roche,$230.14 B,$285.76
-Hermès,$223.26 B,"$2,132"
+Reliance Industries,$231.79 B,$34.26
+Roche,$229.30 B,$284.72
+Hermès,$223.62 B,"$2,135"
 Novartis,$221.47 B,$107.75
 Thermo Fisher Scientific,$219.11 B,$567.12
 McDonald,$213.72 B,$294.65
@@ -59,7 +59,7 @@ Linde,$197.76 B,$407.85
 Abbott Laboratories,$197.00 B,$113.48
 T-Mobile US,$193.36 B,$161.70
 Comcast,$187.76 B,$46.65
-China Mobile,$186.40 B,$8.48
+China Mobile,$186.82 B,$8.50
 Agricultural Bank of China,$184.74 B,$0.54
 Wells Fargo,$184.22 B,$51.19
 Alibaba,$182.11 B,$72.32
@@ -71,7 +71,7 @@ Walt Disney,$177.81 B,$96.94
 IBM,$171.54 B,$187.87
 Amgen,$168.37 B,$314.62
 Pinduoduo,$166.44 B,$125.28
-Tata Consultancy Services,$165.75 B,$45.81
+Tata Consultancy Services,$165.95 B,$45.87
 QUALCOMM,$163.03 B,$145.98
 ServiceNow,$161.07 B,$785.73
 Bank of China,$158.37 B,$0.60
@@ -86,8 +86,8 @@ Union Pacific Corporation,$150.38 B,$246.70
 American Express,$147.60 B,$204.15
 Texas Instruments,$147.30 B,$162.05
 General Electric,$145.76 B,$133.93
-Dior,$144.84 B,$802.86
-Siemens,$144.39 B,$182.80
+Siemens,$145.48 B,$184.18
+Dior,$144.45 B,$800.69
 S&P Global,$144.00 B,$454.56
 Morgan Stanley,$143.81 B,$87.62
 Philip Morris,$142.44 B,$91.76
