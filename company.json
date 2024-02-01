@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$421.54 B",
-        "Price": "$834.85"
+        "Market Cap": "$422.03 B",
+        "Price": "$835.82"
     },
     {
         "Company Name": "Mastercard",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$303.71 B",
-        "Price": "$113.83"
+        "Market Cap": "$303.64 B",
+        "Price": "$113.81"
     },
     {
         "Company Name": "AbbVie",
@@ -191,8 +191,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$259.21 B",
-        "Price": "$483.02"
+        "Market Cap": "$260.14 B",
+        "Price": "$484.75"
     },
     {
         "Company Name": "Coca-Cola",
@@ -231,13 +231,13 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$223.41 B",
-        "Price": "$2,122"
+        "Market Cap": "$223.80 B",
+        "Price": "$2,125"
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$221.75 B",
-        "Price": "$275.48"
+        "Market Cap": "$220.87 B",
+        "Price": "$274.37"
     },
     {
         "Company Name": "McDonald",
@@ -421,8 +421,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$145.95 B",
-        "Price": "$801.97"
+        "Market Cap": "$147.33 B",
+        "Price": "$809.54"
     },
     {
         "Company Name": "Texas Instruments",
@@ -445,14 +445,14 @@
         "Price": "$87.24"
     },
     {
-        "Company Name": "Siemens",
-        "Market Cap": "$142.23 B",
-        "Price": "$180.06"
-    },
-    {
         "Company Name": "S&P Global",
         "Market Cap": "$142.03 B",
         "Price": "$448.35"
+    },
+    {
+        "Company Name": "Siemens",
+        "Market Cap": "$142.00 B",
+        "Price": "$179.78"
     },
     {
         "Company Name": "Philip Morris",
