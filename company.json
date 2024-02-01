@@ -111,8 +111,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$364.89 B",
-        "Price": "$55.00"
+        "Market Cap": "$366.89 B",
+        "Price": "$55.30"
     },
     {
         "Company Name": "Home Depot",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$283.17 B",
-        "Price": "$225.42"
+        "Market Cap": "$282.23 B",
+        "Price": "$224.67"
     },
     {
         "Company Name": "Adobe",
@@ -206,8 +206,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.74 B",
-        "Price": "$108.84"
+        "Market Cap": "$238.68 B",
+        "Price": "$108.81"
     },
     {
         "Company Name": "ICBC",
@@ -216,8 +216,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$233.61 B",
-        "Price": "$34.53"
+        "Market Cap": "$233.34 B",
+        "Price": "$34.49"
     },
     {
         "Company Name": "Pepsico",
@@ -276,8 +276,8 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$199.32 B",
-        "Price": "$1.14"
+        "Market Cap": "$198.10 B",
+        "Price": "$1.13"
     },
     {
         "Company Name": "Abbott Laboratories",
@@ -301,12 +301,12 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$186.88 B",
-        "Price": "$8.49"
+        "Market Cap": "$186.03 B",
+        "Price": "$8.45"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$185.73 B",
+        "Market Cap": "$185.26 B",
         "Price": "$0.54"
     },
     {
@@ -346,8 +346,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$169.28 B",
-        "Price": "$46.79"
+        "Market Cap": "$169.10 B",
+        "Price": "$46.74"
     },
     {
         "Company Name": "Pinduoduo",
@@ -370,14 +370,14 @@
         "Price": "$148.51"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$157.29 B",
-        "Price": "$0.60"
-    },
-    {
         "Company Name": "ServiceNow",
         "Market Cap": "$156.90 B",
         "Price": "$765.40"
+    },
+    {
+        "Company Name": "Bank of China",
+        "Market Cap": "$156.56 B",
+        "Price": "$0.60"
     },
     {
         "Company Name": "BHP Group",
@@ -411,8 +411,8 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$150.81 B",
-        "Price": "$0.96"
+        "Market Cap": "$150.38 B",
+        "Price": "$0.95"
     },
     {
         "Company Name": "Union Pacific Corporation",
