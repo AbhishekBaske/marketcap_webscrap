@@ -111,8 +111,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$368.11 B",
-        "Price": "$55.49"
+        "Market Cap": "$366.62 B",
+        "Price": "$55.26"
     },
     {
         "Company Name": "Home Depot",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$281.30 B",
-        "Price": "$223.94"
+        "Market Cap": "$281.58 B",
+        "Price": "$224.15"
     },
     {
         "Company Name": "Adobe",
@@ -265,11 +265,6 @@
         "Price": "$62.91"
     },
     {
-        "Company Name": "PetroChina",
-        "Market Cap": "$204.01 B",
-        "Price": "$1.17"
-    },
-    {
         "Company Name": "Cisco",
         "Market Cap": "$203.90 B",
         "Price": "$50.18"
@@ -278,6 +273,11 @@
         "Company Name": "SAP",
         "Market Cap": "$202.47 B",
         "Price": "$173.10"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$202.06 B",
+        "Price": "$1.16"
     },
     {
         "Company Name": "Abbott Laboratories",
@@ -301,12 +301,12 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$187.14 B",
-        "Price": "$8.50"
+        "Market Cap": "$186.72 B",
+        "Price": "$8.48"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$185.06 B",
+        "Market Cap": "$185.54 B",
         "Price": "$0.54"
     },
     {
@@ -370,14 +370,14 @@
         "Price": "$148.51"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$158.26 B",
-        "Price": "$0.60"
-    },
-    {
         "Company Name": "Nike",
         "Market Cap": "$157.84 B",
         "Price": "$101.53"
+    },
+    {
+        "Company Name": "Bank of China",
+        "Market Cap": "$157.52 B",
+        "Price": "$0.60"
     },
     {
         "Company Name": "ServiceNow",
@@ -405,14 +405,14 @@
         "Price": "$65.18"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$150.82 B",
-        "Price": "$0.96"
-    },
-    {
         "Company Name": "HSBC",
         "Market Cap": "$150.52 B",
         "Price": "$39.33"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$150.38 B",
+        "Price": "$0.95"
     },
     {
         "Company Name": "Union Pacific Corporation",
