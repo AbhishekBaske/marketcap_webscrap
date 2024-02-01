@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$1.978 T",
-        "Price": "$8.18"
+        "Market Cap": "$1.981 T",
+        "Price": "$8.19"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -85,14 +85,14 @@
         "Price": "$165.25"
     },
     {
-        "Company Name": "LVMH",
-        "Market Cap": "$420.39 B",
-        "Price": "$832.56"
-    },
-    {
         "Company Name": "Mastercard",
         "Market Cap": "$419.73 B",
         "Price": "$449.23"
+    },
+    {
+        "Company Name": "LVMH",
+        "Market Cap": "$418.48 B",
+        "Price": "$828.78"
     },
     {
         "Company Name": "Exxon Mobil",
@@ -191,8 +191,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$258.09 B",
-        "Price": "$480.95"
+        "Market Cap": "$257.57 B",
+        "Price": "$479.97"
     },
     {
         "Company Name": "Coca-Cola",
@@ -216,8 +216,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$233.16 B",
-        "Price": "$34.46"
+        "Market Cap": "$232.72 B",
+        "Price": "$34.40"
     },
     {
         "Company Name": "Pepsico",
@@ -236,8 +236,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$222.28 B",
-        "Price": "$276.13"
+        "Market Cap": "$221.16 B",
+        "Price": "$274.74"
     },
     {
         "Company Name": "McDonald",
@@ -345,11 +345,6 @@
         "Price": "$96.05"
     },
     {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$168.57 B",
-        "Price": "$46.59"
-    },
-    {
         "Company Name": "Pinduoduo",
         "Market Cap": "$168.55 B",
         "Price": "$126.87"
@@ -358,6 +353,11 @@
         "Company Name": "Amgen",
         "Market Cap": "$168.18 B",
         "Price": "$314.26"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$168.09 B",
+        "Price": "$46.46"
     },
     {
         "Company Name": "IBM",
@@ -445,14 +445,14 @@
         "Price": "$87.24"
     },
     {
-        "Company Name": "Siemens",
-        "Market Cap": "$142.10 B",
-        "Price": "$179.90"
-    },
-    {
         "Company Name": "S&P Global",
         "Market Cap": "$142.03 B",
         "Price": "$448.35"
+    },
+    {
+        "Company Name": "Siemens",
+        "Market Cap": "$141.50 B",
+        "Price": "$179.14"
     },
     {
         "Company Name": "Philip Morris",
