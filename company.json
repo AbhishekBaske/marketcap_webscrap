@@ -106,7 +106,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$373.30 B",
+        "Market Cap": "$373.36 B",
         "Price": "$56.24"
     },
     {
@@ -275,14 +275,14 @@
         "Price": "$65.64"
     },
     {
+        "Company Name": "PetroChina",
+        "Market Cap": "$198.39 B",
+        "Price": "$1.13"
+    },
+    {
         "Company Name": "Linde",
         "Market Cap": "$197.39 B",
         "Price": "$407.09"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$197.17 B",
-        "Price": "$1.13"
     },
     {
         "Company Name": "Abbott Laboratories",
@@ -381,7 +381,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$157.91 B",
+        "Market Cap": "$157.35 B",
         "Price": "$0.60"
     },
     {
@@ -405,11 +405,6 @@
         "Price": "$248.33"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$151.18 B",
-        "Price": "$0.96"
-    },
-    {
         "Company Name": "TotalEnergies",
         "Market Cap": "$150.77 B",
         "Price": "$64.37"
@@ -418,6 +413,11 @@
         "Company Name": "HSBC",
         "Market Cap": "$150.36 B",
         "Price": "$39.35"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$149.30 B",
+        "Price": "$0.96"
     },
     {
         "Company Name": "American Express",
