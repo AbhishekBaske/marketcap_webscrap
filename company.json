@@ -210,14 +210,14 @@
         "Price": "$108.78"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$238.13 B",
+        "Price": "$0.48"
+    },
+    {
         "Company Name": "Reliance Industries",
         "Market Cap": "$237.66 B",
         "Price": "$35.13"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$237.09 B",
-        "Price": "$0.48"
     },
     {
         "Company Name": "Pepsico",
@@ -296,12 +296,12 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$187.16 B",
+        "Market Cap": "$187.12 B",
         "Price": "$8.50"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$186.73 B",
+        "Market Cap": "$186.74 B",
         "Price": "$0.55"
     },
     {
