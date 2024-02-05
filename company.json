@@ -111,8 +111,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$367.76 B",
-        "Price": "$55.40"
+        "Market Cap": "$369.75 B",
+        "Price": "$55.70"
     },
     {
         "Company Name": "Home Depot",
@@ -165,14 +165,14 @@
         "Price": "$634.76"
     },
     {
+        "Company Name": "Kweichow Moutai",
+        "Market Cap": "$285.38 B",
+        "Price": "$227.18"
+    },
+    {
         "Company Name": "Chevron",
         "Market Cap": "$281.79 B",
         "Price": "$152.24"
-    },
-    {
-        "Company Name": "Kweichow Moutai",
-        "Market Cap": "$281.69 B",
-        "Price": "$224.25"
     },
     {
         "Company Name": "Salesforce",
@@ -210,14 +210,14 @@
         "Price": "$108.77"
     },
     {
-        "Company Name": "ICBC",
-        "Market Cap": "$238.29 B",
-        "Price": "$0.49"
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$238.16 B",
+        "Price": "$35.20"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$237.56 B",
-        "Price": "$35.11"
+        "Company Name": "ICBC",
+        "Market Cap": "$237.66 B",
+        "Price": "$0.49"
     },
     {
         "Company Name": "Pepsico",
@@ -276,7 +276,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$202.66 B",
+        "Market Cap": "$201.92 B",
         "Price": "$1.15"
     },
     {
@@ -296,13 +296,13 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$189.45 B",
+        "Market Cap": "$189.93 B",
         "Price": "$0.56"
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$186.12 B",
-        "Price": "$8.46"
+        "Market Cap": "$186.40 B",
+        "Price": "$8.48"
     },
     {
         "Company Name": "Danaher",
@@ -346,8 +346,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$174.50 B",
-        "Price": "$48.23"
+        "Market Cap": "$174.43 B",
+        "Price": "$48.21"
     },
     {
         "Company Name": "Amgen",
@@ -365,6 +365,11 @@
         "Price": "$124.59"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$160.89 B",
+        "Price": "$0.61"
+    },
+    {
         "Company Name": "Caterpillar",
         "Market Cap": "$160.40 B",
         "Price": "$315.09"
@@ -373,11 +378,6 @@
         "Company Name": "ServiceNow",
         "Market Cap": "$160.16 B",
         "Price": "$781.30"
-    },
-    {
-        "Company Name": "Bank of China",
-        "Market Cap": "$159.79 B",
-        "Price": "$0.61"
     },
     {
         "Company Name": "QUALCOMM",
