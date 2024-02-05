@@ -11,7 +11,7 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$1.998 T",
+        "Market Cap": "$2.001 T",
         "Price": "$8.26"
     },
     {
@@ -111,8 +111,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$367.22 B",
-        "Price": "$55.32"
+        "Market Cap": "$366.23 B",
+        "Price": "$55.17"
     },
     {
         "Company Name": "Home Depot",
@@ -171,8 +171,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$278.76 B",
-        "Price": "$221.91"
+        "Market Cap": "$280.52 B",
+        "Price": "$223.32"
     },
     {
         "Company Name": "Salesforce",
@@ -270,14 +270,14 @@
         "Price": "$65.64"
     },
     {
+        "Company Name": "PetroChina",
+        "Market Cap": "$204.77 B",
+        "Price": "$1.16"
+    },
+    {
         "Company Name": "Cisco",
         "Market Cap": "$203.90 B",
         "Price": "$50.18"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$198.40 B",
-        "Price": "$1.13"
     },
     {
         "Company Name": "Linde",
@@ -295,14 +295,14 @@
         "Price": "$161.78"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$186.98 B",
-        "Price": "$8.50"
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$188.65 B",
+        "Price": "$0.55"
     },
     {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$186.75 B",
-        "Price": "$0.55"
+        "Company Name": "China Mobile",
+        "Market Cap": "$186.28 B",
+        "Price": "$8.47"
     },
     {
         "Company Name": "Danaher",
@@ -375,14 +375,14 @@
         "Price": "$781.30"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$159.91 B",
+        "Price": "$0.61"
+    },
+    {
         "Company Name": "QUALCOMM",
         "Market Cap": "$158.12 B",
         "Price": "$141.69"
-    },
-    {
-        "Company Name": "Bank of China",
-        "Market Cap": "$157.36 B",
-        "Price": "$0.60"
     },
     {
         "Company Name": "BHP Group",
@@ -410,14 +410,14 @@
         "Price": "$248.33"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$151.04 B",
+        "Price": "$0.97"
+    },
+    {
         "Company Name": "HSBC",
         "Market Cap": "$150.36 B",
         "Price": "$39.35"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$149.31 B",
-        "Price": "$0.96"
     },
     {
         "Company Name": "American Express",
