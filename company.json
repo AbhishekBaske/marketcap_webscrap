@@ -91,8 +91,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$418.92 B",
-        "Price": "$838.66"
+        "Market Cap": "$418.59 B",
+        "Price": "$838.01"
     },
     {
         "Company Name": "Exxon Mobil",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$307.22 B",
-        "Price": "$115.15"
+        "Market Cap": "$306.55 B",
+        "Price": "$114.89"
     },
     {
         "Company Name": "AbbVie",
@@ -190,14 +190,14 @@
         "Price": "$33.47"
     },
     {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$262.74 B",
-        "Price": "$489.51"
-    },
-    {
         "Company Name": "Coca-Cola",
         "Market Cap": "$261.73 B",
         "Price": "$60.54"
+    },
+    {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$261.73 B",
+        "Price": "$487.63"
     },
     {
         "Company Name": "Netflix",
@@ -231,8 +231,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$229.18 B",
-        "Price": "$2,188"
+        "Market Cap": "$228.73 B",
+        "Price": "$2,184"
     },
     {
         "Company Name": "McDonald",
@@ -241,8 +241,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$214.87 B",
-        "Price": "$267.40"
+        "Market Cap": "$214.27 B",
+        "Price": "$266.65"
     },
     {
         "Company Name": "Novartis",
@@ -431,8 +431,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$145.92 B",
-        "Price": "$808.86"
+        "Market Cap": "$145.73 B",
+        "Price": "$807.79"
     },
     {
         "Company Name": "S&P Global",
@@ -456,8 +456,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$140.87 B",
-        "Price": "$178.34"
+        "Market Cap": "$140.31 B",
+        "Price": "$177.63"
     },
     {
         "Company Name": "Uber",
@@ -495,8 +495,8 @@
         "Price": "$91.98"
     },
     {
-        "Company Name": "Prosus",
-        "Market Cap": "$131.91 B",
-        "Price": "$30.19"
+        "Company Name": "ConocoPhillips",
+        "Market Cap": "$131.36 B",
+        "Price": "$110.63"
     }
 ]
