@@ -111,8 +111,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$366.23 B",
-        "Price": "$55.17"
+        "Market Cap": "$366.72 B",
+        "Price": "$55.24"
     },
     {
         "Company Name": "Home Depot",
@@ -171,8 +171,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$280.52 B",
-        "Price": "$223.32"
+        "Market Cap": "$280.88 B",
+        "Price": "$223.60"
     },
     {
         "Company Name": "Salesforce",
@@ -270,14 +270,14 @@
         "Price": "$65.64"
     },
     {
-        "Company Name": "PetroChina",
-        "Market Cap": "$204.77 B",
-        "Price": "$1.16"
-    },
-    {
         "Company Name": "Cisco",
         "Market Cap": "$203.90 B",
         "Price": "$50.18"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$201.34 B",
+        "Price": "$1.14"
     },
     {
         "Company Name": "Linde",
@@ -296,13 +296,13 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$188.65 B",
+        "Market Cap": "$189.12 B",
         "Price": "$0.55"
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$186.28 B",
-        "Price": "$8.47"
+        "Market Cap": "$185.58 B",
+        "Price": "$8.44"
     },
     {
         "Company Name": "Danaher",
@@ -411,7 +411,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$151.04 B",
+        "Market Cap": "$150.83 B",
         "Price": "$0.97"
     },
     {
