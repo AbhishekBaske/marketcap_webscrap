@@ -1,7 +1,7 @@
 Company Name,Market Cap,Price
 Microsoft,$3.055 T,$411.22
 Apple,$2.869 T,$185.85
-Saudi Aramco,$1.991 T,$8.22
+Saudi Aramco,$1.988 T,$8.20
 Amazon,$1.784 T,$171.81
 Alphabet (Google),$1.776 T,$143.54
 NVIDIA,$1.634 T,$661.60
@@ -17,7 +17,7 @@ JPMorgan Chase,$502.64 B,$174.73
 UnitedHealth,$471.92 B,$510.23
 Walmart,$456.52 B,$169.57
 Mastercard,$430.33 B,$460.58
-LVMH,$417.70 B,$836.23
+LVMH,$418.40 B,$837.63
 Exxon Mobil,$404.92 B,$101.97
 Johnson & Johnson,$377.00 B,$156.61
 Procter & Gamble,$371.98 B,$158.09
@@ -28,7 +28,7 @@ Tencent,$336.97 B,$35.29
 Merck,$320.32 B,$126.41
 Oracle,$318.29 B,$115.79
 Costco,$314.81 B,$709.48
-Nestlé,$304.62 B,$114.17
+Nestlé,$305.17 B,$114.38
 AbbVie,$297.79 B,$168.67
 AMD,$287.06 B,$177.66
 Adobe,$286.91 B,$634.76
@@ -38,14 +38,14 @@ Salesforce,$276.51 B,$285.66
 Toyota,$273.14 B,$202.54
 Bank of America ,$264.26 B,$33.47
 Coca-Cola,$261.73 B,$60.54
-L'Oréal,$259.89 B,$484.20
+L'Oréal,$259.40 B,$483.29
 Netflix,$245.67 B,$564.64
-International Holding Company,$238.74 B,$108.84
+International Holding Company,$238.62 B,$108.78
 ICBC,$237.71 B,$0.49
 Pepsico,$236.10 B,$170.97
-Reliance Industries,$236.05 B,$34.89
+Reliance Industries,$234.61 B,$34.68
 Accenture,$233.83 B,$372.95
-Hermès,$227.80 B,"$2,175"
+Hermès,$228.37 B,"$2,181"
 McDonald,$215.46 B,$297.05
 Roche,$214.66 B,$267.13
 Novartis,$214.00 B,$103.72
@@ -68,7 +68,7 @@ Intuit,$179.04 B,$639.58
 Walt Disney,$178.16 B,$97.13
 Verizon,$177.11 B,$42.13
 Wells Fargo,$176.91 B,$49.16
-Tata Consultancy Services,$173.72 B,$48.02
+Tata Consultancy Services,$173.20 B,$47.87
 Amgen,$172.96 B,$323.19
 IBM,$169.64 B,$185.79
 Pinduoduo,$165.52 B,$124.59
@@ -85,12 +85,12 @@ Union Pacific Corporation,$151.38 B,$248.33
 HSBC,$150.36 B,$39.35
 American Express,$149.23 B,$206.41
 General Electric,$148.60 B,$136.54
-Dior,$145.88 B,$808.63
+Dior,$145.59 B,$807.01
 S&P Global,$144.84 B,$454.05
 Texas Instruments,$144.75 B,$159.20
 Philip Morris,$144.35 B,$92.99
 Morgan Stanley,$143.23 B,$87.27
-Siemens,$141.59 B,$179.26
+Siemens,$141.49 B,$179.13
 Uber,$140.07 B,$68.07
 Applied Materials,$139.93 B,$168.18
 HDFC Bank,$138.74 B,$54.80
@@ -98,4 +98,4 @@ Royal Bank Of Canada,$137.89 B,$97.44
 Intuitive Surgical,$135.21 B,$383.77
 Inditex,$133.92 B,$21.51
 Raytheon Technologies,$132.25 B,$91.98
-Prosus,$131.60 B,$30.12
+Prosus,$131.87 B,$30.18
