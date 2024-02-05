@@ -111,7 +111,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$370.11 B",
+        "Market Cap": "$370.56 B",
         "Price": "$55.75"
     },
     {
@@ -205,14 +205,14 @@
         "Price": "$562.06"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$240.46 B",
+        "Price": "$0.49"
+    },
+    {
         "Company Name": "International Holding Company",
         "Market Cap": "$238.62 B",
         "Price": "$108.79"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$237.71 B",
-        "Price": "$0.49"
     },
     {
         "Company Name": "Pepsico",
@@ -271,7 +271,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$203.35 B",
+        "Market Cap": "$202.40 B",
         "Price": "$1.15"
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$190.36 B",
+        "Market Cap": "$190.18 B",
         "Price": "$0.56"
     },
     {
@@ -366,7 +366,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$161.58 B",
+        "Market Cap": "$161.09 B",
         "Price": "$0.62"
     },
     {
@@ -390,14 +390,14 @@
         "Price": "$63.87"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$151.55 B",
-        "Price": "$0.98"
-    },
-    {
         "Company Name": "Nike",
         "Market Cap": "$151.02 B",
         "Price": "$99.68"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$150.96 B",
+        "Price": "$0.98"
     },
     {
         "Company Name": "BHP Group",
