@@ -91,8 +91,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$415.76 B",
-        "Price": "$832.35"
+        "Market Cap": "$416.73 B",
+        "Price": "$834.28"
     },
     {
         "Company Name": "Exxon Mobil",
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$302.84 B",
-        "Price": "$113.50"
+        "Market Cap": "$302.81 B",
+        "Price": "$113.49"
     },
     {
         "Company Name": "AbbVie",
@@ -190,14 +190,14 @@
         "Price": "$32.99"
     },
     {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$259.83 B",
-        "Price": "$485.93"
-    },
-    {
         "Company Name": "Coca-Cola",
         "Market Cap": "$259.57 B",
         "Price": "$60.04"
+    },
+    {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$259.40 B",
+        "Price": "$485.13"
     },
     {
         "Company Name": "ICBC",
@@ -231,8 +231,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$226.02 B",
-        "Price": "$2,158"
+        "Market Cap": "$226.59 B",
+        "Price": "$2,164"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -246,8 +246,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$210.26 B",
-        "Price": "$261.69"
+        "Market Cap": "$209.34 B",
+        "Price": "$260.55"
     },
     {
         "Company Name": "SAP",
@@ -431,8 +431,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$145.12 B",
-        "Price": "$804.42"
+        "Market Cap": "$145.70 B",
+        "Price": "$807.65"
     },
     {
         "Company Name": "Texas Instruments",
@@ -471,18 +471,18 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$139.03 B",
-        "Price": "$176.01"
+        "Market Cap": "$139.82 B",
+        "Price": "$177.02"
+    },
+    {
+        "Company Name": "Prosus",
+        "Market Cap": "$136.80 B",
+        "Price": "$31.31"
     },
     {
         "Company Name": "Royal Bank Of Canada",
         "Market Cap": "$136.28 B",
         "Price": "$96.44"
-    },
-    {
-        "Company Name": "Prosus",
-        "Market Cap": "$136.15 B",
-        "Price": "$31.16"
     },
     {
         "Company Name": "Intuitive Surgical",
