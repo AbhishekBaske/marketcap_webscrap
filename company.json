@@ -220,14 +220,14 @@
         "Price": "$170.92"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$232.97 B",
-        "Price": "$34.43"
-    },
-    {
         "Company Name": "Accenture",
         "Market Cap": "$232.20 B",
         "Price": "$370.34"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$232.01 B",
+        "Price": "$34.29"
     },
     {
         "Company Name": "Hermès",
@@ -320,14 +320,14 @@
         "Price": "$42.77"
     },
     {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$179.88 B",
-        "Price": "$49.72"
-    },
-    {
         "Company Name": "Intuit",
         "Market Cap": "$179.32 B",
         "Price": "$640.60"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$178.73 B",
+        "Price": "$49.40"
     },
     {
         "Company Name": "Comcast",
