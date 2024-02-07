@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$375.49 B",
-        "Price": "$56.53"
+        "Market Cap": "$374.99 B",
+        "Price": "$56.46"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$294.03 B",
-        "Price": "$234.07"
+        "Market Cap": "$295.13 B",
+        "Price": "$234.94"
     },
     {
         "Company Name": "Chevron",
@@ -201,7 +201,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$245.95 B",
+        "Market Cap": "$244.08 B",
         "Price": "$0.50"
     },
     {
@@ -306,7 +306,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$189.04 B",
+        "Market Cap": "$188.10 B",
         "Price": "$0.55"
     },
     {
@@ -381,7 +381,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$158.36 B",
+        "Market Cap": "$156.90 B",
         "Price": "$0.60"
     },
     {
@@ -415,11 +415,6 @@
         "Price": "$102.61"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$150.73 B",
-        "Price": "$0.96"
-    },
-    {
         "Company Name": "General Electric",
         "Market Cap": "$149.73 B",
         "Price": "$137.58"
@@ -428,6 +423,11 @@
         "Company Name": "American Express",
         "Market Cap": "$148.89 B",
         "Price": "$205.65"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$148.75 B",
+        "Price": "$0.94"
     },
     {
         "Company Name": "Dior",
