@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.001 T",
-        "Price": "$8.27"
+        "Market Cap": "$1.997 T",
+        "Price": "$8.26"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -91,8 +91,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$421.09 B",
-        "Price": "$841.71"
+        "Market Cap": "$422.38 B",
+        "Price": "$844.29"
     },
     {
         "Company Name": "Exxon Mobil",
@@ -145,14 +145,14 @@
         "Price": "$710.79"
     },
     {
+        "Company Name": "Nestlé",
+        "Market Cap": "$306.59 B",
+        "Price": "$114.91"
+    },
+    {
         "Company Name": "AbbVie",
         "Market Cap": "$305.95 B",
         "Price": "$173.29"
-    },
-    {
-        "Company Name": "Nestlé",
-        "Market Cap": "$305.51 B",
-        "Price": "$114.51"
     },
     {
         "Company Name": "Kweichow Moutai",
@@ -185,14 +185,14 @@
         "Price": "$167.88"
     },
     {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$261.89 B",
-        "Price": "$487.84"
-    },
-    {
         "Company Name": "Bank of America ",
         "Market Cap": "$260.86 B",
         "Price": "$33.04"
+    },
+    {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$260.71 B",
+        "Price": "$485.63"
     },
     {
         "Company Name": "Coca-Cola",
@@ -201,7 +201,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$244.13 B",
+        "Market Cap": "$242.88 B",
         "Price": "$0.50"
     },
     {
@@ -211,8 +211,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.65 B",
-        "Price": "$108.80"
+        "Market Cap": "$238.76 B",
+        "Price": "$108.85"
     },
     {
         "Company Name": "Pepsico",
@@ -221,13 +221,13 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$233.78 B",
-        "Price": "$34.55"
+        "Market Cap": "$234.76 B",
+        "Price": "$34.70"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$230.13 B",
-        "Price": "$2,189"
+        "Market Cap": "$229.85 B",
+        "Price": "$2,186"
     },
     {
         "Company Name": "Accenture",
@@ -240,14 +240,14 @@
         "Price": "$560.28"
     },
     {
-        "Company Name": "Roche",
-        "Market Cap": "$213.49 B",
-        "Price": "$265.81"
-    },
-    {
         "Company Name": "Novartis",
         "Market Cap": "$212.04 B",
         "Price": "$103.74"
+    },
+    {
+        "Company Name": "Roche",
+        "Market Cap": "$211.82 B",
+        "Price": "$263.74"
     },
     {
         "Company Name": "SAP",
@@ -306,8 +306,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$185.87 B",
-        "Price": "$8.45"
+        "Market Cap": "$187.42 B",
+        "Price": "$8.52"
     },
     {
         "Company Name": "Danaher",
@@ -326,8 +326,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$178.07 B",
-        "Price": "$49.22"
+        "Market Cap": "$178.25 B",
+        "Price": "$49.27"
     },
     {
         "Company Name": "Intuit",
@@ -431,8 +431,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$146.37 B",
-        "Price": "$810.83"
+        "Market Cap": "$147.15 B",
+        "Price": "$815.13"
     },
     {
         "Company Name": "Uber",
@@ -455,14 +455,14 @@
         "Price": "$91.66"
     },
     {
-        "Company Name": "Siemens",
-        "Market Cap": "$142.29 B",
-        "Price": "$180.14"
-    },
-    {
         "Company Name": "HDFC Bank",
         "Market Cap": "$141.91 B",
         "Price": "$56.05"
+    },
+    {
+        "Company Name": "Siemens",
+        "Market Cap": "$141.59 B",
+        "Price": "$179.25"
     },
     {
         "Company Name": "Morgan Stanley",
@@ -476,8 +476,8 @@
     },
     {
         "Company Name": "Prosus",
-        "Market Cap": "$139.03 B",
-        "Price": "$31.82"
+        "Market Cap": "$138.90 B",
+        "Price": "$31.79"
     },
     {
         "Company Name": "Intuitive Surgical",
