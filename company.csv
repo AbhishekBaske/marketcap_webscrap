@@ -1,7 +1,7 @@
 Company Name,Market Cap,Price
 Microsoft,$3.012 T,$405.49
 Apple,$2.923 T,$189.30
-Saudi Aramco,$2.007 T,$8.30
+Saudi Aramco,$2.001 T,$8.27
 Alphabet (Google),$1.799 T,$145.41
 Amazon,$1.757 T,$169.15
 NVIDIA,$1.685 T,$682.23
@@ -17,7 +17,7 @@ JPMorgan Chase,$503.71 B,$175.10
 UnitedHealth,$472.33 B,$510.67
 Walmart,$457.16 B,$169.81
 Mastercard,$430.26 B,$460.50
-LVMH,$422.11 B,$843.75
+LVMH,$422.49 B,$844.51
 Exxon Mobil,$406.03 B,$102.25
 Johnson & Johnson,$380.49 B,$158.06
 Samsung,$375.61 B,$56.55
@@ -28,7 +28,7 @@ Home Depot,$354.56 B,$356.25
 Merck,$321.51 B,$126.88
 Oracle,$316.95 B,$115.30
 Costco,$315.39 B,$710.79
-Nestlé,$307.05 B,$115.08
+Nestlé,$306.03 B,$114.70
 AbbVie,$305.95 B,$173.29
 Kweichow Moutai,$299.00 B,$238.02
 Toyota,$294.77 B,$218.86
@@ -36,19 +36,19 @@ Chevron,$281.99 B,$152.35
 Salesforce,$276.68 B,$285.83
 Adobe,$274.42 B,$607.14
 AMD,$271.25 B,$167.88
-L'Oréal,$261.37 B,$486.87
+L'Oréal,$261.51 B,$487.14
 Bank of America ,$260.86 B,$33.04
 Coca-Cola,$259.14 B,$59.94
 ICBC,$242.88 B,$0.50
 Netflix,$240.56 B,$555.88
-International Holding Company,$238.59 B,$108.77
+International Holding Company,$238.65 B,$108.80
 Pepsico,$235.67 B,$171.42
 Reliance Industries,$235.14 B,$34.75
-Hermès,$229.74 B,"$2,185"
+Hermès,$229.51 B,"$2,183"
 Accenture,$228.66 B,$364.70
 Thermo Fisher Scientific,$216.47 B,$560.28
 Novartis,$212.04 B,$103.74
-Roche,$211.22 B,$262.99
+Roche,$210.95 B,$262.64
 SAP,$209.13 B,$178.79
 AstraZeneca,$207.84 B,$67.04
 Shell,$206.56 B,$63.65
@@ -85,16 +85,16 @@ TotalEnergies,$152.20 B,$65.05
 China Construction Bank,$150.77 B,$0.96
 General Electric,$149.73 B,$137.58
 American Express,$148.68 B,$205.65
-Dior,$147.05 B,$814.59
+Dior,$147.25 B,$815.67
 Uber,$145.01 B,$70.47
 Texas Instruments,$144.00 B,$158.37
 S&P Global,$143.60 B,$453.29
 Philip Morris,$142.29 B,$91.66
-Siemens,$142.19 B,$180.01
 HDFC Bank,$141.91 B,$56.05
+Siemens,$141.51 B,$179.15
 Morgan Stanley,$141.31 B,$86.10
 Applied Materials,$140.36 B,$168.70
-Prosus,$138.90 B,$31.79
+Prosus,$139.47 B,$31.92
 Intuitive Surgical,$137.29 B,$389.69
 Royal Bank Of Canada,$136.34 B,$96.94
 ConocoPhillips,$132.41 B,$111.52
