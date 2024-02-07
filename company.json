@@ -161,7 +161,7 @@
     },
     {
         "Company Name": "Toyota",
-        "Market Cap": "$295.15 B",
+        "Market Cap": "$294.77 B",
         "Price": "$218.86"
     },
     {
@@ -211,13 +211,13 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.60 B",
-        "Price": "$108.78"
+        "Market Cap": "$238.59 B",
+        "Price": "$108.77"
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$235.83 B",
-        "Price": "$34.58"
+        "Market Cap": "$236.00 B",
+        "Price": "$34.61"
     },
     {
         "Company Name": "Pepsico",
@@ -240,19 +240,14 @@
         "Price": "$560.28"
     },
     {
-        "Company Name": "Novartis",
-        "Market Cap": "$213.55 B",
-        "Price": "$103.74"
-    },
-    {
         "Company Name": "Roche",
         "Market Cap": "$212.97 B",
         "Price": "$265.06"
     },
     {
-        "Company Name": "AstraZeneca",
-        "Market Cap": "$210.65 B",
-        "Price": "$67.04"
+        "Company Name": "Novartis",
+        "Market Cap": "$212.04 B",
+        "Price": "$103.74"
     },
     {
         "Company Name": "SAP",
@@ -260,8 +255,13 @@
         "Price": "$178.79"
     },
     {
+        "Company Name": "AstraZeneca",
+        "Market Cap": "$207.84 B",
+        "Price": "$67.04"
+    },
+    {
         "Company Name": "Shell",
-        "Market Cap": "$206.66 B",
+        "Market Cap": "$206.56 B",
         "Price": "$63.65"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$180.38 B",
-        "Price": "$49.86"
+        "Market Cap": "$178.96 B",
+        "Price": "$49.46"
     },
     {
         "Company Name": "Intuit",
@@ -486,7 +486,7 @@
     },
     {
         "Company Name": "Royal Bank Of Canada",
-        "Market Cap": "$136.98 B",
+        "Market Cap": "$136.34 B",
         "Price": "$96.94"
     },
     {
