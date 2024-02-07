@@ -106,7 +106,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$375.18 B",
+        "Market Cap": "$375.55 B",
         "Price": "$56.48"
     },
     {
@@ -200,14 +200,14 @@
         "Price": "$59.99"
     },
     {
-        "Company Name": "ICBC",
-        "Market Cap": "$242.94 B",
-        "Price": "$0.50"
-    },
-    {
         "Company Name": "Netflix",
         "Market Cap": "$242.04 B",
         "Price": "$559.30"
+    },
+    {
+        "Company Name": "ICBC",
+        "Market Cap": "$241.32 B",
+        "Price": "$0.50"
     },
     {
         "Company Name": "International Holding Company",
@@ -271,7 +271,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$202.69 B",
+        "Market Cap": "$202.26 B",
         "Price": "$1.16"
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$190.38 B",
+        "Market Cap": "$190.57 B",
         "Price": "$0.56"
     },
     {
@@ -376,7 +376,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$158.65 B",
+        "Market Cap": "$159.29 B",
         "Price": "$0.60"
     },
     {
@@ -400,6 +400,11 @@
         "Price": "$60.52"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$152.75 B",
+        "Price": "$0.96"
+    },
+    {
         "Company Name": "HSBC",
         "Market Cap": "$152.65 B",
         "Price": "$39.95"
@@ -418,11 +423,6 @@
         "Company Name": "General Electric",
         "Market Cap": "$150.73 B",
         "Price": "$138.50"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$150.65 B",
-        "Price": "$0.96"
     },
     {
         "Company Name": "TotalEnergies",
