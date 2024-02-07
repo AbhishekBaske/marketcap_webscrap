@@ -20,8 +20,8 @@ Mastercard,$426.88 B,$460.50
 LVMH,$418.99 B,$838.80
 Exxon Mobil,$406.03 B,$102.25
 Johnson & Johnson,$380.49 B,$158.06
-Samsung,$374.99 B,$56.46
 Procter & Gamble,$374.03 B,$158.96
+Samsung,$373.61 B,$56.25
 ASML,$357.06 B,$904.89
 Tencent,$356.04 B,$37.75
 Home Depot,$354.56 B,$356.25
@@ -29,9 +29,9 @@ Merck,$321.51 B,$126.88
 Oracle,$319.94 B,$115.30
 Costco,$315.39 B,$710.79
 AbbVie,$305.95 B,$173.29
-Nestlé,$304.94 B,$114.29
+Nestlé,$304.87 B,$114.27
+Kweichow Moutai,$295.33 B,$235.10
 Toyota,$295.15 B,$218.86
-Kweichow Moutai,$295.13 B,$234.94
 Chevron,$281.99 B,$152.35
 AMD,$281.46 B,$167.88
 Salesforce,$278.89 B,$285.83
@@ -39,16 +39,16 @@ Adobe,$274.42 B,$607.14
 L'Oréal,$261.20 B,$488.49
 Bank of America ,$260.86 B,$33.04
 Coca-Cola,$259.57 B,$59.94
-ICBC,$244.08 B,$0.50
+ICBC,$243.50 B,$0.50
 Netflix,$243.09 B,$555.88
 International Holding Company,$238.60 B,$108.78
+Reliance Industries,$235.83 B,$34.58
 Pepsico,$235.67 B,$171.42
-Reliance Industries,$234.48 B,$34.39
 Accenture,$228.66 B,$364.70
 Hermès,$227.36 B,"$2,171"
 Thermo Fisher Scientific,$216.47 B,$560.28
 Novartis,$213.55 B,$103.74
-Roche,$213.02 B,$265.12
+Roche,$212.97 B,$265.06
 AstraZeneca,$210.65 B,$67.04
 SAP,$210.19 B,$178.79
 Shell,$206.66 B,$63.65
@@ -56,15 +56,15 @@ McDonald,$206.51 B,$284.65
 Cisco,$203.09 B,$49.98
 Linde,$201.50 B,$415.56
 Abbott Laboratories,$197.91 B,$114.00
-PetroChina,$195.71 B,$1.12
+PetroChina,$197.23 B,$1.12
 Alibaba,$195.57 B,$78.23
 T-Mobile US,$191.08 B,$161.00
-China Mobile,$189.35 B,$8.61
-Agricultural Bank of China,$188.10 B,$0.55
+China Mobile,$188.26 B,$8.56
+Agricultural Bank of China,$186.73 B,$0.55
 Danaher,$183.46 B,$248.20
 Walt Disney,$182.12 B,$99.29
 Intel,$180.70 B,$42.74
-Tata Consultancy Services,$180.19 B,$49.80
+Tata Consultancy Services,$180.38 B,$49.86
 Intuit,$177.84 B,$635.30
 Comcast,$176.43 B,$44.42
 Wells Fargo,$175.26 B,$48.29
@@ -75,7 +75,7 @@ Pinduoduo,$167.11 B,$125.78
 Caterpillar,$164.29 B,$322.72
 QUALCOMM,$160.81 B,$144.10
 ServiceNow,$159.37 B,$777.45
-Bank of China,$156.90 B,$0.60
+Bank of China,$155.85 B,$0.59
 Pfizer,$155.27 B,$27.50
 TotalEnergies,$155.12 B,$65.05
 HSBC,$152.80 B,$39.99
@@ -84,7 +84,7 @@ Union Pacific Corporation,$152.32 B,$249.87
 Nike,$151.02 B,$102.61
 General Electric,$149.73 B,$137.58
 American Express,$148.89 B,$205.65
-China Construction Bank,$148.75 B,$0.94
+China Construction Bank,$148.36 B,$0.94
 Dior,$146.18 B,$810.29
 Uber,$145.01 B,$70.47
 Texas Instruments,$144.00 B,$158.37
