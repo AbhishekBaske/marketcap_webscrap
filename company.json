@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$296.22 B",
-        "Price": "$235.81"
+        "Market Cap": "$296.15 B",
+        "Price": "$235.75"
     },
     {
         "Company Name": "Chevron",
@@ -221,8 +221,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$234.71 B",
-        "Price": "$34.69"
+        "Market Cap": "$234.97 B",
+        "Price": "$34.73"
     },
     {
         "Company Name": "Hermès",
@@ -270,6 +270,11 @@
         "Price": "$63.56"
     },
     {
+        "Company Name": "PetroChina",
+        "Market Cap": "$203.46 B",
+        "Price": "$1.16"
+    },
+    {
         "Company Name": "Cisco",
         "Market Cap": "$202.23 B",
         "Price": "$49.77"
@@ -278,11 +283,6 @@
         "Company Name": "Linde",
         "Market Cap": "$202.11 B",
         "Price": "$416.83"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$202.00 B",
-        "Price": "$1.15"
     },
     {
         "Company Name": "Abbott Laboratories",
@@ -301,12 +301,12 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$188.72 B",
-        "Price": "$8.58"
+        "Market Cap": "$189.56 B",
+        "Price": "$8.62"
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$187.24 B",
+        "Market Cap": "$187.71 B",
         "Price": "$0.55"
     },
     {
@@ -325,14 +325,14 @@
         "Price": "$42.78"
     },
     {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$180.23 B",
-        "Price": "$49.82"
-    },
-    {
         "Company Name": "Intuit",
         "Market Cap": "$180.04 B",
         "Price": "$643.17"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$179.66 B",
+        "Price": "$49.66"
     },
     {
         "Company Name": "Wells Fargo",
@@ -386,8 +386,8 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$156.72 B",
-        "Price": "$0.59"
+        "Market Cap": "$157.08 B",
+        "Price": "$0.60"
     },
     {
         "Company Name": "Pfizer",
@@ -426,8 +426,8 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$149.19 B",
-        "Price": "$0.93"
+        "Market Cap": "$150.08 B",
+        "Price": "$0.94"
     },
     {
         "Company Name": "Dior",
