@@ -105,14 +105,14 @@
         "Price": "$157.98"
     },
     {
-        "Company Name": "Samsung",
-        "Market Cap": "$374.99 B",
-        "Price": "$56.40"
-    },
-    {
         "Company Name": "Procter & Gamble",
         "Market Cap": "$374.41 B",
         "Price": "$159.12"
+    },
+    {
+        "Company Name": "Samsung",
+        "Market Cap": "$373.99 B",
+        "Price": "$56.25"
     },
     {
         "Company Name": "ASML",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$298.78 B",
-        "Price": "$237.85"
+        "Market Cap": "$300.24 B",
+        "Price": "$239.01"
     },
     {
         "Company Name": "Chevron",
@@ -206,8 +206,8 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$241.30 B",
-        "Price": "$0.50"
+        "Market Cap": "$240.06 B",
+        "Price": "$0.49"
     },
     {
         "Company Name": "International Holding Company",
@@ -270,11 +270,6 @@
         "Price": "$63.56"
     },
     {
-        "Company Name": "PetroChina",
-        "Market Cap": "$202.26 B",
-        "Price": "$1.16"
-    },
-    {
         "Company Name": "Cisco",
         "Market Cap": "$202.23 B",
         "Price": "$49.77"
@@ -283,6 +278,11 @@
         "Company Name": "Linde",
         "Market Cap": "$202.11 B",
         "Price": "$416.83"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$200.31 B",
+        "Price": "$1.14"
     },
     {
         "Company Name": "Abbott Laboratories",
@@ -295,14 +295,14 @@
         "Price": "$161.78"
     },
     {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$190.57 B",
-        "Price": "$0.56"
+        "Company Name": "China Mobile",
+        "Market Cap": "$188.47 B",
+        "Price": "$8.57"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$187.48 B",
-        "Price": "$8.52"
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$186.78 B",
+        "Price": "$0.55"
     },
     {
         "Company Name": "Alibaba",
@@ -375,11 +375,6 @@
         "Price": "$790.39"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$159.29 B",
-        "Price": "$0.60"
-    },
-    {
         "Company Name": "Amgen",
         "Market Cap": "$158.34 B",
         "Price": "$295.87"
@@ -395,14 +390,14 @@
         "Price": "$27.56"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$155.26 B",
+        "Price": "$0.59"
+    },
+    {
         "Company Name": "BHP Group",
         "Market Cap": "$153.14 B",
         "Price": "$60.52"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$152.75 B",
-        "Price": "$0.96"
     },
     {
         "Company Name": "HSBC",
@@ -423,6 +418,11 @@
         "Company Name": "General Electric",
         "Market Cap": "$150.73 B",
         "Price": "$138.50"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$148.98 B",
+        "Price": "$0.93"
     },
     {
         "Company Name": "TotalEnergies",
