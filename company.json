@@ -220,14 +220,14 @@
         "Price": "$34.96"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$234.95 B",
+        "Price": "$0.49"
+    },
+    {
         "Company Name": "Hermès",
         "Market Cap": "$234.30 B",
         "Price": "$2,237"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$233.71 B",
-        "Price": "$0.48"
     },
     {
         "Company Name": "Accenture",
@@ -306,8 +306,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$185.08 B",
-        "Price": "$8.42"
+        "Market Cap": "$185.64 B",
+        "Price": "$8.45"
     },
     {
         "Company Name": "Intuit",
