@@ -21,12 +21,12 @@
     },
     {
         "Company Name": "Amazon",
-        "Market Cap": "$1.771 T",
+        "Market Cap": "$1.764 T",
         "Price": "$169.84"
     },
     {
         "Company Name": "NVIDIA",
-        "Market Cap": "$1.731 T",
+        "Market Cap": "$1.720 T",
         "Price": "$696.41"
     },
     {
@@ -101,7 +101,7 @@
     },
     {
         "Company Name": "Johnson & Johnson",
-        "Market Cap": "$380.30 B",
+        "Market Cap": "$376.49 B",
         "Price": "$156.40"
     },
     {
@@ -126,7 +126,7 @@
     },
     {
         "Company Name": "Tencent",
-        "Market Cap": "$352.31 B",
+        "Market Cap": "$346.43 B",
         "Price": "$36.23"
     },
     {
@@ -185,14 +185,14 @@
         "Price": "$169.35"
     },
     {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$262.06 B",
-        "Price": "$488.20"
-    },
-    {
         "Company Name": "Bank of America ",
         "Market Cap": "$261.49 B",
         "Price": "$33.12"
+    },
+    {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$261.05 B",
+        "Price": "$488.20"
     },
     {
         "Company Name": "Coca-Cola",
@@ -216,8 +216,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$238.23 B",
-        "Price": "$35.21"
+        "Market Cap": "$238.18 B",
+        "Price": "$35.20"
     },
     {
         "Company Name": "ICBC",
@@ -236,13 +236,8 @@
     },
     {
         "Company Name": "Thermo Fisher Scientific",
-        "Market Cap": "$213.39 B",
+        "Market Cap": "$212.84 B",
         "Price": "$550.89"
-    },
-    {
-        "Company Name": "Novartis",
-        "Market Cap": "$213.25 B",
-        "Price": "$101.36"
     },
     {
         "Company Name": "SAP",
@@ -255,8 +250,13 @@
         "Price": "$291.93"
     },
     {
+        "Company Name": "Novartis",
+        "Market Cap": "$207.18 B",
+        "Price": "$101.36"
+    },
+    {
         "Company Name": "Roche",
-        "Market Cap": "$206.86 B",
+        "Market Cap": "$206.85 B",
         "Price": "$257.27"
     },
     {
@@ -266,7 +266,7 @@
     },
     {
         "Company Name": "AstraZeneca",
-        "Market Cap": "$204.64 B",
+        "Market Cap": "$204.93 B",
         "Price": "$63.52"
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "Company Name": "T-Mobile US",
-        "Market Cap": "$191.99 B",
+        "Market Cap": "$191.00 B",
         "Price": "$160.93"
     },
     {
@@ -316,13 +316,8 @@
     },
     {
         "Company Name": "Danaher",
-        "Market Cap": "$182.31 B",
+        "Market Cap": "$181.74 B",
         "Price": "$245.87"
-    },
-    {
-        "Company Name": "Intel",
-        "Market Cap": "$180.78 B",
-        "Price": "$42.50"
     },
     {
         "Company Name": "Alibaba",
@@ -330,19 +325,19 @@
         "Price": "$70.78"
     },
     {
+        "Company Name": "Intel",
+        "Market Cap": "$179.68 B",
+        "Price": "$42.50"
+    },
+    {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$179.40 B",
+        "Market Cap": "$179.39 B",
         "Price": "$49.58"
     },
     {
         "Company Name": "Wells Fargo",
         "Market Cap": "$174.00 B",
         "Price": "$48.35"
-    },
-    {
-        "Company Name": "Comcast",
-        "Market Cap": "$170.23 B",
-        "Price": "$41.25"
     },
     {
         "Company Name": "IBM",
@@ -373,6 +368,11 @@
         "Company Name": "ServiceNow",
         "Market Cap": "$163.87 B",
         "Price": "$799.41"
+    },
+    {
+        "Company Name": "Comcast",
+        "Market Cap": "$163.83 B",
+        "Price": "$41.25"
     },
     {
         "Company Name": "Amgen",
@@ -406,7 +406,7 @@
     },
     {
         "Company Name": "Union Pacific Corporation",
-        "Market Cap": "$151.88 B",
+        "Market Cap": "$151.68 B",
         "Price": "$248.82"
     },
     {
@@ -455,11 +455,6 @@
         "Price": "$182.91"
     },
     {
-        "Company Name": "S&P Global",
-        "Market Cap": "$143.60 B",
-        "Price": "$436.63"
-    },
-    {
         "Company Name": "Morgan Stanley",
         "Market Cap": "$141.31 B",
         "Price": "$85.65"
@@ -475,13 +470,18 @@
         "Price": "$89.01"
     },
     {
+        "Company Name": "S&P Global",
+        "Market Cap": "$137.14 B",
+        "Price": "$436.63"
+    },
+    {
         "Company Name": "Intuitive Surgical",
-        "Market Cap": "$137.85 B",
+        "Market Cap": "$136.32 B",
         "Price": "$386.94"
     },
     {
         "Company Name": "Royal Bank Of Canada",
-        "Market Cap": "$136.18 B",
+        "Market Cap": "$136.09 B",
         "Price": "$96.76"
     },
     {
