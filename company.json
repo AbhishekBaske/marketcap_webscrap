@@ -210,18 +210,18 @@
         "Price": "$173.85"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$238.63 B",
-        "Price": "$35.27"
+        "Company Name": "International Holding Company",
+        "Market Cap": "$238.60 B",
+        "Price": "$108.78"
     },
     {
-        "Company Name": "International Holding Company",
-        "Market Cap": "$238.59 B",
-        "Price": "$108.77"
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$238.23 B",
+        "Price": "$35.21"
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$237.43 B",
+        "Market Cap": "$236.81 B",
         "Price": "$0.49"
     },
     {
@@ -306,18 +306,13 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$186.91 B",
-        "Price": "$8.50"
+        "Market Cap": "$186.63 B",
+        "Price": "$8.49"
     },
     {
         "Company Name": "Intuit",
         "Market Cap": "$182.81 B",
         "Price": "$653.07"
-    },
-    {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$182.36 B",
-        "Price": "$50.40"
     },
     {
         "Company Name": "Danaher",
@@ -333,6 +328,11 @@
         "Company Name": "Alibaba",
         "Market Cap": "$179.81 B",
         "Price": "$70.78"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$179.40 B",
+        "Price": "$49.58"
     },
     {
         "Company Name": "Wells Fargo",
