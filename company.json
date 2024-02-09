@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$433.82 B",
-        "Price": "$868.44"
+        "Market Cap": "$434.57 B",
+        "Price": "$869.95"
     },
     {
         "Company Name": "Mastercard",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$293.70 B",
-        "Price": "$110.08"
+        "Market Cap": "$293.52 B",
+        "Price": "$110.01"
     },
     {
         "Company Name": "Chevron",
@@ -196,13 +196,13 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$245.77 B",
-        "Price": "$2,347"
+        "Market Cap": "$247.63 B",
+        "Price": "$2,365"
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$245.00 B",
-        "Price": "$458.19"
+        "Market Cap": "$243.50 B",
+        "Price": "$455.39"
     },
     {
         "Company Name": "Netflix",
@@ -261,8 +261,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$205.72 B",
-        "Price": "$255.87"
+        "Market Cap": "$205.86 B",
+        "Price": "$256.04"
     },
     {
         "Company Name": "AstraZeneca",
@@ -420,6 +420,11 @@
         "Price": "$39.25"
     },
     {
+        "Company Name": "Dior",
+        "Market Cap": "$150.45 B",
+        "Price": "$833.96"
+    },
+    {
         "Company Name": "China Construction Bank",
         "Market Cap": "$150.32 B",
         "Price": "$0.95"
@@ -428,11 +433,6 @@
         "Company Name": "TotalEnergies",
         "Market Cap": "$150.19 B",
         "Price": "$64.19"
-    },
-    {
-        "Company Name": "Dior",
-        "Market Cap": "$149.96 B",
-        "Price": "$831.27"
     },
     {
         "Company Name": "Uber",
@@ -456,13 +456,13 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$141.18 B",
-        "Price": "$178.73"
+        "Market Cap": "$141.20 B",
+        "Price": "$178.75"
     },
     {
         "Company Name": "Prosus",
-        "Market Cap": "$139.25 B",
-        "Price": "$31.87"
+        "Market Cap": "$138.68 B",
+        "Price": "$31.74"
     },
     {
         "Company Name": "Philip Morris",
