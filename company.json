@@ -210,6 +210,11 @@
         "Price": "$451.68"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$238.76 B",
+        "Price": "$0.49"
+    },
+    {
         "Company Name": "International Holding Company",
         "Market Cap": "$238.62 B",
         "Price": "$108.78"
@@ -218,11 +223,6 @@
         "Company Name": "Reliance Industries",
         "Market Cap": "$238.21 B",
         "Price": "$35.21"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$236.83 B",
-        "Price": "$0.49"
     },
     {
         "Company Name": "Accenture",
@@ -276,7 +276,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$201.44 B",
+        "Market Cap": "$201.45 B",
         "Price": "$1.15"
     },
     {
@@ -306,7 +306,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$187.75 B",
+        "Market Cap": "$187.68 B",
         "Price": "$0.55"
     },
     {
@@ -381,7 +381,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$157.53 B",
+        "Market Cap": "$157.34 B",
         "Price": "$0.60"
     },
     {
@@ -430,14 +430,14 @@
         "Price": "$64.31"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$150.32 B",
-        "Price": "$0.95"
-    },
-    {
         "Company Name": "HSBC",
         "Market Cap": "$150.17 B",
         "Price": "$39.03"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$149.18 B",
+        "Price": "$0.95"
     },
     {
         "Company Name": "Texas Instruments",
