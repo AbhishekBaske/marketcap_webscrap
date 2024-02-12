@@ -11,7 +11,7 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$1.965 T",
+        "Market Cap": "$2.004 T",
         "Price": "$8.12"
     },
     {
@@ -221,13 +221,13 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.62 B",
+        "Market Cap": "$238.60 B",
         "Price": "$108.78"
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$235.49 B",
-        "Price": "$34.80"
+        "Market Cap": "$236.05 B",
+        "Price": "$34.89"
     },
     {
         "Company Name": "Accenture",
@@ -325,14 +325,14 @@
         "Price": "$242.95"
     },
     {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$180.70 B",
-        "Price": "$49.95"
-    },
-    {
         "Company Name": "Alibaba",
         "Market Cap": "$180.04 B",
         "Price": "$72.02"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$179.78 B",
+        "Price": "$49.69"
     },
     {
         "Company Name": "Wells Fargo",
