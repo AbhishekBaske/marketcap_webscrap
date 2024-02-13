@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$374.39 B",
-        "Price": "$56.23"
+        "Market Cap": "$375.89 B",
+        "Price": "$56.46"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -131,7 +131,7 @@
     },
     {
         "Company Name": "Costco",
-        "Market Cap": "$320.93 B",
+        "Market Cap": "$320.55 B",
         "Price": "$722.41"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
         "Company Name": "Toyota",
-        "Market Cap": "$306.54 B",
+        "Market Cap": "$304.19 B",
         "Price": "$225.86"
     },
     {
@@ -235,8 +235,13 @@
         "Price": "$367.43"
     },
     {
+        "Company Name": "SAP",
+        "Market Cap": "$211.71 B",
+        "Price": "$179.39"
+    },
+    {
         "Company Name": "Thermo Fisher Scientific",
-        "Market Cap": "$211.34 B",
+        "Market Cap": "$211.29 B",
         "Price": "$546.86"
     },
     {
@@ -245,29 +250,19 @@
         "Price": "$289.44"
     },
     {
-        "Company Name": "SAP",
-        "Market Cap": "$209.83 B",
-        "Price": "$179.39"
-    },
-    {
         "Company Name": "Roche",
         "Market Cap": "$208.76 B",
         "Price": "$259.74"
     },
     {
         "Company Name": "Shell",
-        "Market Cap": "$207.99 B",
+        "Market Cap": "$207.90 B",
         "Price": "$64.15"
     },
     {
         "Company Name": "Novartis",
         "Market Cap": "$205.48 B",
         "Price": "$100.53"
-    },
-    {
-        "Company Name": "Walt Disney",
-        "Market Cap": "$204.44 B",
-        "Price": "$109.29"
     },
     {
         "Company Name": "Linde",
@@ -285,6 +280,11 @@
         "Price": "$1.15"
     },
     {
+        "Company Name": "Walt Disney",
+        "Market Cap": "$200.47 B",
+        "Price": "$109.29"
+    },
+    {
         "Company Name": "Abbott Laboratories",
         "Market Cap": "$196.44 B",
         "Price": "$112.53"
@@ -296,7 +296,7 @@
     },
     {
         "Company Name": "AstraZeneca",
-        "Market Cap": "$190.39 B",
+        "Market Cap": "$190.97 B",
         "Price": "$61.41"
     },
     {
@@ -315,11 +315,6 @@
         "Price": "$44.03"
     },
     {
-        "Company Name": "Danaher",
-        "Market Cap": "$184.64 B",
-        "Price": "$246.83"
-    },
-    {
         "Company Name": "Intuit",
         "Market Cap": "$183.91 B",
         "Price": "$656.99"
@@ -328,6 +323,11 @@
         "Company Name": "Alibaba",
         "Market Cap": "$182.84 B",
         "Price": "$73.14"
+    },
+    {
+        "Company Name": "Danaher",
+        "Market Cap": "$182.45 B",
+        "Price": "$246.83"
     },
     {
         "Company Name": "Tata Consultancy Services",
@@ -361,7 +361,7 @@
     },
     {
         "Company Name": "Comcast",
-        "Market Cap": "$168.83 B",
+        "Market Cap": "$169.24 B",
         "Price": "$42.61"
     },
     {
@@ -431,7 +431,7 @@
     },
     {
         "Company Name": "Union Pacific Corporation",
-        "Market Cap": "$150.81 B",
+        "Market Cap": "$150.85 B",
         "Price": "$247.40"
     },
     {
@@ -450,14 +450,14 @@
         "Price": "$161.08"
     },
     {
-        "Company Name": "Uber",
-        "Market Cap": "$143.64 B",
-        "Price": "$69.12"
-    },
-    {
         "Company Name": "Morgan Stanley",
         "Market Cap": "$142.58 B",
         "Price": "$86.87"
+    },
+    {
+        "Company Name": "Uber",
+        "Market Cap": "$142.23 B",
+        "Price": "$69.12"
     },
     {
         "Company Name": "Siemens",
@@ -480,14 +480,14 @@
         "Price": "$97.76"
     },
     {
-        "Company Name": "S&P Global",
-        "Market Cap": "$135.68 B",
-        "Price": "$429.53"
-    },
-    {
         "Company Name": "Booking Holdings (Booking.com)",
         "Market Cap": "$135.05 B",
         "Price": "$3,790"
+    },
+    {
+        "Company Name": "S&P Global",
+        "Market Cap": "$134.91 B",
+        "Price": "$429.53"
     },
     {
         "Company Name": "Intuitive Surgical",
@@ -496,7 +496,7 @@
     },
     {
         "Company Name": "HDFC Bank",
-        "Market Cap": "$134.18 B",
+        "Market Cap": "$134.19 B",
         "Price": "$53.00"
     }
 ]
