@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$375.65 B",
-        "Price": "$56.42"
+        "Market Cap": "$377.15 B",
+        "Price": "$56.64"
     },
     {
         "Company Name": "ASML",
@@ -185,11 +185,6 @@
         "Price": "$611.84"
     },
     {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$266.99 B",
-        "Price": "$461.46"
-    },
-    {
         "Company Name": "Bank of America ",
         "Market Cap": "$265.44 B",
         "Price": "$33.62"
@@ -200,19 +195,24 @@
         "Price": "$59.70"
     },
     {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$246.75 B",
+        "Price": "$461.46"
+    },
+    {
         "Company Name": "Hermès",
         "Market Cap": "$246.40 B",
         "Price": "$2,353"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$241.75 B",
-        "Price": "$35.52"
-    },
-    {
         "Company Name": "Netflix",
         "Market Cap": "$241.41 B",
         "Price": "$557.85"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$239.86 B",
+        "Price": "$35.45"
     },
     {
         "Company Name": "ICBC",
@@ -250,14 +250,14 @@
         "Price": "$289.44"
     },
     {
+        "Company Name": "Roche",
+        "Market Cap": "$208.48 B",
+        "Price": "$259.54"
+    },
+    {
         "Company Name": "Shell",
         "Market Cap": "$207.90 B",
         "Price": "$64.15"
-    },
-    {
-        "Company Name": "Roche",
-        "Market Cap": "$206.21 B",
-        "Price": "$259.54"
     },
     {
         "Company Name": "Novartis",
@@ -331,8 +331,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$180.67 B",
-        "Price": "$49.78"
+        "Market Cap": "$180.35 B",
+        "Price": "$49.69"
     },
     {
         "Company Name": "Wells Fargo",
