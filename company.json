@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$434.53 B",
-        "Price": "$869.87"
+        "Market Cap": "$431.78 B",
+        "Price": "$864.37"
     },
     {
         "Company Name": "Mastercard",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$293.12 B",
-        "Price": "$109.86"
+        "Market Cap": "$292.21 B",
+        "Price": "$109.52"
     },
     {
         "Company Name": "Chevron",
@@ -196,18 +196,18 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$246.26 B",
-        "Price": "$460.54"
-    },
-    {
-        "Company Name": "Hermès",
-        "Market Cap": "$242.77 B",
-        "Price": "$2,318"
+        "Market Cap": "$245.33 B",
+        "Price": "$458.81"
     },
     {
         "Company Name": "Netflix",
         "Market Cap": "$241.41 B",
         "Price": "$557.85"
+    },
+    {
+        "Company Name": "Hermès",
+        "Market Cap": "$240.45 B",
+        "Price": "$2,296"
     },
     {
         "Company Name": "Reliance Industries",
@@ -251,8 +251,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$208.42 B",
-        "Price": "$259.46"
+        "Market Cap": "$208.23 B",
+        "Price": "$259.23"
     },
     {
         "Company Name": "Shell",
@@ -425,14 +425,14 @@
         "Price": "$64.63"
     },
     {
-        "Company Name": "Dior",
-        "Market Cap": "$151.03 B",
-        "Price": "$837.20"
-    },
-    {
         "Company Name": "Union Pacific Corporation",
         "Market Cap": "$150.85 B",
         "Price": "$247.40"
+    },
+    {
+        "Company Name": "Dior",
+        "Market Cap": "$150.26 B",
+        "Price": "$832.88"
     },
     {
         "Company Name": "China Construction Bank",
@@ -460,19 +460,19 @@
         "Price": "$69.12"
     },
     {
-        "Company Name": "Prosus",
-        "Market Cap": "$140.17 B",
-        "Price": "$32.08"
-    },
-    {
         "Company Name": "Philip Morris",
         "Market Cap": "$139.72 B",
         "Price": "$90.00"
     },
     {
+        "Company Name": "Prosus",
+        "Market Cap": "$139.47 B",
+        "Price": "$31.92"
+    },
+    {
         "Company Name": "Siemens",
-        "Market Cap": "$138.42 B",
-        "Price": "$175.25"
+        "Market Cap": "$138.37 B",
+        "Price": "$175.18"
     },
     {
         "Company Name": "Royal Bank Of Canada",
