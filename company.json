@@ -205,14 +205,14 @@
         "Price": "$2,353"
     },
     {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$241.75 B",
+        "Price": "$35.52"
+    },
+    {
         "Company Name": "Netflix",
         "Market Cap": "$241.41 B",
         "Price": "$557.85"
-    },
-    {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$239.49 B",
-        "Price": "$35.19"
     },
     {
         "Company Name": "ICBC",
@@ -331,8 +331,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$179.97 B",
-        "Price": "$49.59"
+        "Market Cap": "$180.67 B",
+        "Price": "$49.78"
     },
     {
         "Company Name": "Wells Fargo",
