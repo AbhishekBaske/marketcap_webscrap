@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.023 T",
-        "Price": "$8.36"
+        "Market Cap": "$2.033 T",
+        "Price": "$8.40"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$438.66 B",
-        "Price": "$878.14"
+        "Market Cap": "$437.48 B",
+        "Price": "$875.77"
     },
     {
         "Company Name": "Mastercard",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$294.99 B",
-        "Price": "$110.56"
+        "Market Cap": "$293.35 B",
+        "Price": "$109.95"
     },
     {
         "Company Name": "Chevron",
@@ -201,8 +201,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$243.96 B",
-        "Price": "$2,329"
+        "Market Cap": "$243.79 B",
+        "Price": "$2,328"
     },
     {
         "Company Name": "Netflix",
@@ -245,14 +245,14 @@
         "Price": "$546.86"
     },
     {
-        "Company Name": "Roche",
-        "Market Cap": "$210.09 B",
-        "Price": "$261.55"
-    },
-    {
         "Company Name": "McDonald",
         "Market Cap": "$209.01 B",
         "Price": "$289.44"
+    },
+    {
+        "Company Name": "Roche",
+        "Market Cap": "$208.63 B",
+        "Price": "$259.73"
     },
     {
         "Company Name": "Shell",
@@ -421,8 +421,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$152.39 B",
-        "Price": "$844.74"
+        "Market Cap": "$151.62 B",
+        "Price": "$840.43"
     },
     {
         "Company Name": "TotalEnergies",
@@ -461,8 +461,8 @@
     },
     {
         "Company Name": "Prosus",
-        "Market Cap": "$140.65 B",
-        "Price": "$32.19"
+        "Market Cap": "$140.52 B",
+        "Price": "$32.16"
     },
     {
         "Company Name": "Philip Morris",
@@ -471,8 +471,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$138.79 B",
-        "Price": "$175.71"
+        "Market Cap": "$138.91 B",
+        "Price": "$175.86"
     },
     {
         "Company Name": "Royal Bank Of Canada",
