@@ -1,7 +1,7 @@
 Company Name,Market Cap,Price
 Microsoft,$3.019 T,$406.32
 Apple,$2.857 T,$185.04
-Saudi Aramco,$2.068 T,$8.55
+Saudi Aramco,$2.065 T,$8.54
 Alphabet (Google),$1.811 T,$146.37
 NVIDIA,$1.781 T,$721.28
 Amazon,$1.751 T,$168.64
@@ -16,7 +16,7 @@ Novo Nordisk,$536.89 B,$119.99
 JPMorgan Chase,$501.29 B,$174.26
 UnitedHealth,$478.04 B,$516.85
 Walmart,$455.36 B,$169.14
-LVMH,$436.51 B,$851.39
+LVMH,$435.96 B,$850.32
 Mastercard,$430.22 B,$460.46
 Exxon Mobil,$402.42 B,$101.34
 Johnson & Johnson,$376.66 B,$156.47
@@ -31,16 +31,16 @@ Oracle,$312.49 B,$113.68
 Toyota,$311.88 B,$231.00
 AbbVie,$305.95 B,$173.29
 Kweichow Moutai,$297.94 B,$237.18
-Nestlé,$290.35 B,$108.83
+Nestlé,$289.87 B,$108.64
 Chevron,$278.76 B,$150.60
 AMD,$277.17 B,$171.54
 Salesforce,$272.15 B,$281.15
 Adobe,$272.05 B,$601.89
 Bank of America ,$258.57 B,$32.75
 Coca-Cola,$255.64 B,$59.35
-L'Oréal,$245.72 B,$458.83
-Hermès,$245.12 B,"$2,283"
-Reliance Industries,$241.02 B,$35.62
+L'Oréal,$247.04 B,$461.30
+Hermès,$245.92 B,"$2,290"
+Reliance Industries,$241.37 B,$35.67
 Netflix,$239.97 B,$554.52
 ICBC,$238.78 B,$0.49
 International Holding Company,$238.62 B,$108.79
@@ -49,7 +49,7 @@ Accenture,$227.47 B,$362.81
 SAP,$211.87 B,$173.98
 Thermo Fisher Scientific,$208.09 B,$538.60
 McDonald,$207.33 B,$287.11
-Roche,$205.94 B,$256.45
+Roche,$205.85 B,$256.34
 Shell,$205.54 B,$63.42
 Novartis,$205.38 B,$99.06
 Walt Disney,$202.61 B,$110.46
@@ -63,8 +63,8 @@ Agricultural Bank of China,$187.79 B,$0.55
 China Mobile,$186.56 B,$8.49
 Intel,$182.48 B,$43.16
 Alibaba,$179.00 B,$71.60
-Tata Consultancy Services,$178.80 B,$49.42
 Intuit,$178.68 B,$638.29
+Tata Consultancy Services,$178.61 B,$49.37
 Danaher,$178.53 B,$241.53
 Wells Fargo,$173.60 B,$48.24
 Pinduoduo,$171.44 B,$129.04
@@ -81,8 +81,8 @@ General Electric,$154.29 B,$141.77
 Pfizer,$152.28 B,$26.97
 American Express,$151.77 B,$209.67
 TotalEnergies,$150.99 B,$64.43
-Dior,$150.73 B,$818.52
 China Construction Bank,$150.55 B,$0.95
+Dior,$150.54 B,$817.45
 Applied Materials,$150.02 B,$180.31
 Union Pacific Corporation,$149.76 B,$245.61
 BHP Group,$149.12 B,$58.93
@@ -90,8 +90,8 @@ HSBC,$147.68 B,$38.65
 Texas Instruments,$142.62 B,$156.85
 Uber,$141.97 B,$68.99
 Philip Morris,$138.46 B,$89.19
-Siemens,$137.87 B,$174.54
 Morgan Stanley,$137.82 B,$83.97
+Siemens,$137.55 B,$174.13
 Prosus,$136.80 B,$31.31
 Royal Bank Of Canada,$134.36 B,$94.70
 Intuitive Surgical,$133.49 B,$378.89
