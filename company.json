@@ -36,7 +36,7 @@
     },
     {
         "Company Name": "Berkshire Hathaway ",
-        "Market Cap": "$855.43 B",
+        "Market Cap": "$856.08 B",
         "Price": "$394.80"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
         "Company Name": "Novo Nordisk",
-        "Market Cap": "$535.54 B",
+        "Market Cap": "$536.89 B",
         "Price": "$119.99"
     },
     {
@@ -85,14 +85,14 @@
         "Price": "$169.14"
     },
     {
+        "Company Name": "LVMH",
+        "Market Cap": "$432.06 B",
+        "Price": "$857.75"
+    },
+    {
         "Company Name": "Mastercard",
         "Market Cap": "$430.22 B",
         "Price": "$460.46"
-    },
-    {
-        "Company Name": "LVMH",
-        "Market Cap": "$428.48 B",
-        "Price": "$857.75"
     },
     {
         "Company Name": "Exxon Mobil",
@@ -105,19 +105,19 @@
         "Price": "$156.47"
     },
     {
+        "Company Name": "ASML",
+        "Market Cap": "$373.94 B",
+        "Price": "$903.32"
+    },
+    {
         "Company Name": "Procter & Gamble",
         "Market Cap": "$367.70 B",
         "Price": "$156.27"
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$367.06 B",
-        "Price": "$55.05"
-    },
-    {
-        "Company Name": "ASML",
-        "Market Cap": "$362.15 B",
-        "Price": "$903.32"
+        "Market Cap": "$367.55 B",
+        "Price": "$55.12"
     },
     {
         "Company Name": "Home Depot",
@@ -161,7 +161,7 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$289.83 B",
+        "Market Cap": "$291.03 B",
         "Price": "$108.63"
     },
     {
@@ -191,7 +191,7 @@
     },
     {
         "Company Name": "Coca-Cola",
-        "Market Cap": "$256.59 B",
+        "Market Cap": "$255.64 B",
         "Price": "$59.35"
     },
     {
@@ -200,14 +200,14 @@
         "Price": "$458.44"
     },
     {
+        "Company Name": "Hermès",
+        "Market Cap": "$243.93 B",
+        "Price": "$2,283"
+    },
+    {
         "Company Name": "Netflix",
         "Market Cap": "$239.97 B",
         "Price": "$554.52"
-    },
-    {
-        "Company Name": "Hermès",
-        "Market Cap": "$239.10 B",
-        "Price": "$2,283"
     },
     {
         "Company Name": "Reliance Industries",
@@ -251,7 +251,7 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$206.83 B",
+        "Market Cap": "$205.93 B",
         "Price": "$257.49"
     },
     {
@@ -306,8 +306,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$185.38 B",
-        "Price": "$8.43"
+        "Market Cap": "$185.81 B",
+        "Price": "$8.45"
     },
     {
         "Company Name": "Intel",
@@ -415,6 +415,11 @@
         "Price": "$0.95"
     },
     {
+        "Company Name": "Dior",
+        "Market Cap": "$150.14 B",
+        "Price": "$824.76"
+    },
+    {
         "Company Name": "Applied Materials",
         "Market Cap": "$150.02 B",
         "Price": "$180.31"
@@ -428,11 +433,6 @@
         "Company Name": "BHP Group",
         "Market Cap": "$149.12 B",
         "Price": "$58.93"
-    },
-    {
-        "Company Name": "Dior",
-        "Market Cap": "$148.79 B",
-        "Price": "$824.76"
     },
     {
         "Company Name": "HSBC",
@@ -490,13 +490,13 @@
         "Price": "$52.36"
     },
     {
+        "Company Name": "Inditex",
+        "Market Cap": "$131.14 B",
+        "Price": "$20.88"
+    },
+    {
         "Company Name": "Booking Holdings (Booking.com)",
         "Market Cap": "$130.75 B",
         "Price": "$3,748"
-    },
-    {
-        "Company Name": "Inditex",
-        "Market Cap": "$130.62 B",
-        "Price": "$20.88"
     }
 ]
