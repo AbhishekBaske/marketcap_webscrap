@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$367.33 B",
-        "Price": "$55.07"
+        "Market Cap": "$366.83 B",
+        "Price": "$55.00"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -215,14 +215,14 @@
         "Price": "$35.69"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$238.81 B",
+        "Price": "$0.50"
+    },
+    {
         "Company Name": "International Holding Company",
         "Market Cap": "$238.65 B",
         "Price": "$108.80"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$235.75 B",
-        "Price": "$0.49"
     },
     {
         "Company Name": "Accenture",
@@ -256,7 +256,7 @@
     },
     {
         "Company Name": "Shell",
-        "Market Cap": "$205.57 B",
+        "Market Cap": "$205.55 B",
         "Price": "$63.43"
     },
     {
@@ -305,14 +305,14 @@
         "Price": "$0.55"
     },
     {
+        "Company Name": "China Mobile",
+        "Market Cap": "$186.98 B",
+        "Price": "$8.51"
+    },
+    {
         "Company Name": "Intel",
         "Market Cap": "$186.83 B",
         "Price": "$44.19"
-    },
-    {
-        "Company Name": "China Mobile",
-        "Market Cap": "$186.00 B",
-        "Price": "$8.46"
     },
     {
         "Company Name": "Intuit",
@@ -331,7 +331,7 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$178.70 B",
+        "Market Cap": "$180.86 B",
         "Price": "$49.39"
     },
     {
