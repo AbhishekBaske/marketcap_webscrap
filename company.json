@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$437.20 B",
-        "Price": "$875.21"
+        "Market Cap": "$437.09 B",
+        "Price": "$875.00"
     },
     {
         "Company Name": "Mastercard",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$251.28 B",
-        "Price": "$469.93"
+        "Market Cap": "$251.68 B",
+        "Price": "$470.68"
     },
     {
         "Company Name": "Netflix",
@@ -206,8 +206,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$248.49 B",
-        "Price": "$2,373"
+        "Market Cap": "$247.31 B",
+        "Price": "$2,361"
     },
     {
         "Company Name": "Reliance Industries",
@@ -251,8 +251,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$206.94 B",
-        "Price": "$257.66"
+        "Market Cap": "$206.67 B",
+        "Price": "$257.33"
     },
     {
         "Company Name": "Shell",
@@ -436,8 +436,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$151.02 B",
-        "Price": "$837.09"
+        "Market Cap": "$150.92 B",
+        "Price": "$836.55"
     },
     {
         "Company Name": "HSBC",
@@ -451,8 +451,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$141.76 B",
-        "Price": "$179.47"
+        "Market Cap": "$140.95 B",
+        "Price": "$178.44"
     },
     {
         "Company Name": "Philip Morris",
@@ -465,14 +465,14 @@
         "Price": "$84.00"
     },
     {
-        "Company Name": "Prosus",
-        "Market Cap": "$136.28 B",
-        "Price": "$31.19"
-    },
-    {
         "Company Name": "Royal Bank Of Canada",
         "Market Cap": "$136.10 B",
         "Price": "$96.77"
+    },
+    {
+        "Company Name": "Prosus",
+        "Market Cap": "$135.84 B",
+        "Price": "$31.09"
     },
     {
         "Company Name": "Intuitive Surgical",
