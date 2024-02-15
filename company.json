@@ -310,11 +310,6 @@
         "Price": "$44.05"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$186.10 B",
-        "Price": "$8.47"
-    },
-    {
         "Company Name": "Intuit",
         "Market Cap": "$185.95 B",
         "Price": "$664.28"
@@ -343,6 +338,11 @@
         "Company Name": "QUALCOMM",
         "Market Cap": "$174.07 B",
         "Price": "$155.98"
+    },
+    {
+        "Company Name": "China Mobile",
+        "Market Cap": "$173.43 B",
+        "Price": "$8.47"
     },
     {
         "Company Name": "Verizon",
