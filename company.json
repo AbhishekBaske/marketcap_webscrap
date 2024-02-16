@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$442.48 B",
-        "Price": "$885.79"
+        "Market Cap": "$444.10 B",
+        "Price": "$889.02"
     },
     {
         "Company Name": "Mastercard",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$296.13 B",
-        "Price": "$110.99"
+        "Market Cap": "$295.34 B",
+        "Price": "$110.70"
     },
     {
         "Company Name": "Chevron",
@@ -201,23 +201,23 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$253.86 B",
-        "Price": "$474.76"
+        "Market Cap": "$253.80 B",
+        "Price": "$474.65"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$248.07 B",
-        "Price": "$2,369"
+        "Market Cap": "$249.98 B",
+        "Price": "$2,387"
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.60 B",
-        "Price": "$108.78"
+        "Market Cap": "$240.69 B",
+        "Price": "$109.73"
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$238.58 B",
-        "Price": "$35.26"
+        "Market Cap": "$238.31 B",
+        "Price": "$35.22"
     },
     {
         "Company Name": "Accenture",
@@ -240,6 +240,11 @@
         "Price": "$291.86"
     },
     {
+        "Company Name": "Roche",
+        "Market Cap": "$208.60 B",
+        "Price": "$259.66"
+    },
+    {
         "Company Name": "Linde",
         "Market Cap": "$207.86 B",
         "Price": "$428.69"
@@ -248,11 +253,6 @@
         "Company Name": "SAP",
         "Market Cap": "$207.73 B",
         "Price": "$177.60"
-    },
-    {
-        "Company Name": "Roche",
-        "Market Cap": "$206.83 B",
-        "Price": "$257.45"
     },
     {
         "Company Name": "Walt Disney",
@@ -331,13 +331,13 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$179.06 B",
-        "Price": "$49.49"
+        "Market Cap": "$179.68 B",
+        "Price": "$49.66"
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$174.16 B",
-        "Price": "$8.50"
+        "Market Cap": "$174.29 B",
+        "Price": "$8.51"
     },
     {
         "Company Name": "QUALCOMM",
@@ -410,14 +410,14 @@
         "Price": "$212.53"
     },
     {
+        "Company Name": "Dior",
+        "Market Cap": "$153.41 B",
+        "Price": "$850.38"
+    },
+    {
         "Company Name": "Union Pacific Corporation",
         "Market Cap": "$152.77 B",
         "Price": "$250.55"
-    },
-    {
-        "Company Name": "Dior",
-        "Market Cap": "$152.44 B",
-        "Price": "$844.99"
     },
     {
         "Company Name": "HSBC",
@@ -446,8 +446,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$143.00 B",
-        "Price": "$181.03"
+        "Market Cap": "$142.95 B",
+        "Price": "$180.97"
     },
     {
         "Company Name": "Morgan Stanley",
@@ -465,14 +465,14 @@
         "Price": "$97.97"
     },
     {
-        "Company Name": "Prosus",
-        "Market Cap": "$137.59 B",
-        "Price": "$31.49"
-    },
-    {
         "Company Name": "Arm Holdings",
         "Market Cap": "$137.43 B",
         "Price": "$133.68"
+    },
+    {
+        "Company Name": "Prosus",
+        "Market Cap": "$137.37 B",
+        "Price": "$31.44"
     },
     {
         "Company Name": "HDFC Bank",
