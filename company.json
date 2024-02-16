@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$296.02 B",
-        "Price": "$110.95"
+        "Market Cap": "$296.60 B",
+        "Price": "$111.17"
     },
     {
         "Company Name": "Chevron",
@@ -201,13 +201,13 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$255.51 B",
-        "Price": "$477.85"
+        "Market Cap": "$255.37 B",
+        "Price": "$477.58"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$251.04 B",
-        "Price": "$2,397"
+        "Market Cap": "$250.92 B",
+        "Price": "$2,396"
     },
     {
         "Company Name": "International Holding Company",
@@ -240,14 +240,14 @@
         "Price": "$291.86"
     },
     {
+        "Company Name": "Roche",
+        "Market Cap": "$207.96 B",
+        "Price": "$258.87"
+    },
+    {
         "Company Name": "Linde",
         "Market Cap": "$207.86 B",
         "Price": "$428.69"
-    },
-    {
-        "Company Name": "Roche",
-        "Market Cap": "$207.78 B",
-        "Price": "$258.64"
     },
     {
         "Company Name": "SAP",
@@ -411,8 +411,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$153.84 B",
-        "Price": "$852.74"
+        "Market Cap": "$153.64 B",
+        "Price": "$851.66"
     },
     {
         "Company Name": "Union Pacific Corporation",
@@ -446,8 +446,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$144.10 B",
-        "Price": "$182.43"
+        "Market Cap": "$143.88 B",
+        "Price": "$182.15"
     },
     {
         "Company Name": "Morgan Stanley",
@@ -460,14 +460,14 @@
         "Price": "$88.98"
     },
     {
-        "Company Name": "Prosus",
-        "Market Cap": "$137.81 B",
-        "Price": "$31.54"
-    },
-    {
         "Company Name": "Royal Bank Of Canada",
         "Market Cap": "$137.79 B",
         "Price": "$97.97"
+    },
+    {
+        "Company Name": "Prosus",
+        "Market Cap": "$137.72 B",
+        "Price": "$31.52"
     },
     {
         "Company Name": "Arm Holdings",
