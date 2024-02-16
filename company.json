@@ -36,7 +36,7 @@
     },
     {
         "Company Name": "Berkshire Hathaway ",
-        "Market Cap": "$875.59 B",
+        "Market Cap": "$874.91 B",
         "Price": "$403.45"
     },
     {
@@ -116,8 +116,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$366.08 B",
-        "Price": "$54.89"
+        "Market Cap": "$365.08 B",
+        "Price": "$54.74"
     },
     {
         "Company Name": "Home Depot",
@@ -211,7 +211,7 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$239.81 B",
+        "Market Cap": "$241.57 B",
         "Price": "$35.44"
     },
     {
@@ -251,7 +251,7 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$207.17 B",
+        "Market Cap": "$207.40 B",
         "Price": "$257.95"
     },
     {
@@ -335,14 +335,14 @@
         "Price": "$49.45"
     },
     {
+        "Company Name": "China Mobile",
+        "Market Cap": "$174.60 B",
+        "Price": "$8.52"
+    },
+    {
         "Company Name": "QUALCOMM",
         "Market Cap": "$174.07 B",
         "Price": "$155.98"
-    },
-    {
-        "Company Name": "China Mobile",
-        "Market Cap": "$173.82 B",
-        "Price": "$8.48"
     },
     {
         "Company Name": "Verizon",
@@ -401,7 +401,7 @@
     },
     {
         "Company Name": "Amgen",
-        "Market Cap": "$154.70 B",
+        "Market Cap": "$154.91 B",
         "Price": "$289.07"
     },
     {
@@ -415,11 +415,6 @@
         "Price": "$250.55"
     },
     {
-        "Company Name": "TotalEnergies",
-        "Market Cap": "$152.70 B",
-        "Price": "$65.00"
-    },
-    {
         "Company Name": "HSBC",
         "Market Cap": "$152.35 B",
         "Price": "$39.87"
@@ -428,6 +423,11 @@
         "Company Name": "China Construction Bank",
         "Market Cap": "$152.30 B",
         "Price": "$0.95"
+    },
+    {
+        "Company Name": "TotalEnergies",
+        "Market Cap": "$151.94 B",
+        "Price": "$65.00"
     },
     {
         "Company Name": "Dior",
