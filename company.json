@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$444.87 B",
-        "Price": "$890.58"
+        "Market Cap": "$443.58 B",
+        "Price": "$887.99"
     },
     {
         "Company Name": "Mastercard",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$296.60 B",
-        "Price": "$111.17"
+        "Market Cap": "$296.02 B",
+        "Price": "$110.95"
     },
     {
         "Company Name": "Chevron",
@@ -201,13 +201,13 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$255.37 B",
-        "Price": "$477.58"
+        "Market Cap": "$255.31 B",
+        "Price": "$477.47"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$250.92 B",
-        "Price": "$2,396"
+        "Market Cap": "$250.08 B",
+        "Price": "$2,388"
     },
     {
         "Company Name": "International Holding Company",
@@ -240,11 +240,6 @@
         "Price": "$291.86"
     },
     {
-        "Company Name": "Roche",
-        "Market Cap": "$207.96 B",
-        "Price": "$258.87"
-    },
-    {
         "Company Name": "Linde",
         "Market Cap": "$207.86 B",
         "Price": "$428.69"
@@ -253,6 +248,11 @@
         "Company Name": "SAP",
         "Market Cap": "$207.73 B",
         "Price": "$177.60"
+    },
+    {
+        "Company Name": "Roche",
+        "Market Cap": "$207.69 B",
+        "Price": "$258.53"
     },
     {
         "Company Name": "Walt Disney",
@@ -411,8 +411,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$153.64 B",
-        "Price": "$851.66"
+        "Market Cap": "$152.87 B",
+        "Price": "$847.35"
     },
     {
         "Company Name": "Union Pacific Corporation",
@@ -446,8 +446,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$143.88 B",
-        "Price": "$182.15"
+        "Market Cap": "$143.76 B",
+        "Price": "$182.00"
     },
     {
         "Company Name": "Morgan Stanley",
@@ -465,11 +465,6 @@
         "Price": "$97.97"
     },
     {
-        "Company Name": "Prosus",
-        "Market Cap": "$137.72 B",
-        "Price": "$31.52"
-    },
-    {
         "Company Name": "Arm Holdings",
         "Market Cap": "$137.43 B",
         "Price": "$133.68"
@@ -478,6 +473,11 @@
         "Company Name": "HDFC Bank",
         "Market Cap": "$137.20 B",
         "Price": "$54.19"
+    },
+    {
+        "Company Name": "Prosus",
+        "Market Cap": "$136.98 B",
+        "Price": "$31.35"
     },
     {
         "Company Name": "Intuitive Surgical",
