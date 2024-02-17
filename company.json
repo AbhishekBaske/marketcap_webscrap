@@ -210,14 +210,14 @@
         "Price": "$546.66"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$239.78 B",
-        "Price": "$35.20"
-    },
-    {
         "Company Name": "International Holding Company",
         "Market Cap": "$239.51 B",
         "Price": "$109.19"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$238.15 B",
+        "Price": "$35.20"
     },
     {
         "Company Name": "Accenture",
@@ -246,7 +246,7 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$208.37 B",
+        "Market Cap": "$208.41 B",
         "Price": "$259.38"
     },
     {
