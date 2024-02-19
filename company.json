@@ -111,8 +111,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$369.01 B",
-        "Price": "$55.27"
+        "Market Cap": "$368.51 B",
+        "Price": "$55.20"
     },
     {
         "Company Name": "ASML",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$297.47 B",
-        "Price": "$236.81"
+        "Market Cap": "$296.02 B",
+        "Price": "$235.65"
     },
     {
         "Company Name": "Nestlé",
@@ -256,7 +256,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$205.92 B",
+        "Market Cap": "$206.89 B",
         "Price": "$1.18"
     },
     {
@@ -290,14 +290,14 @@
         "Price": "$48.44"
     },
     {
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$190.80 B",
+        "Price": "$0.56"
+    },
+    {
         "Company Name": "T-Mobile US",
         "Market Cap": "$190.38 B",
         "Price": "$160.41"
-    },
-    {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$188.90 B",
-        "Price": "$0.55"
     },
     {
         "Company Name": "Wells Fargo",
@@ -336,8 +336,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$175.23 B",
-        "Price": "$8.55"
+        "Market Cap": "$176.28 B",
+        "Price": "$8.61"
     },
     {
         "Company Name": "IBM",
@@ -381,8 +381,8 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$159.41 B",
-        "Price": "$0.60"
+        "Market Cap": "$160.51 B",
+        "Price": "$0.61"
     },
     {
         "Company Name": "Nike",
@@ -400,6 +400,11 @@
         "Price": "$27.62"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$154.54 B",
+        "Price": "$0.96"
+    },
+    {
         "Company Name": "HSBC",
         "Market Cap": "$154.06 B",
         "Price": "$40.32"
@@ -408,11 +413,6 @@
         "Company Name": "American Express",
         "Market Cap": "$153.86 B",
         "Price": "$212.56"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$153.64 B",
-        "Price": "$0.95"
     },
     {
         "Company Name": "BHP Group",
