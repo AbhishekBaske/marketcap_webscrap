@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$295.74 B",
-        "Price": "$235.43"
+        "Market Cap": "$295.91 B",
+        "Price": "$235.56"
     },
     {
         "Company Name": "Nestlé",
@@ -211,13 +211,13 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$239.51 B",
-        "Price": "$109.19"
+        "Market Cap": "$238.62 B",
+        "Price": "$108.78"
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$238.29 B",
-        "Price": "$35.22"
+        "Market Cap": "$238.60 B",
+        "Price": "$35.26"
     },
     {
         "Company Name": "Accenture",
@@ -240,14 +240,14 @@
         "Price": "$292.02"
     },
     {
+        "Company Name": "PetroChina",
+        "Market Cap": "$210.45 B",
+        "Price": "$1.20"
+    },
+    {
         "Company Name": "Linde",
         "Market Cap": "$209.29 B",
         "Price": "$431.63"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$208.74 B",
-        "Price": "$1.19"
     },
     {
         "Company Name": "Roche",
@@ -291,8 +291,8 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$192.13 B",
-        "Price": "$0.56"
+        "Market Cap": "$193.56 B",
+        "Price": "$0.57"
     },
     {
         "Company Name": "T-Mobile US",
@@ -331,13 +331,13 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$178.71 B",
-        "Price": "$49.39"
+        "Market Cap": "$179.08 B",
+        "Price": "$49.50"
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$177.45 B",
-        "Price": "$8.66"
+        "Market Cap": "$177.19 B",
+        "Price": "$8.65"
     },
     {
         "Company Name": "IBM",
@@ -360,14 +360,14 @@
         "Price": "$199.57"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$164.83 B",
+        "Price": "$0.63"
+    },
+    {
         "Company Name": "Comcast",
         "Market Cap": "$163.79 B",
         "Price": "$41.24"
-    },
-    {
-        "Company Name": "Bank of China",
-        "Market Cap": "$163.73 B",
-        "Price": "$0.62"
     },
     {
         "Company Name": "Uber",
@@ -385,6 +385,11 @@
         "Price": "$321.91"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$157.61 B",
+        "Price": "$0.98"
+    },
+    {
         "Company Name": "Nike",
         "Market Cap": "$156.83 B",
         "Price": "$103.51"
@@ -393,11 +398,6 @@
         "Company Name": "ServiceNow",
         "Market Cap": "$156.82 B",
         "Price": "$765.00"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$156.49 B",
-        "Price": "$0.97"
     },
     {
         "Company Name": "Pfizer",
