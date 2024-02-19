@@ -295,6 +295,11 @@
         "Price": "$160.41"
     },
     {
+        "Company Name": "China Mobile",
+        "Market Cap": "$189.71 B",
+        "Price": "$8.62"
+    },
+    {
         "Company Name": "Agricultural Bank of China",
         "Market Cap": "$187.83 B",
         "Price": "$0.57"
@@ -333,11 +338,6 @@
         "Company Name": "Tata Consultancy Services",
         "Market Cap": "$178.88 B",
         "Price": "$49.44"
-    },
-    {
-        "Company Name": "China Mobile",
-        "Market Cap": "$176.54 B",
-        "Price": "$8.62"
     },
     {
         "Company Name": "IBM",
