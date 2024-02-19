@@ -111,7 +111,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$369.28 B",
+        "Market Cap": "$368.75 B",
         "Price": "$55.31"
     },
     {
@@ -360,11 +360,6 @@
         "Price": "$199.57"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$165.16 B",
-        "Price": "$0.63"
-    },
-    {
         "Company Name": "Comcast",
         "Market Cap": "$163.79 B",
         "Price": "$41.24"
@@ -385,9 +380,9 @@
         "Price": "$321.91"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$157.57 B",
-        "Price": "$0.98"
+        "Company Name": "Bank of China",
+        "Market Cap": "$157.84 B",
+        "Price": "$0.63"
     },
     {
         "Company Name": "Nike",
@@ -413,6 +408,11 @@
         "Company Name": "American Express",
         "Market Cap": "$153.86 B",
         "Price": "$212.56"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$153.36 B",
+        "Price": "$0.98"
     },
     {
         "Company Name": "BHP Group",
