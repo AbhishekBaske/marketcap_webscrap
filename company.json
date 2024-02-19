@@ -111,8 +111,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$369.51 B",
-        "Price": "$55.35"
+        "Market Cap": "$369.01 B",
+        "Price": "$55.27"
     },
     {
         "Company Name": "ASML",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$297.96 B",
-        "Price": "$237.19"
+        "Market Cap": "$297.47 B",
+        "Price": "$236.81"
     },
     {
         "Company Name": "Nestlé",
@@ -255,6 +255,11 @@
         "Price": "$176.91"
     },
     {
+        "Company Name": "PetroChina",
+        "Market Cap": "$205.92 B",
+        "Price": "$1.18"
+    },
+    {
         "Company Name": "Shell",
         "Market Cap": "$205.87 B",
         "Price": "$63.57"
@@ -268,11 +273,6 @@
         "Company Name": "Walt Disney",
         "Market Cap": "$204.70 B",
         "Price": "$111.60"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$201.53 B",
-        "Price": "$1.15"
     },
     {
         "Company Name": "AstraZeneca",
@@ -296,7 +296,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$187.95 B",
+        "Market Cap": "$188.90 B",
         "Price": "$0.55"
     },
     {
@@ -336,8 +336,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$174.32 B",
-        "Price": "$8.51"
+        "Market Cap": "$175.23 B",
+        "Price": "$8.55"
     },
     {
         "Company Name": "IBM",
@@ -381,7 +381,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$157.94 B",
+        "Market Cap": "$159.41 B",
         "Price": "$0.60"
     },
     {
@@ -410,14 +410,14 @@
         "Price": "$212.56"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$153.64 B",
+        "Price": "$0.95"
+    },
+    {
         "Company Name": "BHP Group",
         "Market Cap": "$152.69 B",
         "Price": "$60.34"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$152.30 B",
-        "Price": "$0.95"
     },
     {
         "Company Name": "Amgen",
