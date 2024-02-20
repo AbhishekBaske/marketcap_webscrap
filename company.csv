@@ -1,7 +1,7 @@
 Company Name,Market Cap,Price
 Microsoft,$3.002 T,$404.06
 Apple,$2.815 T,$182.31
-Saudi Aramco,$2.052 T,$8.48
+Saudi Aramco,$2.046 T,$8.46
 NVIDIA,$1.793 T,$726.13
 Amazon,$1.760 T,$169.51
 Alphabet (Google),$1.754 T,$141.76
@@ -16,7 +16,7 @@ Novo Nordisk,$553.46 B,$124.01
 JPMorgan Chase,$515.67 B,$179.03
 UnitedHealth,$482.39 B,$521.55
 Walmart,$458.64 B,$170.36
-LVMH,$442.36 B,$885.55
+LVMH,$443.06 B,$886.95
 Mastercard,$436.71 B,$468.13
 Exxon Mobil,$411.91 B,$103.73
 Johnson & Johnson,$377.09 B,$156.55
@@ -30,24 +30,24 @@ Costco,$321.25 B,$723.99
 AbbVie,$313.36 B,$177.49
 Toyota,$306.96 B,$227.36
 Oracle,$305.98 B,$111.31
-Nestlé,$298.78 B,$111.99
+Nestlé,$299.87 B,$112.39
 Kweichow Moutai,$291.44 B,$232.01
 Chevron,$286.22 B,$154.63
 AMD,$280.93 B,$173.87
 Salesforce,$280.44 B,$289.72
 Bank of America ,$269.15 B,$34.09
-L'Oréal,$255.83 B,$477.26
+L'Oréal,$256.21 B,$477.96
 Coca-Cola,$255.81 B,$59.39
 Netflix,$252.71 B,$583.95
-Hermès,$250.90 B,"$2,396"
+Hermès,$251.24 B,"$2,399"
 Adobe,$247.09 B,$546.66
 ICBC,$246.57 B,$0.51
-Reliance Industries,$239.66 B,$35.42
+Reliance Industries,$240.02 B,$35.48
 International Holding Company,$238.62 B,$108.78
 Accenture,$231.66 B,$369.48
 Pepsico,$228.59 B,$166.32
+Roche,$211.99 B,$263.75
 Thermo Fisher Scientific,$211.67 B,$547.84
-Roche,$211.12 B,$262.67
 McDonald,$210.87 B,$292.02
 PetroChina,$209.88 B,$1.20
 Linde,$209.29 B,$431.63
@@ -67,7 +67,7 @@ Danaher,$184.80 B,$250.00
 Intel,$183.96 B,$43.51
 Intuit,$183.56 B,$655.74
 Pinduoduo,$179.70 B,$135.26
-Tata Consultancy Services,$175.28 B,$48.45
+Tata Consultancy Services,$175.84 B,$48.60
 IBM,$171.33 B,$187.64
 QUALCOMM,$170.40 B,$152.69
 Verizon,$170.23 B,$40.49
@@ -84,12 +84,12 @@ China Construction Bank,$154.87 B,$0.99
 HSBC,$154.06 B,$40.32
 American Express,$153.86 B,$212.56
 BHP Group,$152.69 B,$60.34
-Dior,$152.52 B,$845.46
+Dior,$152.43 B,$844.92
 Amgen,$152.04 B,$283.70
 TotalEnergies,$150.82 B,$64.45
 Union Pacific Corporation,$150.36 B,$246.59
 Texas Instruments,$145.83 B,$160.38
-Siemens,$143.92 B,$182.20
+Siemens,$143.93 B,$182.22
 Morgan Stanley,$141.97 B,$86.50
 Philip Morris,$139.17 B,$89.65
 Royal Bank Of Canada,$137.80 B,$97.83
@@ -98,4 +98,4 @@ Intuitive Surgical,$133.40 B,$378.63
 S&P Global,$133.04 B,$423.57
 Stryker Corporation,$132.82 B,$349.30
 Inditex,$132.81 B,$21.30
-Prosus,$132.08 B,$30.23
+Prosus,$132.17 B,$30.25
