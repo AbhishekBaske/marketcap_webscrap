@@ -101,7 +101,7 @@
     },
     {
         "Company Name": "Johnson & Johnson",
-        "Market Cap": "$376.85 B",
+        "Market Cap": "$377.09 B",
         "Price": "$156.55"
     },
     {
@@ -110,14 +110,14 @@
         "Price": "$157.51"
     },
     {
-        "Company Name": "Samsung",
-        "Market Cap": "$368.75 B",
-        "Price": "$55.31"
-    },
-    {
         "Company Name": "ASML",
         "Market Cap": "$366.55 B",
         "Price": "$928.94"
+    },
+    {
+        "Company Name": "Samsung",
+        "Market Cap": "$364.26 B",
+        "Price": "$54.64"
     },
     {
         "Company Name": "Home Depot",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$295.92 B",
-        "Price": "$235.57"
+        "Market Cap": "$292.65 B",
+        "Price": "$232.97"
     },
     {
         "Company Name": "Chevron",
@@ -210,6 +210,11 @@
         "Price": "$546.66"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$244.73 B",
+        "Price": "$0.51"
+    },
+    {
         "Company Name": "Reliance Industries",
         "Market Cap": "$240.31 B",
         "Price": "$35.52"
@@ -245,6 +250,11 @@
         "Price": "$292.02"
     },
     {
+        "Company Name": "PetroChina",
+        "Market Cap": "$209.91 B",
+        "Price": "$1.20"
+    },
+    {
         "Company Name": "Linde",
         "Market Cap": "$209.29 B",
         "Price": "$431.63"
@@ -256,7 +266,7 @@
     },
     {
         "Company Name": "Shell",
-        "Market Cap": "$205.87 B",
+        "Market Cap": "$205.71 B",
         "Price": "$63.57"
     },
     {
@@ -268,11 +278,6 @@
         "Company Name": "Walt Disney",
         "Market Cap": "$204.70 B",
         "Price": "$111.60"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$201.41 B",
-        "Price": "$1.20"
     },
     {
         "Company Name": "AstraZeneca",
@@ -290,19 +295,19 @@
         "Price": "$48.44"
     },
     {
-        "Company Name": "T-Mobile US",
-        "Market Cap": "$190.38 B",
-        "Price": "$160.41"
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$194.70 B",
+        "Price": "$0.57"
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$189.71 B",
-        "Price": "$8.62"
+        "Market Cap": "$191.26 B",
+        "Price": "$8.69"
     },
     {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$187.83 B",
-        "Price": "$0.57"
+        "Company Name": "T-Mobile US",
+        "Market Cap": "$190.38 B",
+        "Price": "$160.41"
     },
     {
         "Company Name": "Wells Fargo",
@@ -330,14 +335,14 @@
         "Price": "$655.74"
     },
     {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$179.95 B",
+        "Price": "$49.44"
+    },
+    {
         "Company Name": "Pinduoduo",
         "Market Cap": "$179.70 B",
         "Price": "$135.26"
-    },
-    {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$178.88 B",
-        "Price": "$49.44"
     },
     {
         "Company Name": "IBM",
@@ -360,6 +365,11 @@
         "Price": "$199.57"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$164.52 B",
+        "Price": "$0.63"
+    },
+    {
         "Company Name": "Comcast",
         "Market Cap": "$163.79 B",
         "Price": "$41.24"
@@ -378,11 +388,6 @@
         "Company Name": "Caterpillar",
         "Market Cap": "$160.75 B",
         "Price": "$321.91"
-    },
-    {
-        "Company Name": "Bank of China",
-        "Market Cap": "$157.84 B",
-        "Price": "$0.63"
     },
     {
         "Company Name": "Nike",
@@ -411,7 +416,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$153.36 B",
+        "Market Cap": "$153.14 B",
         "Price": "$0.98"
     },
     {
@@ -493,10 +498,5 @@
         "Company Name": "Inditex",
         "Market Cap": "$132.81 B",
         "Price": "$21.30"
-    },
-    {
-        "Company Name": "Arm Holdings",
-        "Market Cap": "$131.94 B",
-        "Price": "$128.34"
     }
 ]
