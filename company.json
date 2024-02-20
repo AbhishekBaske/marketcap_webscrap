@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$441.79 B",
-        "Price": "$884.41"
+        "Market Cap": "$440.61 B",
+        "Price": "$882.04"
     },
     {
         "Company Name": "Mastercard",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$300.55 B",
-        "Price": "$112.65"
+        "Market Cap": "$300.04 B",
+        "Price": "$112.46"
     },
     {
         "Company Name": "Kweichow Moutai",
@@ -185,14 +185,14 @@
         "Price": "$34.09"
     },
     {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$256.24 B",
-        "Price": "$478.02"
-    },
-    {
         "Company Name": "Coca-Cola",
         "Market Cap": "$255.81 B",
         "Price": "$59.39"
+    },
+    {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$255.34 B",
+        "Price": "$476.34"
     },
     {
         "Company Name": "Netflix",
@@ -201,8 +201,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$250.87 B",
-        "Price": "$2,395"
+        "Market Cap": "$249.91 B",
+        "Price": "$2,386"
     },
     {
         "Company Name": "Adobe",
@@ -236,8 +236,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$213.09 B",
-        "Price": "$265.12"
+        "Market Cap": "$212.18 B",
+        "Price": "$263.98"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -425,14 +425,14 @@
         "Price": "$60.34"
     },
     {
-        "Company Name": "Dior",
-        "Market Cap": "$152.21 B",
-        "Price": "$843.69"
-    },
-    {
         "Company Name": "Amgen",
         "Market Cap": "$152.04 B",
         "Price": "$283.70"
+    },
+    {
+        "Company Name": "Dior",
+        "Market Cap": "$152.01 B",
+        "Price": "$842.61"
     },
     {
         "Company Name": "TotalEnergies",
@@ -495,8 +495,8 @@
         "Price": "$21.30"
     },
     {
-        "Company Name": "Prosus",
-        "Market Cap": "$132.00 B",
-        "Price": "$30.21"
+        "Company Name": "Arm Holdings",
+        "Market Cap": "$131.94 B",
+        "Price": "$128.34"
     }
 ]
