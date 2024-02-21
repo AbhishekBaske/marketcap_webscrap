@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.059 T",
-        "Price": "$8.51"
+        "Market Cap": "$2.072 T",
+        "Price": "$8.56"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$446.71 B",
-        "Price": "$892.41"
+        "Market Cap": "$446.93 B",
+        "Price": "$892.84"
     },
     {
         "Company Name": "Mastercard",
@@ -191,13 +191,13 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$256.95 B",
-        "Price": "$480.54"
+        "Market Cap": "$257.21 B",
+        "Price": "$481.02"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$253.21 B",
-        "Price": "$2,418"
+        "Market Cap": "$253.84 B",
+        "Price": "$2,424"
     },
     {
         "Company Name": "ICBC",
@@ -421,8 +421,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$153.53 B",
-        "Price": "$845.59"
+        "Market Cap": "$153.33 B",
+        "Price": "$844.51"
     },
     {
         "Company Name": "Amgen",
@@ -451,8 +451,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$144.83 B",
-        "Price": "$183.35"
+        "Market Cap": "$145.03 B",
+        "Price": "$183.61"
     },
     {
         "Company Name": "Morgan Stanley",
@@ -485,6 +485,11 @@
         "Price": "$426.01"
     },
     {
+        "Company Name": "Prosus",
+        "Market Cap": "$133.22 B",
+        "Price": "$30.49"
+    },
+    {
         "Company Name": "Intuitive Surgical",
         "Market Cap": "$133.05 B",
         "Price": "$377.64"
@@ -493,10 +498,5 @@
         "Company Name": "Stryker Corporation",
         "Market Cap": "$132.35 B",
         "Price": "$348.07"
-    },
-    {
-        "Company Name": "Prosus",
-        "Market Cap": "$131.82 B",
-        "Price": "$30.17"
     }
 ]
