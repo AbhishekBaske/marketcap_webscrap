@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.052 T",
-        "Price": "$8.48"
+        "Market Cap": "$2.059 T",
+        "Price": "$8.51"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$446.55 B",
-        "Price": "$892.08"
+        "Market Cap": "$446.71 B",
+        "Price": "$892.41"
     },
     {
         "Company Name": "Mastercard",
@@ -151,8 +151,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$302.41 B",
-        "Price": "$113.35"
+        "Market Cap": "$302.02 B",
+        "Price": "$113.20"
     },
     {
         "Company Name": "Kweichow Moutai",
@@ -191,13 +191,13 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$256.37 B",
-        "Price": "$479.46"
+        "Market Cap": "$256.95 B",
+        "Price": "$480.54"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$253.10 B",
-        "Price": "$2,417"
+        "Market Cap": "$253.21 B",
+        "Price": "$2,418"
     },
     {
         "Company Name": "ICBC",
@@ -215,14 +215,14 @@
         "Price": "$541.91"
     },
     {
-        "Company Name": "International Holding Company",
-        "Market Cap": "$238.66 B",
-        "Price": "$108.80"
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$239.53 B",
+        "Price": "$35.40"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$238.49 B",
-        "Price": "$35.25"
+        "Company Name": "International Holding Company",
+        "Market Cap": "$238.60 B",
+        "Price": "$108.78"
     },
     {
         "Company Name": "Pepsico",
@@ -255,14 +255,14 @@
         "Price": "$292.65"
     },
     {
+        "Company Name": "Roche",
+        "Market Cap": "$210.20 B",
+        "Price": "$261.44"
+    },
+    {
         "Company Name": "Novartis",
         "Market Cap": "$210.14 B",
         "Price": "$102.72"
-    },
-    {
-        "Company Name": "Roche",
-        "Market Cap": "$209.79 B",
-        "Price": "$260.93"
     },
     {
         "Company Name": "SAP",
@@ -341,8 +341,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$174.21 B",
-        "Price": "$48.15"
+        "Market Cap": "$174.17 B",
+        "Price": "$48.14"
     },
     {
         "Company Name": "Verizon",
@@ -421,8 +421,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$153.43 B",
-        "Price": "$845.05"
+        "Market Cap": "$153.53 B",
+        "Price": "$845.59"
     },
     {
         "Company Name": "Amgen",
@@ -451,8 +451,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$144.77 B",
-        "Price": "$183.28"
+        "Market Cap": "$144.83 B",
+        "Price": "$183.35"
     },
     {
         "Company Name": "Morgan Stanley",
@@ -496,7 +496,7 @@
     },
     {
         "Company Name": "Prosus",
-        "Market Cap": "$131.91 B",
-        "Price": "$30.19"
+        "Market Cap": "$131.82 B",
+        "Price": "$30.17"
     }
 ]
