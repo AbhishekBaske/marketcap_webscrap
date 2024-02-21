@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$444.98 B",
-        "Price": "$888.95"
+        "Market Cap": "$443.90 B",
+        "Price": "$886.79"
     },
     {
         "Company Name": "Mastercard",
@@ -151,8 +151,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$302.23 B",
-        "Price": "$113.28"
+        "Market Cap": "$303.02 B",
+        "Price": "$113.57"
     },
     {
         "Company Name": "Kweichow Moutai",
@@ -191,13 +191,13 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$257.42 B",
-        "Price": "$481.42"
+        "Market Cap": "$257.28 B",
+        "Price": "$481.15"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$252.63 B",
-        "Price": "$2,412"
+        "Market Cap": "$252.18 B",
+        "Price": "$2,408"
     },
     {
         "Company Name": "ICBC",
@@ -256,8 +256,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$210.29 B",
-        "Price": "$261.55"
+        "Market Cap": "$210.48 B",
+        "Price": "$261.78"
     },
     {
         "Company Name": "Novartis",
@@ -421,8 +421,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$152.69 B",
-        "Price": "$840.99"
+        "Market Cap": "$152.49 B",
+        "Price": "$839.90"
     },
     {
         "Company Name": "Amgen",
@@ -451,8 +451,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$144.45 B",
-        "Price": "$182.87"
+        "Market Cap": "$144.26 B",
+        "Price": "$182.63"
     },
     {
         "Company Name": "Morgan Stanley",
@@ -485,14 +485,14 @@
         "Price": "$426.01"
     },
     {
-        "Company Name": "Prosus",
-        "Market Cap": "$133.09 B",
-        "Price": "$30.46"
-    },
-    {
         "Company Name": "Intuitive Surgical",
         "Market Cap": "$133.05 B",
         "Price": "$377.64"
+    },
+    {
+        "Company Name": "Prosus",
+        "Market Cap": "$132.61 B",
+        "Price": "$30.35"
     },
     {
         "Company Name": "Stryker Corporation",
