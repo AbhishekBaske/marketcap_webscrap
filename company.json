@@ -11,7 +11,7 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.043 T",
+        "Market Cap": "$2.062 T",
         "Price": "$8.44"
     },
     {
@@ -111,8 +111,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$367.41 B",
-        "Price": "$55.04"
+        "Market Cap": "$365.91 B",
+        "Price": "$54.81"
     },
     {
         "Company Name": "ASML",
@@ -155,14 +155,14 @@
         "Price": "$112.94"
     },
     {
+        "Company Name": "Kweichow Moutai",
+        "Market Cap": "$299.07 B",
+        "Price": "$238.08"
+    },
+    {
         "Company Name": "Oracle",
         "Market Cap": "$298.12 B",
         "Price": "$108.45"
-    },
-    {
-        "Company Name": "Kweichow Moutai",
-        "Market Cap": "$293.69 B",
-        "Price": "$233.80"
     },
     {
         "Company Name": "Chevron",
@@ -195,14 +195,14 @@
         "Price": "$479.62"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$251.91 B",
+        "Price": "$0.52"
+    },
+    {
         "Company Name": "Hermès",
         "Market Cap": "$251.32 B",
         "Price": "$2,400"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$250.06 B",
-        "Price": "$0.52"
     },
     {
         "Company Name": "Netflix",
@@ -236,8 +236,8 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$213.43 B",
-        "Price": "$1.22"
+        "Market Cap": "$216.60 B",
+        "Price": "$1.24"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -291,8 +291,8 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$198.32 B",
-        "Price": "$0.58"
+        "Market Cap": "$199.74 B",
+        "Price": "$0.59"
     },
     {
         "Company Name": "Cisco",
@@ -301,8 +301,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$193.30 B",
-        "Price": "$8.78"
+        "Market Cap": "$194.14 B",
+        "Price": "$8.82"
     },
     {
         "Company Name": "T-Mobile US",
@@ -350,6 +350,11 @@
         "Price": "$40.50"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$169.68 B",
+        "Price": "$0.65"
+    },
+    {
         "Company Name": "QUALCOMM",
         "Market Cap": "$169.58 B",
         "Price": "$151.96"
@@ -358,11 +363,6 @@
         "Company Name": "IBM",
         "Market Cap": "$167.50 B",
         "Price": "$183.44"
-    },
-    {
-        "Company Name": "Bank of China",
-        "Market Cap": "$166.75 B",
-        "Price": "$0.63"
     },
     {
         "Company Name": "Comcast",
@@ -375,14 +375,14 @@
         "Price": "$148.62"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$159.88 B",
+        "Price": "$1.01"
+    },
+    {
         "Company Name": "Uber",
         "Market Cap": "$159.05 B",
         "Price": "$76.60"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$157.67 B",
-        "Price": "$0.99"
     },
     {
         "Company Name": "Applied Materials",
