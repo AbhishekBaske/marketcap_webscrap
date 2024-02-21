@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$301.35 B",
-        "Price": "$239.89"
+        "Market Cap": "$300.28 B",
+        "Price": "$239.04"
     },
     {
         "Company Name": "Oracle",
@@ -201,7 +201,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$251.34 B",
+        "Market Cap": "$249.50 B",
         "Price": "$0.52"
     },
     {
@@ -216,8 +216,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$241.70 B",
-        "Price": "$35.72"
+        "Market Cap": "$241.25 B",
+        "Price": "$35.66"
     },
     {
         "Company Name": "International Holding Company",
@@ -236,8 +236,8 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$213.53 B",
-        "Price": "$1.22"
+        "Market Cap": "$212.55 B",
+        "Price": "$1.21"
     },
     {
         "Company Name": "Roche",
@@ -271,7 +271,7 @@
     },
     {
         "Company Name": "Shell",
-        "Market Cap": "$205.87 B",
+        "Market Cap": "$205.79 B",
         "Price": "$63.62"
     },
     {
@@ -291,7 +291,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$199.11 B",
+        "Market Cap": "$198.63 B",
         "Price": "$0.58"
     },
     {
@@ -336,8 +336,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$179.72 B",
-        "Price": "$48.79"
+        "Market Cap": "$176.32 B",
+        "Price": "$48.73"
     },
     {
         "Company Name": "Pinduoduo",
@@ -355,14 +355,14 @@
         "Price": "$151.96"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$168.11 B",
-        "Price": "$0.64"
-    },
-    {
         "Company Name": "IBM",
         "Market Cap": "$167.50 B",
         "Price": "$183.44"
+    },
+    {
+        "Company Name": "Bank of China",
+        "Market Cap": "$167.38 B",
+        "Price": "$0.64"
     },
     {
         "Company Name": "Comcast",
@@ -375,14 +375,14 @@
         "Price": "$148.62"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$159.24 B",
-        "Price": "$1.00"
-    },
-    {
         "Company Name": "Uber",
         "Market Cap": "$159.05 B",
         "Price": "$76.60"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$158.36 B",
+        "Price": "$1.00"
     },
     {
         "Company Name": "Applied Materials",
