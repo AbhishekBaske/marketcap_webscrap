@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$448.59 B",
-        "Price": "$898.02"
+        "Market Cap": "$447.18 B",
+        "Price": "$895.20"
     },
     {
         "Company Name": "Mastercard",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$291.74 B",
-        "Price": "$109.35"
+        "Market Cap": "$289.28 B",
+        "Price": "$108.42"
     },
     {
         "Company Name": "Chevron",
@@ -191,17 +191,17 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$259.98 B",
-        "Price": "$486.21"
+        "Market Cap": "$260.65 B",
+        "Price": "$487.46"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$255.68 B",
-        "Price": "$2,441"
+        "Market Cap": "$255.05 B",
+        "Price": "$2,435"
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$248.57 B",
+        "Market Cap": "$249.79 B",
         "Price": "$0.52"
     },
     {
@@ -216,8 +216,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$239.64 B",
-        "Price": "$35.42"
+        "Market Cap": "$241.14 B",
+        "Price": "$35.64"
     },
     {
         "Company Name": "International Holding Company",
@@ -250,14 +250,14 @@
         "Price": "$439.46"
     },
     {
-        "Company Name": "Roche",
-        "Market Cap": "$212.55 B",
-        "Price": "$264.32"
-    },
-    {
         "Company Name": "McDonald",
         "Market Cap": "$212.24 B",
         "Price": "$293.91"
+    },
+    {
+        "Company Name": "Roche",
+        "Market Cap": "$211.72 B",
+        "Price": "$263.29"
     },
     {
         "Company Name": "Novartis",
@@ -306,8 +306,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$193.57 B",
-        "Price": "$8.80"
+        "Market Cap": "$194.14 B",
+        "Price": "$8.82"
     },
     {
         "Company Name": "Alibaba",
@@ -336,8 +336,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$176.06 B",
-        "Price": "$48.66"
+        "Market Cap": "$176.51 B",
+        "Price": "$48.79"
     },
     {
         "Company Name": "Verizon",
@@ -410,11 +410,6 @@
         "Price": "$37.22"
     },
     {
-        "Company Name": "Dior",
-        "Market Cap": "$153.41 B",
-        "Price": "$850.35"
-    },
-    {
         "Company Name": "ServiceNow",
         "Market Cap": "$153.32 B",
         "Price": "$747.94"
@@ -423,6 +418,11 @@
         "Company Name": "Union Pacific Corporation",
         "Market Cap": "$153.24 B",
         "Price": "$251.32"
+    },
+    {
+        "Company Name": "Dior",
+        "Market Cap": "$152.82 B",
+        "Price": "$847.09"
     },
     {
         "Company Name": "American Express",
@@ -446,8 +446,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$147.36 B",
-        "Price": "$186.56"
+        "Market Cap": "$148.10 B",
+        "Price": "$187.49"
     },
     {
         "Company Name": "BHP Group",
@@ -481,8 +481,8 @@
     },
     {
         "Company Name": "Prosus",
-        "Market Cap": "$134.49 B",
-        "Price": "$30.78"
+        "Market Cap": "$134.88 B",
+        "Price": "$30.87"
     },
     {
         "Company Name": "Intuitive Surgical",
