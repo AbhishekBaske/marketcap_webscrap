@@ -300,14 +300,14 @@
         "Price": "$48.57"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$194.12 B",
-        "Price": "$8.82"
-    },
-    {
         "Company Name": "T-Mobile US",
         "Market Cap": "$194.11 B",
         "Price": "$163.55"
+    },
+    {
+        "Company Name": "China Mobile",
+        "Market Cap": "$194.10 B",
+        "Price": "$8.82"
     },
     {
         "Company Name": "Wells Fargo",
