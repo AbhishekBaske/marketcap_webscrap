@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$449.41 B",
-        "Price": "$899.66"
+        "Market Cap": "$450.01 B",
+        "Price": "$900.86"
     },
     {
         "Company Name": "Mastercard",
@@ -160,14 +160,14 @@
         "Price": "$108.16"
     },
     {
+        "Company Name": "Nestlé",
+        "Market Cap": "$288.24 B",
+        "Price": "$108.04"
+    },
+    {
         "Company Name": "Chevron",
         "Market Cap": "$287.71 B",
         "Price": "$155.44"
-    },
-    {
-        "Company Name": "Nestlé",
-        "Market Cap": "$287.48 B",
-        "Price": "$107.75"
     },
     {
         "Company Name": "Salesforce",
@@ -191,13 +191,13 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$261.70 B",
-        "Price": "$489.41"
+        "Market Cap": "$261.64 B",
+        "Price": "$489.30"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$255.54 B",
-        "Price": "$2,440"
+        "Market Cap": "$255.88 B",
+        "Price": "$2,443"
     },
     {
         "Company Name": "ICBC",
@@ -261,8 +261,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$209.63 B",
-        "Price": "$260.69"
+        "Market Cap": "$208.35 B",
+        "Price": "$259.10"
     },
     {
         "Company Name": "Shell",
@@ -410,14 +410,14 @@
         "Price": "$37.22"
     },
     {
+        "Company Name": "Dior",
+        "Market Cap": "$153.59 B",
+        "Price": "$851.34"
+    },
+    {
         "Company Name": "ServiceNow",
         "Market Cap": "$153.32 B",
         "Price": "$747.94"
-    },
-    {
-        "Company Name": "Dior",
-        "Market Cap": "$153.29 B",
-        "Price": "$849.71"
     },
     {
         "Company Name": "Union Pacific Corporation",
@@ -446,8 +446,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$146.78 B",
-        "Price": "$185.82"
+        "Market Cap": "$146.38 B",
+        "Price": "$185.32"
     },
     {
         "Company Name": "BHP Group",
@@ -481,8 +481,8 @@
     },
     {
         "Company Name": "Prosus",
-        "Market Cap": "$135.19 B",
-        "Price": "$30.94"
+        "Market Cap": "$135.49 B",
+        "Price": "$31.01"
     },
     {
         "Company Name": "Intuitive Surgical",
