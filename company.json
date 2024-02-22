@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$450.01 B",
-        "Price": "$900.86"
+        "Market Cap": "$450.71 B",
+        "Price": "$902.27"
     },
     {
         "Company Name": "Mastercard",
@@ -160,14 +160,14 @@
         "Price": "$108.16"
     },
     {
-        "Company Name": "Nestlé",
-        "Market Cap": "$288.24 B",
-        "Price": "$108.04"
-    },
-    {
         "Company Name": "Chevron",
         "Market Cap": "$287.71 B",
         "Price": "$155.44"
+    },
+    {
+        "Company Name": "Nestlé",
+        "Market Cap": "$287.12 B",
+        "Price": "$107.61"
     },
     {
         "Company Name": "Salesforce",
@@ -191,13 +191,13 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$261.64 B",
-        "Price": "$489.30"
+        "Market Cap": "$262.22 B",
+        "Price": "$490.39"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$255.88 B",
-        "Price": "$2,443"
+        "Market Cap": "$256.11 B",
+        "Price": "$2,445"
     },
     {
         "Company Name": "ICBC",
@@ -261,8 +261,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$208.35 B",
-        "Price": "$259.10"
+        "Market Cap": "$209.13 B",
+        "Price": "$260.06"
     },
     {
         "Company Name": "Shell",
@@ -411,8 +411,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$153.59 B",
-        "Price": "$851.34"
+        "Market Cap": "$153.98 B",
+        "Price": "$853.51"
     },
     {
         "Company Name": "ServiceNow",
@@ -446,8 +446,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$146.38 B",
-        "Price": "$185.32"
+        "Market Cap": "$147.12 B",
+        "Price": "$186.25"
     },
     {
         "Company Name": "BHP Group",
