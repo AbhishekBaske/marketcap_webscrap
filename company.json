@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$445.14 B",
-        "Price": "$889.27"
+        "Market Cap": "$445.38 B",
+        "Price": "$889.76"
     },
     {
         "Company Name": "Mastercard",
@@ -111,8 +111,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$365.31 B",
-        "Price": "$54.68"
+        "Market Cap": "$365.93 B",
+        "Price": "$54.77"
     },
     {
         "Company Name": "Home Depot",
@@ -151,13 +151,13 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$300.75 B",
-        "Price": "$112.72"
+        "Market Cap": "$300.91 B",
+        "Price": "$112.78"
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$299.86 B",
-        "Price": "$238.71"
+        "Market Cap": "$299.68 B",
+        "Price": "$238.56"
     },
     {
         "Company Name": "Oracle",
@@ -191,23 +191,23 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$257.29 B",
-        "Price": "$481.17"
+        "Market Cap": "$257.43 B",
+        "Price": "$481.43"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$252.61 B",
-        "Price": "$2,412"
+        "Market Cap": "$252.75 B",
+        "Price": "$2,413"
+    },
+    {
+        "Company Name": "ICBC",
+        "Market Cap": "$249.17 B",
+        "Price": "$0.52"
     },
     {
         "Company Name": "Netflix",
         "Market Cap": "$248.12 B",
         "Price": "$573.35"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$248.00 B",
-        "Price": "$0.52"
     },
     {
         "Company Name": "Adobe",
@@ -216,8 +216,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$240.10 B",
-        "Price": "$35.41"
+        "Market Cap": "$240.34 B",
+        "Price": "$35.44"
     },
     {
         "Company Name": "International Holding Company",
@@ -236,7 +236,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$218.31 B",
+        "Market Cap": "$218.42 B",
         "Price": "$1.25"
     },
     {
@@ -251,8 +251,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$212.31 B",
-        "Price": "$262.53"
+        "Market Cap": "$212.43 B",
+        "Price": "$262.67"
     },
     {
         "Company Name": "McDonald",
@@ -286,7 +286,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$198.92 B",
+        "Market Cap": "$198.32 B",
         "Price": "$0.58"
     },
     {
@@ -306,8 +306,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$192.76 B",
-        "Price": "$8.76"
+        "Market Cap": "$191.46 B",
+        "Price": "$8.70"
     },
     {
         "Company Name": "Alibaba",
@@ -336,8 +336,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$175.89 B",
-        "Price": "$48.14"
+        "Market Cap": "$178.10 B",
+        "Price": "$48.75"
     },
     {
         "Company Name": "Verizon",
@@ -356,7 +356,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$166.33 B",
+        "Market Cap": "$166.23 B",
         "Price": "$0.63"
     },
     {
@@ -396,7 +396,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$158.21 B",
+        "Market Cap": "$158.11 B",
         "Price": "$0.99"
     },
     {
@@ -410,14 +410,14 @@
         "Price": "$37.22"
     },
     {
+        "Company Name": "Dior",
+        "Market Cap": "$153.37 B",
+        "Price": "$844.70"
+    },
+    {
         "Company Name": "ServiceNow",
         "Market Cap": "$153.32 B",
         "Price": "$747.94"
-    },
-    {
-        "Company Name": "Dior",
-        "Market Cap": "$153.28 B",
-        "Price": "$844.25"
     },
     {
         "Company Name": "Union Pacific Corporation",
@@ -451,8 +451,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$144.85 B",
-        "Price": "$183.37"
+        "Market Cap": "$144.92 B",
+        "Price": "$183.47"
     },
     {
         "Company Name": "Philip Morris",
@@ -486,8 +486,8 @@
     },
     {
         "Company Name": "Prosus",
-        "Market Cap": "$133.44 B",
-        "Price": "$30.54"
+        "Market Cap": "$133.53 B",
+        "Price": "$30.56"
     },
     {
         "Company Name": "S&P Global",
