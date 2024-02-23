@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$458.53 B",
-        "Price": "$917.91"
+        "Market Cap": "$457.88 B",
+        "Price": "$916.61"
     },
     {
         "Company Name": "Mastercard",
@@ -191,13 +191,13 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$263.25 B",
-        "Price": "$492.31"
+        "Market Cap": "$263.30 B",
+        "Price": "$492.42"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$260.74 B",
-        "Price": "$2,490"
+        "Market Cap": "$260.63 B",
+        "Price": "$2,489"
     },
     {
         "Company Name": "Netflix",
@@ -266,8 +266,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$210.44 B",
-        "Price": "$261.59"
+        "Market Cap": "$210.49 B",
+        "Price": "$261.65"
     },
     {
         "Company Name": "Shell",
@@ -405,14 +405,14 @@
         "Price": "$769.21"
     },
     {
-        "Company Name": "Dior",
-        "Market Cap": "$155.61 B",
-        "Price": "$862.57"
-    },
-    {
         "Company Name": "Pfizer",
         "Market Cap": "$155.55 B",
         "Price": "$27.55"
+    },
+    {
+        "Company Name": "Dior",
+        "Market Cap": "$155.42 B",
+        "Price": "$861.49"
     },
     {
         "Company Name": "Union Pacific Corporation",
@@ -441,8 +441,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$148.64 B",
-        "Price": "$188.17"
+        "Market Cap": "$148.42 B",
+        "Price": "$187.89"
     },
     {
         "Company Name": "BHP Group",
@@ -496,7 +496,7 @@
     },
     {
         "Company Name": "Prosus",
-        "Market Cap": "$134.36 B",
-        "Price": "$30.75"
+        "Market Cap": "$134.49 B",
+        "Price": "$30.78"
     }
 ]
