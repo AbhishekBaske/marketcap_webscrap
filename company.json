@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$367.20 B",
-        "Price": "$54.96"
+        "Market Cap": "$367.70 B",
+        "Price": "$55.04"
     },
     {
         "Company Name": "Tencent",
@@ -210,14 +210,14 @@
         "Price": "$0.53"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$243.01 B",
-        "Price": "$35.92"
-    },
-    {
         "Company Name": "Adobe",
         "Market Cap": "$242.98 B",
         "Price": "$537.57"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$242.80 B",
+        "Price": "$35.88"
     },
     {
         "Company Name": "International Holding Company",
@@ -336,8 +336,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$179.08 B",
-        "Price": "$49.50"
+        "Market Cap": "$179.05 B",
+        "Price": "$49.49"
     },
     {
         "Company Name": "Pinduoduo",
