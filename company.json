@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$457.88 B",
-        "Price": "$916.61"
+        "Market Cap": "$458.69 B",
+        "Price": "$918.24"
     },
     {
         "Company Name": "Mastercard",
@@ -166,8 +166,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$289.24 B",
-        "Price": "$108.41"
+        "Market Cap": "$289.00 B",
+        "Price": "$108.32"
     },
     {
         "Company Name": "Chevron",
@@ -191,13 +191,13 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$263.30 B",
-        "Price": "$492.42"
+        "Market Cap": "$262.99 B",
+        "Price": "$491.82"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$260.63 B",
-        "Price": "$2,489"
+        "Market Cap": "$260.80 B",
+        "Price": "$2,490"
     },
     {
         "Company Name": "Netflix",
@@ -266,8 +266,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$210.49 B",
-        "Price": "$261.65"
+        "Market Cap": "$210.26 B",
+        "Price": "$261.36"
     },
     {
         "Company Name": "Shell",
@@ -405,14 +405,14 @@
         "Price": "$769.21"
     },
     {
+        "Company Name": "Dior",
+        "Market Cap": "$156.00 B",
+        "Price": "$864.74"
+    },
+    {
         "Company Name": "Pfizer",
         "Market Cap": "$155.55 B",
         "Price": "$27.55"
-    },
-    {
-        "Company Name": "Dior",
-        "Market Cap": "$155.42 B",
-        "Price": "$861.49"
     },
     {
         "Company Name": "Union Pacific Corporation",
@@ -441,8 +441,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$148.42 B",
-        "Price": "$187.89"
+        "Market Cap": "$148.96 B",
+        "Price": "$188.59"
     },
     {
         "Company Name": "BHP Group",
@@ -496,7 +496,7 @@
     },
     {
         "Company Name": "Prosus",
-        "Market Cap": "$134.49 B",
-        "Price": "$30.78"
+        "Market Cap": "$134.31 B",
+        "Price": "$30.74"
     }
 ]
