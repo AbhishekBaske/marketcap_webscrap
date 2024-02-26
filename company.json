@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$366.82 B",
-        "Price": "$54.89"
+        "Market Cap": "$366.31 B",
+        "Price": "$54.81"
     },
     {
         "Company Name": "Tencent",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$299.28 B",
-        "Price": "$238.24"
+        "Market Cap": "$295.21 B",
+        "Price": "$235.01"
     },
     {
         "Company Name": "Nestlé",
@@ -205,14 +205,14 @@
         "Price": "$583.56"
     },
     {
-        "Company Name": "ICBC",
-        "Market Cap": "$251.34 B",
-        "Price": "$0.53"
-    },
-    {
         "Company Name": "Adobe",
         "Market Cap": "$250.15 B",
         "Price": "$553.44"
+    },
+    {
+        "Company Name": "ICBC",
+        "Market Cap": "$249.52 B",
+        "Price": "$0.53"
     },
     {
         "Company Name": "Reliance Industries",
@@ -236,7 +236,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$221.00 B",
+        "Market Cap": "$220.02 B",
         "Price": "$1.26"
     },
     {
@@ -286,7 +286,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$202.02 B",
+        "Market Cap": "$200.60 B",
         "Price": "$0.59"
     },
     {
@@ -310,14 +310,14 @@
         "Price": "$53.86"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$190.79 B",
-        "Price": "$8.67"
-    },
-    {
         "Company Name": "Alibaba",
         "Market Cap": "$190.60 B",
         "Price": "$75.96"
+    },
+    {
+        "Company Name": "China Mobile",
+        "Market Cap": "$189.95 B",
+        "Price": "$8.63"
     },
     {
         "Company Name": "Danaher",
@@ -361,7 +361,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$168.52 B",
+        "Market Cap": "$167.42 B",
         "Price": "$0.64"
     },
     {
@@ -380,11 +380,6 @@
         "Price": "$197.16"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$162.57 B",
-        "Price": "$1.00"
-    },
-    {
         "Company Name": "Uber",
         "Market Cap": "$162.38 B",
         "Price": "$78.20"
@@ -393,6 +388,11 @@
         "Company Name": "Caterpillar",
         "Market Cap": "$161.73 B",
         "Price": "$323.88"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$161.21 B",
+        "Price": "$0.99"
     },
     {
         "Company Name": "Nike",
