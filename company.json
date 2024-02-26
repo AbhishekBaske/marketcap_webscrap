@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$366.31 B",
-        "Price": "$54.81"
+        "Market Cap": "$365.81 B",
+        "Price": "$54.74"
     },
     {
         "Company Name": "Tencent",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$295.21 B",
-        "Price": "$235.01"
+        "Market Cap": "$295.43 B",
+        "Price": "$235.18"
     },
     {
         "Company Name": "Nestlé",
@@ -211,8 +211,8 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$249.52 B",
-        "Price": "$0.53"
+        "Market Cap": "$248.30 B",
+        "Price": "$0.52"
     },
     {
         "Company Name": "Reliance Industries",
@@ -235,14 +235,14 @@
         "Price": "$169.60"
     },
     {
-        "Company Name": "PetroChina",
-        "Market Cap": "$220.02 B",
-        "Price": "$1.26"
-    },
-    {
         "Company Name": "Thermo Fisher Scientific",
         "Market Cap": "$218.18 B",
         "Price": "$564.71"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$217.59 B",
+        "Price": "$1.24"
     },
     {
         "Company Name": "Linde",
@@ -286,8 +286,8 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$200.60 B",
-        "Price": "$0.59"
+        "Market Cap": "$198.70 B",
+        "Price": "$0.58"
     },
     {
         "Company Name": "Cisco",
@@ -316,7 +316,7 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$189.95 B",
+        "Market Cap": "$189.81 B",
         "Price": "$8.63"
     },
     {
@@ -360,11 +360,6 @@
         "Price": "$185.72"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$167.42 B",
-        "Price": "$0.64"
-    },
-    {
         "Company Name": "General Electric",
         "Market Cap": "$166.87 B",
         "Price": "$153.33"
@@ -373,6 +368,11 @@
         "Company Name": "Comcast",
         "Market Cap": "$166.42 B",
         "Price": "$41.90"
+    },
+    {
+        "Company Name": "Bank of China",
+        "Market Cap": "$165.22 B",
+        "Price": "$0.63"
     },
     {
         "Company Name": "Applied Materials",
@@ -390,14 +390,14 @@
         "Price": "$323.88"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$161.21 B",
-        "Price": "$0.99"
-    },
-    {
         "Company Name": "Nike",
         "Market Cap": "$160.04 B",
         "Price": "$105.63"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$158.73 B",
+        "Price": "$0.98"
     },
     {
         "Company Name": "ServiceNow",
