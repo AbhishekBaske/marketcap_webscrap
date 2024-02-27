@@ -11,7 +11,7 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.065 T",
+        "Market Cap": "$2.052 T",
         "Price": "$8.48"
     },
     {
@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$365.35 B",
-        "Price": "$54.77"
+        "Market Cap": "$365.85 B",
+        "Price": "$54.85"
     },
     {
         "Company Name": "Tencent",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$292.96 B",
-        "Price": "$233.22"
+        "Market Cap": "$294.03 B",
+        "Price": "$234.07"
     },
     {
         "Company Name": "Salesforce",
@@ -211,13 +211,13 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$247.48 B",
+        "Market Cap": "$245.66 B",
         "Price": "$0.52"
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$242.04 B",
-        "Price": "$35.77"
+        "Market Cap": "$242.65 B",
+        "Price": "$35.86"
     },
     {
         "Company Name": "International Holding Company",
@@ -240,14 +240,14 @@
         "Price": "$187.51"
     },
     {
-        "Company Name": "PetroChina",
-        "Market Cap": "$216.35 B",
-        "Price": "$1.23"
-    },
-    {
         "Company Name": "Linde",
         "Market Cap": "$215.74 B",
         "Price": "$444.94"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$214.89 B",
+        "Price": "$1.23"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -285,11 +285,6 @@
         "Price": "$65.93"
     },
     {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$197.59 B",
-        "Price": "$0.58"
-    },
-    {
         "Company Name": "Walt Disney",
         "Market Cap": "$197.51 B",
         "Price": "$107.68"
@@ -298,6 +293,11 @@
         "Company Name": "Cisco",
         "Market Cap": "$195.98 B",
         "Price": "$48.40"
+    },
+    {
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$195.70 B",
+        "Price": "$0.57"
     },
     {
         "Company Name": "T-Mobile US",
@@ -316,8 +316,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$187.73 B",
-        "Price": "$8.53"
+        "Market Cap": "$187.59 B",
+        "Price": "$8.52"
     },
     {
         "Company Name": "Danaher",
@@ -336,8 +336,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$178.02 B",
-        "Price": "$49.20"
+        "Market Cap": "$177.77 B",
+        "Price": "$49.14"
     },
     {
         "Company Name": "QUALCOMM",
@@ -376,7 +376,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$163.83 B",
+        "Market Cap": "$162.73 B",
         "Price": "$0.62"
     },
     {
@@ -395,14 +395,14 @@
         "Price": "$779.66"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$158.50 B",
-        "Price": "$0.97"
-    },
-    {
         "Company Name": "Nike",
         "Market Cap": "$158.39 B",
         "Price": "$104.54"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$157.14 B",
+        "Price": "$0.96"
     },
     {
         "Company Name": "American Express",
