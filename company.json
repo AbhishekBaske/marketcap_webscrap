@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.055 T",
-        "Price": "$8.50"
+        "Market Cap": "$2.059 T",
+        "Price": "$8.51"
     },
     {
         "Company Name": "NVIDIA",
@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$463.76 B",
-        "Price": "$919.76"
+        "Market Cap": "$463.71 B",
+        "Price": "$919.65"
     },
     {
         "Company Name": "Mastercard",
@@ -176,13 +176,18 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$280.12 B",
-        "Price": "$106.86"
+        "Market Cap": "$280.35 B",
+        "Price": "$106.95"
     },
     {
         "Company Name": "Bank of America ",
         "Market Cap": "$264.60 B",
         "Price": "$33.61"
+    },
+    {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$262.34 B",
+        "Price": "$490.61"
     },
     {
         "Company Name": "Hermès",
@@ -193,11 +198,6 @@
         "Company Name": "Coca-Cola",
         "Market Cap": "$261.80 B",
         "Price": "$60.71"
-    },
-    {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$261.46 B",
-        "Price": "$488.98"
     },
     {
         "Company Name": "Netflix",
@@ -221,8 +221,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.60 B",
-        "Price": "$108.78"
+        "Market Cap": "$238.66 B",
+        "Price": "$108.80"
     },
     {
         "Company Name": "Accenture",
@@ -266,8 +266,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$209.30 B",
-        "Price": "$260.16"
+        "Market Cap": "$209.35 B",
+        "Price": "$260.22"
     },
     {
         "Company Name": "Abbott Laboratories",
@@ -411,8 +411,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$155.72 B",
-        "Price": "$855.59"
+        "Market Cap": "$155.92 B",
+        "Price": "$856.68"
     },
     {
         "Company Name": "Union Pacific Corporation",
@@ -431,8 +431,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$151.37 B",
-        "Price": "$191.64"
+        "Market Cap": "$151.46 B",
+        "Price": "$191.75"
     },
     {
         "Company Name": "TotalEnergies",
