@@ -1,7 +1,7 @@
 Company Name,Market Cap,Price
 Microsoft,$3.028 T,$407.54
 Apple,$2.797 T,$181.16
-Saudi Aramco,$2.052 T,$8.48
+Saudi Aramco,$2.055 T,$8.50
 NVIDIA,$1.977 T,$790.92
 Amazon,$1.814 T,$174.73
 Alphabet (Google),$1.717 T,$138.75
@@ -16,7 +16,7 @@ Novo Nordisk,$551.14 B,$123.49
 JPMorgan Chase,$528.14 B,$183.36
 UnitedHealth,$485.88 B,$525.32
 Walmart,$481.50 B,$59.60
-LVMH,$462.72 B,$917.70
+LVMH,$462.06 B,$916.40
 Mastercard,$442.66 B,$474.51
 Exxon Mobil,$413.97 B,$104.25
 Johnson & Johnson,$387.30 B,$160.79
@@ -34,16 +34,16 @@ Kweichow Moutai,$294.85 B,$234.72
 Salesforce,$290.77 B,$300.39
 Chevron,$285.88 B,$154.45
 AMD,$284.39 B,$176.01
-Nestlé,$280.92 B,$107.17
+Nestlé,$280.56 B,$107.03
 Bank of America ,$264.60 B,$33.61
-Hermès,$263.02 B,"$2,504"
-L'Oréal,$262.95 B,$491.75
 Coca-Cola,$261.80 B,$60.71
+Hermès,$261.42 B,"$2,489"
+L'Oréal,$260.65 B,$487.46
 Netflix,$254.31 B,$587.65
 Adobe,$253.33 B,$560.48
-ICBC,$249.28 B,$0.53
-Reliance Industries,$244.14 B,$36.08
-International Holding Company,$238.60 B,$108.78
+ICBC,$248.07 B,$0.52
+Reliance Industries,$242.87 B,$35.90
+International Holding Company,$238.72 B,$108.83
 Accenture,$236.67 B,$377.48
 Pepsico,$231.26 B,$168.26
 SAP,$219.33 B,$187.51
@@ -52,7 +52,7 @@ Linde,$215.74 B,$444.94
 Thermo Fisher Scientific,$214.86 B,$563.48
 McDonald,$214.53 B,$297.12
 Novartis,$211.87 B,$103.25
-Roche,$209.81 B,$260.79
+Roche,$209.71 B,$260.67
 Abbott Laboratories,$205.94 B,$118.69
 Shell,$204.77 B,$63.38
 AstraZeneca,$204.40 B,$65.93
@@ -62,11 +62,11 @@ Cisco,$195.98 B,$48.40
 T-Mobile US,$194.53 B,$163.91
 Wells Fargo,$193.64 B,$54.13
 Alibaba,$191.27 B,$76.51
-China Mobile,$188.85 B,$8.58
+China Mobile,$188.57 B,$8.56
 Danaher,$186.14 B,$251.65
 Intuit,$185.86 B,$663.84
 Intel,$181.76 B,$42.99
-Tata Consultancy Services,$178.59 B,$49.36
+Tata Consultancy Services,$179.56 B,$49.63
 QUALCOMM,$175.24 B,$157.03
 Applied Materials,$169.36 B,$203.55
 IBM,$168.80 B,$184.13
@@ -81,13 +81,13 @@ ServiceNow,$159.83 B,$779.66
 China Construction Bank,$158.49 B,$0.97
 Nike,$158.39 B,$104.54
 American Express,$157.05 B,$216.96
-Dior,$155.23 B,$852.88
+Dior,$154.93 B,$851.25
 Union Pacific Corporation,$154.05 B,$252.64
 Pfizer,$153.47 B,$27.18
 Amgen,$153.47 B,$286.37
 TotalEnergies,$150.77 B,$64.30
+Siemens,$150.48 B,$190.51
 Arm Holdings,$150.30 B,$146.20
-Siemens,$150.09 B,$190.01
 Texas Instruments,$149.39 B,$164.30
 HSBC,$145.24 B,$38.08
 BHP Group,$144.74 B,$57.20
