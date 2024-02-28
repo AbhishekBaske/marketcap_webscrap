@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.049 T",
-        "Price": "$8.47"
+        "Market Cap": "$2.055 T",
+        "Price": "$8.50"
     },
     {
         "Company Name": "NVIDIA",
@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$457.46 B",
-        "Price": "$915.77"
+        "Market Cap": "$456.38 B",
+        "Price": "$913.61"
     },
     {
         "Company Name": "Mastercard",
@@ -176,8 +176,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$278.53 B",
-        "Price": "$106.26"
+        "Market Cap": "$278.35 B",
+        "Price": "$106.19"
     },
     {
         "Company Name": "Bank of America ",
@@ -186,8 +186,13 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$261.00 B",
-        "Price": "$2,492"
+        "Market Cap": "$261.45 B",
+        "Price": "$2,496"
+    },
+    {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$260.38 B",
+        "Price": "$486.95"
     },
     {
         "Company Name": "Netflix",
@@ -198,11 +203,6 @@
         "Company Name": "Coca-Cola",
         "Market Cap": "$260.21 B",
         "Price": "$60.34"
-    },
-    {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$260.06 B",
-        "Price": "$486.36"
     },
     {
         "Company Name": "Adobe",
@@ -261,8 +261,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$211.85 B",
-        "Price": "$263.68"
+        "Market Cap": "$211.62 B",
+        "Price": "$263.40"
     },
     {
         "Company Name": "Novartis",
@@ -411,8 +411,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$156.73 B",
-        "Price": "$868.79"
+        "Market Cap": "$156.15 B",
+        "Price": "$865.54"
     },
     {
         "Company Name": "Union Pacific Corporation",
@@ -421,8 +421,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$151.99 B",
-        "Price": "$192.42"
+        "Market Cap": "$152.04 B",
+        "Price": "$192.49"
     },
     {
         "Company Name": "Pfizer",
