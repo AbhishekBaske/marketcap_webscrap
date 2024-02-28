@@ -56,7 +56,7 @@
     },
     {
         "Company Name": "Broadcom",
-        "Market Cap": "$606.81 B",
+        "Market Cap": "$600.70 B",
         "Price": "$1,296"
     },
     {
@@ -76,7 +76,7 @@
     },
     {
         "Company Name": "Walmart",
-        "Market Cap": "$481.42 B",
+        "Market Cap": "$479.86 B",
         "Price": "$59.59"
     },
     {
@@ -121,12 +121,12 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$366.97 B",
-        "Price": "$55.08"
+        "Market Cap": "$365.97 B",
+        "Price": "$54.93"
     },
     {
         "Company Name": "Tencent",
-        "Market Cap": "$345.13 B",
+        "Market Cap": "$343.50 B",
         "Price": "$36.42"
     },
     {
@@ -210,19 +210,19 @@
         "Price": "$552.49"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$243.03 B",
-        "Price": "$35.92"
-    },
-    {
         "Company Name": "ICBC",
         "Market Cap": "$242.76 B",
         "Price": "$0.52"
     },
     {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$241.88 B",
+        "Price": "$35.75"
+    },
+    {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.59 B",
-        "Price": "$108.77"
+        "Market Cap": "$238.61 B",
+        "Price": "$108.78"
     },
     {
         "Company Name": "Accenture",
@@ -266,7 +266,7 @@
     },
     {
         "Company Name": "Novartis",
-        "Market Cap": "$211.67 B",
+        "Market Cap": "$210.84 B",
         "Price": "$103.15"
     },
     {
@@ -330,14 +330,14 @@
         "Price": "$669.36"
     },
     {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$181.30 B",
+        "Price": "$50.11"
+    },
+    {
         "Company Name": "Intel",
         "Market Cap": "$180.66 B",
         "Price": "$42.73"
-    },
-    {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$179.15 B",
-        "Price": "$49.52"
     },
     {
         "Company Name": "QUALCOMM",
@@ -446,7 +446,7 @@
     },
     {
         "Company Name": "HSBC",
-        "Market Cap": "$146.31 B",
+        "Market Cap": "$146.28 B",
         "Price": "$38.36"
     },
     {
@@ -476,7 +476,7 @@
     },
     {
         "Company Name": "Royal Bank Of Canada",
-        "Market Cap": "$136.31 B",
+        "Market Cap": "$136.66 B",
         "Price": "$96.92"
     },
     {
