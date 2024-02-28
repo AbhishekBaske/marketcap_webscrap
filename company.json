@@ -11,8 +11,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.052 T",
-        "Price": "$8.48"
+        "Market Cap": "$2.049 T",
+        "Price": "$8.47"
     },
     {
         "Company Name": "NVIDIA",
@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$458.54 B",
-        "Price": "$917.94"
+        "Market Cap": "$457.46 B",
+        "Price": "$915.77"
     },
     {
         "Company Name": "Mastercard",
@@ -176,8 +176,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$278.94 B",
-        "Price": "$106.42"
+        "Market Cap": "$278.53 B",
+        "Price": "$106.26"
     },
     {
         "Company Name": "Bank of America ",
@@ -186,13 +186,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$260.94 B",
+        "Market Cap": "$261.00 B",
         "Price": "$2,492"
-    },
-    {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$260.41 B",
-        "Price": "$487.01"
     },
     {
         "Company Name": "Netflix",
@@ -203,6 +198,11 @@
         "Company Name": "Coca-Cola",
         "Market Cap": "$260.21 B",
         "Price": "$60.34"
+    },
+    {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$260.06 B",
+        "Price": "$486.36"
     },
     {
         "Company Name": "Adobe",
@@ -221,8 +221,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$238.14 B",
-        "Price": "$35.20"
+        "Market Cap": "$237.68 B",
+        "Price": "$35.13"
     },
     {
         "Company Name": "Accenture",
@@ -255,14 +255,14 @@
         "Price": "$1.23"
     },
     {
-        "Company Name": "Roche",
-        "Market Cap": "$212.94 B",
-        "Price": "$265.05"
-    },
-    {
         "Company Name": "McDonald",
         "Market Cap": "$212.11 B",
         "Price": "$293.76"
+    },
+    {
+        "Company Name": "Roche",
+        "Market Cap": "$211.85 B",
+        "Price": "$263.68"
     },
     {
         "Company Name": "Novartis",
@@ -336,8 +336,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$180.07 B",
-        "Price": "$49.77"
+        "Market Cap": "$179.82 B",
+        "Price": "$49.70"
     },
     {
         "Company Name": "QUALCOMM",
@@ -411,8 +411,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$156.93 B",
-        "Price": "$869.87"
+        "Market Cap": "$156.73 B",
+        "Price": "$868.79"
     },
     {
         "Company Name": "Union Pacific Corporation",
@@ -420,14 +420,14 @@
         "Price": "$253.29"
     },
     {
+        "Company Name": "Siemens",
+        "Market Cap": "$151.99 B",
+        "Price": "$192.42"
+    },
+    {
         "Company Name": "Pfizer",
         "Market Cap": "$151.84 B",
         "Price": "$26.89"
-    },
-    {
-        "Company Name": "Siemens",
-        "Market Cap": "$151.43 B",
-        "Price": "$191.71"
     },
     {
         "Company Name": "TotalEnergies",
