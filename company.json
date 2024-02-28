@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$365.47 B",
-        "Price": "$54.85"
+        "Market Cap": "$364.97 B",
+        "Price": "$54.78"
     },
     {
         "Company Name": "Tencent",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$294.02 B",
-        "Price": "$234.06"
+        "Market Cap": "$294.37 B",
+        "Price": "$234.33"
     },
     {
         "Company Name": "Salesforce",
@@ -211,18 +211,18 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$241.57 B",
+        "Market Cap": "$240.97 B",
         "Price": "$0.52"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$238.95 B",
+        "Price": "$35.32"
     },
     {
         "Company Name": "International Holding Company",
         "Market Cap": "$238.61 B",
         "Price": "$108.78"
-    },
-    {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$238.44 B",
-        "Price": "$35.24"
     },
     {
         "Company Name": "Accenture",
@@ -241,7 +241,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$215.95 B",
+        "Market Cap": "$216.20 B",
         "Price": "$1.23"
     },
     {
@@ -291,7 +291,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$197.67 B",
+        "Market Cap": "$197.20 B",
         "Price": "$0.58"
     },
     {
@@ -320,14 +320,14 @@
         "Price": "$254.86"
     },
     {
+        "Company Name": "China Mobile",
+        "Market Cap": "$187.80 B",
+        "Price": "$8.54"
+    },
+    {
         "Company Name": "Intuit",
         "Market Cap": "$187.40 B",
         "Price": "$669.36"
-    },
-    {
-        "Company Name": "China Mobile",
-        "Market Cap": "$187.37 B",
-        "Price": "$8.52"
     },
     {
         "Company Name": "Intel",
@@ -336,8 +336,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$180.26 B",
-        "Price": "$49.82"
+        "Market Cap": "$180.65 B",
+        "Price": "$49.93"
     },
     {
         "Company Name": "QUALCOMM",
@@ -376,7 +376,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$164.75 B",
+        "Market Cap": "$164.38 B",
         "Price": "$0.62"
     },
     {
@@ -391,7 +391,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$160.62 B",
+        "Market Cap": "$160.39 B",
         "Price": "$0.97"
     },
     {
