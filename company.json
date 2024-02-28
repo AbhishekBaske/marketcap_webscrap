@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$365.97 B",
-        "Price": "$54.93"
+        "Market Cap": "$365.47 B",
+        "Price": "$54.85"
     },
     {
         "Company Name": "Tencent",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$294.19 B",
-        "Price": "$234.20"
+        "Market Cap": "$294.02 B",
+        "Price": "$234.06"
     },
     {
         "Company Name": "Salesforce",
@@ -211,18 +211,18 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$242.76 B",
+        "Market Cap": "$241.57 B",
         "Price": "$0.52"
-    },
-    {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$241.88 B",
-        "Price": "$35.75"
     },
     {
         "Company Name": "International Holding Company",
         "Market Cap": "$238.61 B",
         "Price": "$108.78"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$238.44 B",
+        "Price": "$35.24"
     },
     {
         "Company Name": "Accenture",
@@ -240,6 +240,11 @@
         "Price": "$189.17"
     },
     {
+        "Company Name": "PetroChina",
+        "Market Cap": "$215.95 B",
+        "Price": "$1.23"
+    },
+    {
         "Company Name": "Thermo Fisher Scientific",
         "Market Cap": "$215.88 B",
         "Price": "$566.17"
@@ -248,11 +253,6 @@
         "Company Name": "Linde",
         "Market Cap": "$215.67 B",
         "Price": "$444.80"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$215.47 B",
-        "Price": "$1.23"
     },
     {
         "Company Name": "McDonald",
@@ -291,7 +291,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$196.25 B",
+        "Market Cap": "$197.67 B",
         "Price": "$0.58"
     },
     {
@@ -320,24 +320,24 @@
         "Price": "$254.86"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$187.66 B",
-        "Price": "$8.53"
-    },
-    {
         "Company Name": "Intuit",
         "Market Cap": "$187.40 B",
         "Price": "$669.36"
     },
     {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$181.30 B",
-        "Price": "$50.11"
+        "Company Name": "China Mobile",
+        "Market Cap": "$187.37 B",
+        "Price": "$8.52"
     },
     {
         "Company Name": "Intel",
         "Market Cap": "$180.66 B",
         "Price": "$42.73"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$180.26 B",
+        "Price": "$49.82"
     },
     {
         "Company Name": "QUALCOMM",
@@ -375,6 +375,11 @@
         "Price": "$153.99"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$164.75 B",
+        "Price": "$0.62"
+    },
+    {
         "Company Name": "Caterpillar",
         "Market Cap": "$163.61 B",
         "Price": "$327.63"
@@ -385,13 +390,8 @@
         "Price": "$78.75"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$163.28 B",
-        "Price": "$0.62"
-    },
-    {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$160.16 B",
+        "Market Cap": "$160.62 B",
         "Price": "$0.97"
     },
     {
