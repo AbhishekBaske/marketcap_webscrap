@@ -86,8 +86,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$459.04 B",
-        "Price": "$916.02"
+        "Market Cap": "$457.25 B",
+        "Price": "$912.44"
     },
     {
         "Company Name": "Mastercard",
@@ -176,8 +176,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$272.39 B",
-        "Price": "$103.91"
+        "Market Cap": "$272.77 B",
+        "Price": "$104.06"
     },
     {
         "Company Name": "Bank of America ",
@@ -186,8 +186,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$263.52 B",
-        "Price": "$2,516"
+        "Market Cap": "$262.84 B",
+        "Price": "$2,510"
     },
     {
         "Company Name": "Coca-Cola",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$259.10 B",
-        "Price": "$479.41"
+        "Market Cap": "$258.31 B",
+        "Price": "$477.95"
     },
     {
         "Company Name": "Netflix",
@@ -261,8 +261,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$212.16 B",
-        "Price": "$263.74"
+        "Market Cap": "$212.75 B",
+        "Price": "$264.47"
     },
     {
         "Company Name": "Novartis",
@@ -405,19 +405,19 @@
         "Price": "$218.03"
     },
     {
-        "Company Name": "Siemens",
-        "Market Cap": "$156.15 B",
-        "Price": "$197.68"
-    },
-    {
         "Company Name": "Dior",
-        "Market Cap": "$156.01 B",
-        "Price": "$864.76"
+        "Market Cap": "$155.81 B",
+        "Price": "$863.68"
     },
     {
         "Company Name": "ServiceNow",
         "Market Cap": "$155.75 B",
         "Price": "$759.79"
+    },
+    {
+        "Company Name": "Siemens",
+        "Market Cap": "$155.62 B",
+        "Price": "$197.01"
     },
     {
         "Company Name": "Union Pacific Corporation",
