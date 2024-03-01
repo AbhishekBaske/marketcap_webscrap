@@ -11,7 +11,7 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.046 T",
+        "Market Cap": "$2.059 T",
         "Price": "$8.46"
     },
     {
@@ -166,8 +166,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$296.25 B",
-        "Price": "$235.84"
+        "Market Cap": "$293.81 B",
+        "Price": "$233.89"
     },
     {
         "Company Name": "Chevron",
@@ -211,7 +211,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$244.42 B",
+        "Market Cap": "$245.02 B",
         "Price": "$0.52"
     },
     {
@@ -251,8 +251,8 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$215.81 B",
-        "Price": "$1.23"
+        "Market Cap": "$214.34 B",
+        "Price": "$1.22"
     },
     {
         "Company Name": "McDonald",
@@ -285,6 +285,11 @@
         "Price": "$62.83"
     },
     {
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$201.14 B",
+        "Price": "$0.59"
+    },
+    {
         "Company Name": "AstraZeneca",
         "Market Cap": "$199.36 B",
         "Price": "$64.16"
@@ -293,11 +298,6 @@
         "Company Name": "Wells Fargo",
         "Market Cap": "$198.86 B",
         "Price": "$55.59"
-    },
-    {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$198.77 B",
-        "Price": "$0.58"
     },
     {
         "Company Name": "Cisco",
@@ -336,7 +336,7 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$178.75 B",
+        "Market Cap": "$179.79 B",
         "Price": "$49.40"
     },
     {
@@ -386,13 +386,13 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$164.03 B",
+        "Market Cap": "$163.66 B",
         "Price": "$0.62"
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$159.44 B",
-        "Price": "$0.97"
+        "Market Cap": "$159.67 B",
+        "Price": "$0.98"
     },
     {
         "Company Name": "American Express",
