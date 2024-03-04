@@ -16,7 +16,7 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.036 T",
+        "Market Cap": "$2.046 T",
         "Price": "$8.42"
     },
     {
@@ -116,8 +116,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$375.28 B",
-        "Price": "$56.16"
+        "Market Cap": "$376.28 B",
+        "Price": "$56.31"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -166,8 +166,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$292.30 B",
-        "Price": "$232.69"
+        "Market Cap": "$292.16 B",
+        "Price": "$232.58"
     },
     {
         "Company Name": "Chevron",
@@ -211,12 +211,12 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$244.20 B",
-        "Price": "$36.09"
+        "Market Cap": "$244.71 B",
+        "Price": "$36.17"
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$243.38 B",
+        "Market Cap": "$242.17 B",
         "Price": "$0.51"
     },
     {
@@ -236,8 +236,8 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$221.25 B",
-        "Price": "$1.26"
+        "Market Cap": "$221.98 B",
+        "Price": "$1.27"
     },
     {
         "Company Name": "SAP",
@@ -316,8 +316,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$187.60 B",
-        "Price": "$8.52"
+        "Market Cap": "$186.75 B",
+        "Price": "$8.48"
     },
     {
         "Company Name": "Alibaba",
@@ -341,8 +341,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$178.82 B",
-        "Price": "$49.42"
+        "Market Cap": "$178.44 B",
+        "Price": "$49.32"
     },
     {
         "Company Name": "Applied Materials",
@@ -386,13 +386,8 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$164.75 B",
+        "Market Cap": "$165.49 B",
         "Price": "$0.63"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$159.04 B",
-        "Price": "$0.98"
     },
     {
         "Company Name": "American Express",
@@ -403,6 +398,11 @@
         "Company Name": "ServiceNow",
         "Market Cap": "$158.59 B",
         "Price": "$773.63"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$158.58 B",
+        "Price": "$0.97"
     },
     {
         "Company Name": "Dior",
