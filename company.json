@@ -81,8 +81,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$455.75 B",
-        "Price": "$912.36"
+        "Market Cap": "$456.30 B",
+        "Price": "$913.44"
     },
     {
         "Company Name": "UnitedHealth",
@@ -191,8 +191,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$260.34 B",
-        "Price": "$2,480"
+        "Market Cap": "$261.36 B",
+        "Price": "$2,490"
     },
     {
         "Company Name": "Adobe",
@@ -201,8 +201,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$257.57 B",
-        "Price": "$481.70"
+        "Market Cap": "$257.46 B",
+        "Price": "$481.48"
     },
     {
         "Company Name": "Coca-Cola",
@@ -256,8 +256,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$211.29 B",
-        "Price": "$262.98"
+        "Market Cap": "$212.06 B",
+        "Price": "$263.94"
     },
     {
         "Company Name": "McDonald",
@@ -405,14 +405,14 @@
         "Price": "$0.97"
     },
     {
-        "Company Name": "Siemens",
-        "Market Cap": "$155.99 B",
-        "Price": "$197.48"
-    },
-    {
         "Company Name": "Dior",
         "Market Cap": "$155.95 B",
         "Price": "$864.47"
+    },
+    {
+        "Company Name": "Siemens",
+        "Market Cap": "$155.94 B",
+        "Price": "$197.42"
     },
     {
         "Company Name": "Texas Instruments",
