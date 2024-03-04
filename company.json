@@ -115,14 +115,14 @@
         "Price": "$384.45"
     },
     {
+        "Company Name": "Samsung",
+        "Market Cap": "$374.07 B",
+        "Price": "$55.98"
+    },
+    {
         "Company Name": "Procter & Gamble",
         "Market Cap": "$373.77 B",
         "Price": "$158.85"
-    },
-    {
-        "Company Name": "Samsung",
-        "Market Cap": "$373.06 B",
-        "Price": "$55.83"
     },
     {
         "Company Name": "Tencent",
@@ -166,8 +166,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$291.70 B",
-        "Price": "$232.21"
+        "Market Cap": "$292.42 B",
+        "Price": "$232.79"
     },
     {
         "Company Name": "Chevron",
@@ -211,13 +211,13 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$244.55 B",
-        "Price": "$0.52"
+        "Market Cap": "$243.95 B",
+        "Price": "$0.51"
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$243.53 B",
-        "Price": "$35.99"
+        "Market Cap": "$243.93 B",
+        "Price": "$36.05"
     },
     {
         "Company Name": "Accenture",
@@ -235,6 +235,11 @@
         "Price": "$164.59"
     },
     {
+        "Company Name": "PetroChina",
+        "Market Cap": "$221.34 B",
+        "Price": "$1.26"
+    },
+    {
         "Company Name": "SAP",
         "Market Cap": "$220.52 B",
         "Price": "$188.53"
@@ -243,11 +248,6 @@
         "Company Name": "Thermo Fisher Scientific",
         "Market Cap": "$219.76 B",
         "Price": "$576.33"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$219.39 B",
-        "Price": "$1.25"
     },
     {
         "Company Name": "Linde",
@@ -285,14 +285,14 @@
         "Price": "$63.56"
     },
     {
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$200.31 B",
+        "Price": "$0.59"
+    },
+    {
         "Company Name": "AstraZeneca",
         "Market Cap": "$200.28 B",
         "Price": "$64.60"
-    },
-    {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$199.84 B",
-        "Price": "$0.59"
     },
     {
         "Company Name": "Wells Fargo",
@@ -341,8 +341,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$179.54 B",
-        "Price": "$49.63"
+        "Market Cap": "$178.86 B",
+        "Price": "$49.43"
     },
     {
         "Company Name": "Applied Materials",
@@ -390,6 +390,11 @@
         "Price": "$0.63"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$159.10 B",
+        "Price": "$0.98"
+    },
+    {
         "Company Name": "American Express",
         "Market Cap": "$159.00 B",
         "Price": "$219.66"
@@ -398,11 +403,6 @@
         "Company Name": "ServiceNow",
         "Market Cap": "$158.59 B",
         "Price": "$773.63"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$158.20 B",
-        "Price": "$0.97"
     },
     {
         "Company Name": "Dior",
