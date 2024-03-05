@@ -16,8 +16,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.035 T",
-        "Price": "$8.41"
+        "Market Cap": "$2.028 T",
+        "Price": "$8.39"
     },
     {
         "Company Name": "Amazon",
@@ -80,14 +80,14 @@
         "Price": "$59.30"
     },
     {
+        "Company Name": "LVMH",
+        "Market Cap": "$454.39 B",
+        "Price": "$902.54"
+    },
+    {
         "Company Name": "UnitedHealth",
         "Market Cap": "$452.77 B",
         "Price": "$481.87"
-    },
-    {
-        "Company Name": "LVMH",
-        "Market Cap": "$452.37 B",
-        "Price": "$898.52"
     },
     {
         "Company Name": "Mastercard",
@@ -181,8 +181,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$272.69 B",
-        "Price": "$103.45"
+        "Market Cap": "$271.94 B",
+        "Price": "$103.16"
     },
     {
         "Company Name": "Netflix",
@@ -191,7 +191,7 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$259.42 B",
+        "Market Cap": "$259.48 B",
         "Price": "$2,469"
     },
     {
@@ -206,8 +206,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$257.75 B",
-        "Price": "$482.04"
+        "Market Cap": "$257.67 B",
+        "Price": "$481.88"
     },
     {
         "Company Name": "Reliance Industries",
@@ -250,14 +250,14 @@
         "Price": "$455.60"
     },
     {
+        "Company Name": "Roche",
+        "Market Cap": "$212.77 B",
+        "Price": "$265.22"
+    },
+    {
         "Company Name": "PetroChina",
         "Market Cap": "$212.28 B",
         "Price": "$1.26"
-    },
-    {
-        "Company Name": "Roche",
-        "Market Cap": "$212.05 B",
-        "Price": "$264.32"
     },
     {
         "Company Name": "McDonald",
@@ -411,8 +411,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$155.03 B",
-        "Price": "$847.62"
+        "Market Cap": "$156.03 B",
+        "Price": "$853.05"
     },
     {
         "Company Name": "Union Pacific Corporation",
@@ -426,8 +426,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$154.02 B",
-        "Price": "$194.77"
+        "Market Cap": "$153.62 B",
+        "Price": "$194.27"
     },
     {
         "Company Name": "TotalEnergies",
