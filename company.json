@@ -16,7 +16,7 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.022 T",
+        "Market Cap": "$2.045 T",
         "Price": "$8.32"
     },
     {
@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$362.71 B",
-        "Price": "$55.39"
+        "Market Cap": "$364.18 B",
+        "Price": "$55.61"
     },
     {
         "Company Name": "Costco",
@@ -210,14 +210,14 @@
         "Price": "$481.60"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$244.21 B",
-        "Price": "$36.09"
-    },
-    {
         "Company Name": "ICBC",
         "Market Cap": "$244.10 B",
         "Price": "$0.51"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$243.23 B",
+        "Price": "$35.95"
     },
     {
         "Company Name": "Accenture",
@@ -226,8 +226,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.59 B",
-        "Price": "$108.77"
+        "Market Cap": "$238.62 B",
+        "Price": "$108.78"
     },
     {
         "Company Name": "Pepsico",
@@ -345,14 +345,14 @@
         "Price": "$193.06"
     },
     {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$176.51 B",
-        "Price": "$48.62"
-    },
-    {
         "Company Name": "General Electric",
         "Market Cap": "$175.23 B",
         "Price": "$161.01"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$175.21 B",
+        "Price": "$48.27"
     },
     {
         "Company Name": "Applied Materials",
