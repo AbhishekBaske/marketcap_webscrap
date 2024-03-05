@@ -205,6 +205,11 @@
         "Price": "$475.90"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$248.73 B",
+        "Price": "$0.51"
+    },
+    {
         "Company Name": "Adobe",
         "Market Cap": "$246.56 B",
         "Price": "$544.84"
@@ -213,11 +218,6 @@
         "Company Name": "Reliance Industries",
         "Market Cap": "$245.06 B",
         "Price": "$36.22"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$244.43 B",
-        "Price": "$0.51"
     },
     {
         "Company Name": "International Holding Company",
@@ -246,7 +246,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$220.09 B",
+        "Market Cap": "$220.01 B",
         "Price": "$1.26"
     },
     {
@@ -281,7 +281,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$205.37 B",
+        "Market Cap": "$205.31 B",
         "Price": "$0.60"
     },
     {
