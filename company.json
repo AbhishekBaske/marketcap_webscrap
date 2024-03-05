@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$364.18 B",
-        "Price": "$55.61"
+        "Market Cap": "$362.71 B",
+        "Price": "$55.39"
     },
     {
         "Company Name": "Costco",
@@ -166,8 +166,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$295.07 B",
-        "Price": "$233.68"
+        "Market Cap": "$295.48 B",
+        "Price": "$234.00"
     },
     {
         "Company Name": "Chevron",
@@ -210,14 +210,14 @@
         "Price": "$481.60"
     },
     {
-        "Company Name": "ICBC",
-        "Market Cap": "$244.10 B",
-        "Price": "$0.51"
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$243.59 B",
+        "Price": "$36.00"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$243.23 B",
-        "Price": "$35.95"
+        "Company Name": "ICBC",
+        "Market Cap": "$241.66 B",
+        "Price": "$0.51"
     },
     {
         "Company Name": "Accenture",
@@ -256,7 +256,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$210.43 B",
+        "Market Cap": "$211.14 B",
         "Price": "$1.25"
     },
     {
@@ -336,8 +336,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$185.42 B",
-        "Price": "$8.60"
+        "Market Cap": "$184.59 B",
+        "Price": "$8.56"
     },
     {
         "Company Name": "IBM",
@@ -345,14 +345,14 @@
         "Price": "$193.06"
     },
     {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$175.63 B",
+        "Price": "$48.38"
+    },
+    {
         "Company Name": "General Electric",
         "Market Cap": "$175.23 B",
         "Price": "$161.01"
-    },
-    {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$175.21 B",
-        "Price": "$48.27"
     },
     {
         "Company Name": "Applied Materials",
@@ -391,8 +391,8 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$160.64 B",
-        "Price": "$0.98"
+        "Market Cap": "$161.55 B",
+        "Price": "$0.99"
     },
     {
         "Company Name": "ServiceNow",
