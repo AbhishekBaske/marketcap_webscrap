@@ -81,8 +81,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$458.70 B",
-        "Price": "$906.55"
+        "Market Cap": "$459.19 B",
+        "Price": "$907.53"
     },
     {
         "Company Name": "UnitedHealth",
@@ -181,13 +181,13 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$273.75 B",
-        "Price": "$104.44"
+        "Market Cap": "$273.72 B",
+        "Price": "$104.42"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$262.45 B",
-        "Price": "$2,470"
+        "Market Cap": "$262.28 B",
+        "Price": "$2,468"
     },
     {
         "Company Name": "Netflix",
@@ -201,8 +201,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$255.96 B",
-        "Price": "$473.02"
+        "Market Cap": "$256.61 B",
+        "Price": "$474.22"
     },
     {
         "Company Name": "ICBC",
@@ -256,8 +256,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$214.71 B",
-        "Price": "$266.99"
+        "Market Cap": "$214.03 B",
+        "Price": "$266.15"
     },
     {
         "Company Name": "McDonald",
@@ -390,14 +390,14 @@
         "Price": "$121.33"
     },
     {
+        "Company Name": "Dior",
+        "Market Cap": "$157.72 B",
+        "Price": "$863.79"
+    },
+    {
         "Company Name": "American Express",
         "Market Cap": "$157.22 B",
         "Price": "$217.20"
-    },
-    {
-        "Company Name": "Dior",
-        "Market Cap": "$156.73 B",
-        "Price": "$858.36"
     },
     {
         "Company Name": "China Construction Bank",
@@ -416,8 +416,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$152.99 B",
-        "Price": "$193.69"
+        "Market Cap": "$153.32 B",
+        "Price": "$194.10"
     },
     {
         "Company Name": "ServiceNow",
@@ -496,7 +496,7 @@
     },
     {
         "Company Name": "Airbus",
-        "Market Cap": "$134.59 B",
-        "Price": "$170.93"
+        "Market Cap": "$134.37 B",
+        "Price": "$170.65"
     }
 ]
