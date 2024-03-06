@@ -121,7 +121,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$365.71 B",
+        "Market Cap": "$365.83 B",
         "Price": "$54.79"
     },
     {
@@ -205,11 +205,6 @@
         "Price": "$59.55"
     },
     {
-        "Company Name": "ICBC",
-        "Market Cap": "$251.20 B",
-        "Price": "$0.52"
-    },
-    {
         "Company Name": "Adobe",
         "Market Cap": "$245.77 B",
         "Price": "$543.09"
@@ -218,6 +213,11 @@
         "Company Name": "Reliance Industries",
         "Market Cap": "$245.75 B",
         "Price": "$36.32"
+    },
+    {
+        "Company Name": "ICBC",
+        "Market Cap": "$245.10 B",
+        "Price": "$0.52"
     },
     {
         "Company Name": "International Holding Company",
@@ -251,7 +251,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$218.29 B",
+        "Market Cap": "$218.41 B",
         "Price": "$1.25"
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$201.51 B",
+        "Market Cap": "$201.70 B",
         "Price": "$0.59"
     },
     {
