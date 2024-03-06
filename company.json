@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$293.69 B",
-        "Price": "$233.80"
+        "Market Cap": "$293.47 B",
+        "Price": "$233.62"
     },
     {
         "Company Name": "Salesforce",
@@ -206,8 +206,8 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$252.47 B",
-        "Price": "$0.52"
+        "Market Cap": "$250.60 B",
+        "Price": "$0.51"
     },
     {
         "Company Name": "Adobe",
@@ -216,13 +216,13 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$243.69 B",
-        "Price": "$35.84"
+        "Market Cap": "$243.07 B",
+        "Price": "$35.75"
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.78 B",
-        "Price": "$108.86"
+        "Market Cap": "$238.60 B",
+        "Price": "$108.78"
     },
     {
         "Company Name": "Accenture",
@@ -251,7 +251,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$218.46 B",
+        "Market Cap": "$218.22 B",
         "Price": "$1.25"
     },
     {
@@ -280,11 +280,6 @@
         "Price": "$118.48"
     },
     {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$202.86 B",
-        "Price": "$0.60"
-    },
-    {
         "Company Name": "Shell",
         "Market Cap": "$202.78 B",
         "Price": "$62.87"
@@ -293,6 +288,11 @@
         "Company Name": "Wells Fargo",
         "Market Cap": "$202.48 B",
         "Price": "$56.60"
+    },
+    {
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$201.91 B",
+        "Price": "$0.59"
     },
     {
         "Company Name": "AstraZeneca",
@@ -311,8 +311,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$191.86 B",
-        "Price": "$8.71"
+        "Market Cap": "$191.44 B",
+        "Price": "$8.69"
     },
     {
         "Company Name": "Danaher",
@@ -346,8 +346,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$173.66 B",
-        "Price": "$48.00"
+        "Market Cap": "$175.18 B",
+        "Price": "$48.42"
     },
     {
         "Company Name": "Applied Materials",
@@ -376,8 +376,8 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$166.54 B",
-        "Price": "$0.64"
+        "Market Cap": "$165.45 B",
+        "Price": "$0.63"
     },
     {
         "Company Name": "Uber",
@@ -401,8 +401,8 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$156.36 B",
-        "Price": "$0.99"
+        "Market Cap": "$155.26 B",
+        "Price": "$0.98"
     },
     {
         "Company Name": "Texas Instruments",
