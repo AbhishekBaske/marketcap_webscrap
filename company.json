@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$364.83 B",
-        "Price": "$54.66"
+        "Market Cap": "$364.33 B",
+        "Price": "$54.59"
     },
     {
         "Company Name": "Costco",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$295.91 B",
-        "Price": "$235.56"
+        "Market Cap": "$293.20 B",
+        "Price": "$233.41"
     },
     {
         "Company Name": "Salesforce",
@@ -206,7 +206,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$248.71 B",
+        "Market Cap": "$249.95 B",
         "Price": "$0.51"
     },
     {
@@ -246,7 +246,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$220.01 B",
+        "Market Cap": "$221.23 B",
         "Price": "$1.26"
     },
     {
@@ -275,18 +275,18 @@
         "Price": "$112.87"
     },
     {
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$205.78 B",
+        "Price": "$0.60"
+    },
+    {
         "Company Name": "Abbott Laboratories",
         "Market Cap": "$205.58 B",
         "Price": "$118.48"
     },
     {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$205.31 B",
-        "Price": "$0.60"
-    },
-    {
         "Company Name": "Shell",
-        "Market Cap": "$203.28 B",
+        "Market Cap": "$202.78 B",
         "Price": "$62.87"
     },
     {
@@ -311,8 +311,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$188.19 B",
-        "Price": "$8.54"
+        "Market Cap": "$189.88 B",
+        "Price": "$8.62"
     },
     {
         "Company Name": "Danaher",
@@ -366,7 +366,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$167.34 B",
+        "Market Cap": "$167.71 B",
         "Price": "$0.64"
     },
     {
@@ -390,14 +390,14 @@
         "Price": "$121.33"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$157.75 B",
+        "Price": "$1.00"
+    },
+    {
         "Company Name": "American Express",
         "Market Cap": "$157.22 B",
         "Price": "$217.20"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$157.09 B",
-        "Price": "$0.99"
     },
     {
         "Company Name": "Dior",
