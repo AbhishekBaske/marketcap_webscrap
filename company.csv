@@ -2,7 +2,7 @@ Company Name,Market Cap,Price
 Microsoft,$2.991 T,$402.65
 Apple,$2.626 T,$170.12
 NVIDIA,$2.149 T,$859.64
-Saudi Aramco,$2.042 T,$8.44
+Saudi Aramco,$2.046 T,$8.46
 Amazon,$1.808 T,$174.12
 Alphabet (Google),$1.655 T,$133.78
 Meta Platforms (Facebook),$1.249 T,$490.22
@@ -15,7 +15,7 @@ Visa,$573.86 B,$279.38
 Novo Nordisk,$569.33 B,$124.65
 JPMorgan Chase,$543.09 B,$188.55
 Walmart,$483.48 B,$60.04
-LVMH,$452.56 B,$894.42
+LVMH,$456.62 B,$902.45
 UnitedHealth,$436.21 B,$473.15
 Mastercard,$436.14 B,$467.52
 Exxon Mobil,$419.16 B,$105.64
@@ -35,14 +35,14 @@ Kweichow Moutai,$293.26 B,$233.45
 Salesforce,$289.18 B,$298.75
 Bank of America ,$278.61 B,$35.39
 Chevron,$277.82 B,$149.59
-Nestlé,$273.36 B,$104.29
-Hermès,$260.38 B,"$2,450"
+Nestlé,$273.95 B,$104.51
+Hermès,$261.42 B,"$2,460"
 Netflix,$259.00 B,$598.50
+L'Oréal,$256.75 B,$474.47
 Coca-Cola,$256.67 B,$59.52
-L'Oréal,$255.84 B,$472.79
-ICBC,$252.50 B,$0.52
+ICBC,$251.25 B,$0.52
 Adobe,$246.56 B,$544.84
-Reliance Industries,$243.45 B,$35.98
+Reliance Industries,$244.87 B,$36.19
 International Holding Company,$238.59 B,$108.77
 Accenture,$236.30 B,$376.88
 Thermo Fisher Scientific,$222.91 B,$584.61
@@ -50,7 +50,7 @@ Pepsico,$222.71 B,$162.04
 Linde,$221.98 B,$460.96
 SAP,$221.73 B,$187.46
 PetroChina,$218.23 B,$1.25
-Roche,$213.46 B,$265.43
+Roche,$214.32 B,$266.51
 McDonald,$211.22 B,$292.54
 Novartis,$209.01 B,$102.10
 Walt Disney,$207.03 B,$112.87
@@ -61,14 +61,14 @@ Agricultural Bank of China,$201.45 B,$0.59
 AstraZeneca,$200.93 B,$64.81
 Cisco,$198.20 B,$48.95
 T-Mobile US,$196.90 B,$165.90
-China Mobile,$191.46 B,$8.69
+China Mobile,$191.61 B,$8.70
 Danaher,$188.17 B,$254.39
 Intel,$182.48 B,$43.16
 QUALCOMM,$180.17 B,$161.45
 Alibaba,$180.17 B,$72.07
 Intuit,$179.11 B,$639.73
+Tata Consultancy Services,$176.55 B,$48.80
 IBM,$175.96 B,$191.95
-Tata Consultancy Services,$175.27 B,$48.44
 Applied Materials,$172.31 B,$207.39
 General Electric,$171.80 B,$157.86
 Verizon,$169.64 B,$40.35
@@ -78,11 +78,11 @@ Bank of China,$165.46 B,$0.63
 Uber,$164.23 B,$79.09
 Pinduoduo,$161.19 B,$121.33
 American Express,$157.22 B,$217.20
+Dior,$155.89 B,$853.79
 China Construction Bank,$155.27 B,$0.98
 Texas Instruments,$155.16 B,$170.64
-Dior,$155.00 B,$848.90
 Union Pacific Corporation,$154.70 B,$253.70
-Siemens,$153.31 B,$194.09
+Siemens,$153.76 B,$194.66
 ServiceNow,$151.73 B,$740.15
 TotalEnergies,$149.97 B,$64.16
 Nike,$148.95 B,$98.31
@@ -98,4 +98,4 @@ Lowe's Companies,$138.23 B,$240.82
 Arm Holdings,$137.83 B,$134.07
 Inditex,$137.35 B,$22.04
 Intuitive Surgical,$136.46 B,$387.32
-Airbus,$135.51 B,$172.11
+Airbus,$134.98 B,$171.43
