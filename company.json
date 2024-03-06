@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$363.58 B",
-        "Price": "$54.47"
+        "Market Cap": "$364.08 B",
+        "Price": "$54.55"
     },
     {
         "Company Name": "Costco",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$294.03 B",
-        "Price": "$234.07"
+        "Market Cap": "$293.69 B",
+        "Price": "$233.80"
     },
     {
         "Company Name": "Salesforce",
@@ -216,8 +216,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$245.57 B",
-        "Price": "$36.12"
+        "Market Cap": "$243.69 B",
+        "Price": "$35.84"
     },
     {
         "Company Name": "International Holding Company",
@@ -251,8 +251,8 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$217.25 B",
-        "Price": "$1.24"
+        "Market Cap": "$218.46 B",
+        "Price": "$1.25"
     },
     {
         "Company Name": "Roche",
@@ -281,7 +281,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$204.75 B",
+        "Market Cap": "$202.86 B",
         "Price": "$0.60"
     },
     {
@@ -311,8 +311,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$191.44 B",
-        "Price": "$8.69"
+        "Market Cap": "$191.86 B",
+        "Price": "$8.71"
     },
     {
         "Company Name": "Danaher",
@@ -346,8 +346,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$173.55 B",
-        "Price": "$47.97"
+        "Market Cap": "$173.66 B",
+        "Price": "$48.00"
     },
     {
         "Company Name": "Applied Materials",
@@ -365,11 +365,6 @@
         "Price": "$40.35"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$167.27 B",
-        "Price": "$0.64"
-    },
-    {
         "Company Name": "Comcast",
         "Market Cap": "$167.05 B",
         "Price": "$42.06"
@@ -378,6 +373,11 @@
         "Company Name": "Caterpillar",
         "Market Cap": "$166.55 B",
         "Price": "$333.53"
+    },
+    {
+        "Company Name": "Bank of China",
+        "Market Cap": "$166.54 B",
+        "Price": "$0.64"
     },
     {
         "Company Name": "Uber",
@@ -401,7 +401,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$157.02 B",
+        "Market Cap": "$156.36 B",
         "Price": "$0.99"
     },
     {
