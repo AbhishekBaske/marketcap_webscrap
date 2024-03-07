@@ -81,8 +81,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$451.80 B",
-        "Price": "$904.42"
+        "Market Cap": "$453.11 B",
+        "Price": "$907.04"
     },
     {
         "Company Name": "Mastercard",
@@ -176,8 +176,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$275.99 B",
-        "Price": "$105.29"
+        "Market Cap": "$276.14 B",
+        "Price": "$105.35"
     },
     {
         "Company Name": "Chevron",
@@ -186,8 +186,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$259.65 B",
-        "Price": "$2,479"
+        "Market Cap": "$259.71 B",
+        "Price": "$2,480"
     },
     {
         "Company Name": "Netflix",
@@ -201,8 +201,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$255.00 B",
-        "Price": "$476.68"
+        "Market Cap": "$255.44 B",
+        "Price": "$477.50"
     },
     {
         "Company Name": "Adobe",
@@ -256,8 +256,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$217.45 B",
-        "Price": "$270.41"
+        "Market Cap": "$217.68 B",
+        "Price": "$270.70"
     },
     {
         "Company Name": "McDonald",
@@ -401,18 +401,18 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$155.12 B",
-        "Price": "$859.85"
+        "Market Cap": "$156.01 B",
+        "Price": "$864.76"
+    },
+    {
+        "Company Name": "Siemens",
+        "Market Cap": "$155.00 B",
+        "Price": "$196.23"
     },
     {
         "Company Name": "Pinduoduo",
         "Market Cap": "$154.96 B",
         "Price": "$116.64"
-    },
-    {
-        "Company Name": "Siemens",
-        "Market Cap": "$154.81 B",
-        "Price": "$195.99"
     },
     {
         "Company Name": "Pfizer",
@@ -496,7 +496,7 @@
     },
     {
         "Company Name": "Airbus",
-        "Market Cap": "$135.41 B",
-        "Price": "$171.97"
+        "Market Cap": "$135.34 B",
+        "Price": "$171.88"
     }
 ]
