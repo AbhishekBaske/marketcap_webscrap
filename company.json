@@ -81,8 +81,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$450.06 B",
-        "Price": "$900.95"
+        "Market Cap": "$451.53 B",
+        "Price": "$903.89"
     },
     {
         "Company Name": "Mastercard",
@@ -175,24 +175,24 @@
         "Price": "$35.42"
     },
     {
+        "Company Name": "Nestlé",
+        "Market Cap": "$275.94 B",
+        "Price": "$105.27"
+    },
+    {
         "Company Name": "Chevron",
         "Market Cap": "$275.48 B",
         "Price": "$148.33"
     },
     {
-        "Company Name": "Nestlé",
-        "Market Cap": "$274.37 B",
-        "Price": "$104.67"
+        "Company Name": "Hermès",
+        "Market Cap": "$259.11 B",
+        "Price": "$2,474"
     },
     {
         "Company Name": "Netflix",
         "Market Cap": "$258.65 B",
         "Price": "$597.69"
-    },
-    {
-        "Company Name": "Hermès",
-        "Market Cap": "$258.54 B",
-        "Price": "$2,469"
     },
     {
         "Company Name": "Coca-Cola",
@@ -201,8 +201,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$255.47 B",
-        "Price": "$477.55"
+        "Market Cap": "$255.38 B",
+        "Price": "$477.39"
     },
     {
         "Company Name": "Adobe",
@@ -226,8 +226,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.61 B",
-        "Price": "$108.78"
+        "Market Cap": "$238.67 B",
+        "Price": "$108.81"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -256,8 +256,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$216.51 B",
-        "Price": "$269.25"
+        "Market Cap": "$216.15 B",
+        "Price": "$268.79"
     },
     {
         "Company Name": "McDonald",
@@ -400,19 +400,19 @@
         "Price": "$171.87"
     },
     {
+        "Company Name": "Dior",
+        "Market Cap": "$155.10 B",
+        "Price": "$859.76"
+    },
+    {
         "Company Name": "Pinduoduo",
         "Market Cap": "$154.96 B",
         "Price": "$116.64"
     },
     {
-        "Company Name": "Dior",
-        "Market Cap": "$154.71 B",
-        "Price": "$857.58"
-    },
-    {
         "Company Name": "Siemens",
-        "Market Cap": "$154.33 B",
-        "Price": "$195.38"
+        "Market Cap": "$154.66 B",
+        "Price": "$195.79"
     },
     {
         "Company Name": "Pfizer",
@@ -495,8 +495,8 @@
         "Price": "$388.16"
     },
     {
-        "Company Name": "Stryker Corporation",
-        "Market Cap": "$134.99 B",
-        "Price": "$355.00"
+        "Company Name": "Airbus",
+        "Market Cap": "$135.41 B",
+        "Price": "$171.97"
     }
 ]
