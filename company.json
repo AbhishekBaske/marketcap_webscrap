@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$366.77 B",
-        "Price": "$54.94"
+        "Market Cap": "$365.77 B",
+        "Price": "$54.79"
     },
     {
         "Company Name": "Costco",
@@ -166,8 +166,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$293.34 B",
-        "Price": "$233.52"
+        "Market Cap": "$293.58 B",
+        "Price": "$233.71"
     },
     {
         "Company Name": "Bank of America ",
@@ -205,6 +205,11 @@
         "Price": "$59.55"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$246.31 B",
+        "Price": "$0.52"
+    },
+    {
         "Company Name": "Adobe",
         "Market Cap": "$245.77 B",
         "Price": "$543.09"
@@ -213,11 +218,6 @@
         "Company Name": "Reliance Industries",
         "Market Cap": "$245.58 B",
         "Price": "$36.30"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$243.27 B",
-        "Price": "$0.51"
     },
     {
         "Company Name": "International Holding Company",
@@ -251,8 +251,8 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$218.41 B",
-        "Price": "$1.25"
+        "Market Cap": "$221.09 B",
+        "Price": "$1.26"
     },
     {
         "Company Name": "Roche",
@@ -311,8 +311,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$191.27 B",
-        "Price": "$8.69"
+        "Market Cap": "$191.83 B",
+        "Price": "$8.72"
     },
     {
         "Company Name": "Intel",
@@ -376,7 +376,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$166.39 B",
+        "Market Cap": "$166.02 B",
         "Price": "$0.63"
     },
     {
@@ -386,8 +386,8 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$158.15 B",
-        "Price": "$0.98"
+        "Market Cap": "$159.27 B",
+        "Price": "$0.99"
     },
     {
         "Company Name": "American Express",
