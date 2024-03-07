@@ -81,8 +81,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$453.11 B",
-        "Price": "$907.04"
+        "Market Cap": "$458.00 B",
+        "Price": "$916.85"
     },
     {
         "Company Name": "Mastercard",
@@ -176,8 +176,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$276.14 B",
-        "Price": "$105.35"
+        "Market Cap": "$277.63 B",
+        "Price": "$105.91"
     },
     {
         "Company Name": "Chevron",
@@ -186,8 +186,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$259.71 B",
-        "Price": "$2,480"
+        "Market Cap": "$262.05 B",
+        "Price": "$2,502"
     },
     {
         "Company Name": "Netflix",
@@ -195,14 +195,14 @@
         "Price": "$597.69"
     },
     {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$257.71 B",
+        "Price": "$481.75"
+    },
+    {
         "Company Name": "Coca-Cola",
         "Market Cap": "$256.80 B",
         "Price": "$59.55"
-    },
-    {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$255.44 B",
-        "Price": "$477.50"
     },
     {
         "Company Name": "Adobe",
@@ -256,8 +256,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$217.68 B",
-        "Price": "$270.70"
+        "Market Cap": "$217.73 B",
+        "Price": "$270.75"
     },
     {
         "Company Name": "McDonald",
@@ -395,19 +395,19 @@
         "Price": "$218.45"
     },
     {
+        "Company Name": "Dior",
+        "Market Cap": "$157.09 B",
+        "Price": "$870.75"
+    },
+    {
         "Company Name": "Texas Instruments",
         "Market Cap": "$156.27 B",
         "Price": "$171.87"
     },
     {
-        "Company Name": "Dior",
-        "Market Cap": "$156.01 B",
-        "Price": "$864.76"
-    },
-    {
         "Company Name": "Siemens",
-        "Market Cap": "$155.00 B",
-        "Price": "$196.23"
+        "Market Cap": "$155.62 B",
+        "Price": "$197.01"
     },
     {
         "Company Name": "Pinduoduo",
@@ -496,7 +496,7 @@
     },
     {
         "Company Name": "Airbus",
-        "Market Cap": "$135.34 B",
-        "Price": "$171.88"
+        "Market Cap": "$135.73 B",
+        "Price": "$172.38"
     }
 ]
