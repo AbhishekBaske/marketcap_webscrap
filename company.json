@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$294.06 B",
-        "Price": "$234.09"
+        "Market Cap": "$293.48 B",
+        "Price": "$233.63"
     },
     {
         "Company Name": "Salesforce",
@@ -211,7 +211,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$246.33 B",
+        "Market Cap": "$247.55 B",
         "Price": "$0.52"
     },
     {
@@ -251,7 +251,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$220.77 B",
+        "Market Cap": "$220.28 B",
         "Price": "$1.26"
     },
     {
@@ -291,8 +291,8 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$202.79 B",
-        "Price": "$0.60"
+        "Market Cap": "$202.32 B",
+        "Price": "$0.59"
     },
     {
         "Company Name": "Walt Disney",
@@ -321,8 +321,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$189.91 B",
-        "Price": "$8.62"
+        "Market Cap": "$191.18 B",
+        "Price": "$8.68"
     },
     {
         "Company Name": "Danaher",
@@ -366,8 +366,8 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$167.19 B",
-        "Price": "$0.64"
+        "Market Cap": "$166.45 B",
+        "Price": "$0.63"
     },
     {
         "Company Name": "Verizon",
@@ -395,11 +395,6 @@
         "Price": "$175.27"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$157.69 B",
-        "Price": "$0.99"
-    },
-    {
         "Company Name": "ServiceNow",
         "Market Cap": "$157.45 B",
         "Price": "$768.08"
@@ -408,6 +403,11 @@
         "Company Name": "Dior",
         "Market Cap": "$157.40 B",
         "Price": "$872.49"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$157.25 B",
+        "Price": "$0.98"
     },
     {
         "Company Name": "Siemens",
