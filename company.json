@@ -16,7 +16,7 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.048 T",
+        "Market Cap": "$2.049 T",
         "Price": "$8.47"
     },
     {
@@ -81,8 +81,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$459.39 B",
-        "Price": "$919.62"
+        "Market Cap": "$460.00 B",
+        "Price": "$920.84"
     },
     {
         "Company Name": "UnitedHealth",
@@ -121,7 +121,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$370.51 B",
+        "Market Cap": "$370.54 B",
         "Price": "$55.45"
     },
     {
@@ -166,8 +166,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$291.95 B",
-        "Price": "$232.41"
+        "Market Cap": "$291.99 B",
+        "Price": "$232.44"
     },
     {
         "Company Name": "Bank of America ",
@@ -176,8 +176,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$278.74 B",
-        "Price": "$106.34"
+        "Market Cap": "$278.91 B",
+        "Price": "$106.40"
     },
     {
         "Company Name": "Chevron",
@@ -186,8 +186,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$265.49 B",
-        "Price": "$2,535"
+        "Market Cap": "$265.20 B",
+        "Price": "$2,532"
     },
     {
         "Company Name": "Netflix",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$260.77 B",
-        "Price": "$487.68"
+        "Market Cap": "$260.40 B",
+        "Price": "$486.99"
     },
     {
         "Company Name": "Coca-Cola",
@@ -211,7 +211,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$250.05 B",
+        "Market Cap": "$247.55 B",
         "Price": "$0.52"
     },
     {
@@ -226,8 +226,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.59 B",
-        "Price": "$108.77"
+        "Market Cap": "$238.60 B",
+        "Price": "$108.78"
     },
     {
         "Company Name": "SAP",
@@ -251,13 +251,13 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$223.46 B",
+        "Market Cap": "$223.49 B",
         "Price": "$1.28"
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$216.18 B",
-        "Price": "$271.12"
+        "Market Cap": "$216.91 B",
+        "Price": "$269.85"
     },
     {
         "Company Name": "McDonald",
@@ -291,7 +291,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$202.33 B",
+        "Market Cap": "$202.36 B",
         "Price": "$0.59"
     },
     {
@@ -321,8 +321,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$191.50 B",
-        "Price": "$8.70"
+        "Market Cap": "$189.77 B",
+        "Price": "$8.62"
     },
     {
         "Company Name": "Danaher",
@@ -351,8 +351,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$179.79 B",
-        "Price": "$49.69"
+        "Market Cap": "$179.76 B",
+        "Price": "$49.68"
     },
     {
         "Company Name": "Applied Materials",
@@ -366,7 +366,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$166.47 B",
+        "Market Cap": "$166.49 B",
         "Price": "$0.63"
     },
     {
@@ -396,8 +396,13 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$157.93 B",
+        "Market Cap": "$157.95 B",
         "Price": "$0.99"
+    },
+    {
+        "Company Name": "Dior",
+        "Market Cap": "$157.60 B",
+        "Price": "$873.61"
     },
     {
         "Company Name": "ServiceNow",
@@ -405,14 +410,9 @@
         "Price": "$768.08"
     },
     {
-        "Company Name": "Dior",
-        "Market Cap": "$157.35 B",
-        "Price": "$872.21"
-    },
-    {
         "Company Name": "Siemens",
-        "Market Cap": "$157.03 B",
-        "Price": "$198.80"
+        "Market Cap": "$156.77 B",
+        "Price": "$198.47"
     },
     {
         "Company Name": "Pinduoduo",
@@ -495,8 +495,8 @@
         "Price": "$392.68"
     },
     {
-        "Company Name": "Airbus",
-        "Market Cap": "$136.53 B",
-        "Price": "$173.39"
+        "Company Name": "Stryker Corporation",
+        "Market Cap": "$135.99 B",
+        "Price": "$357.62"
     }
 ]
