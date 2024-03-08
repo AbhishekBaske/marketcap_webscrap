@@ -1,18 +1,18 @@
 [
     {
         "Company Name": "Microsoft",
-        "Market Cap": "$3.031 T",
-        "Price": "$407.99"
+        "Market Cap": "$3.027 T",
+        "Price": "$407.50"
     },
     {
         "Company Name": "Apple",
-        "Market Cap": "$2.647 T",
-        "Price": "$171.42"
+        "Market Cap": "$2.658 T",
+        "Price": "$172.13"
     },
     {
         "Company Name": "NVIDIA",
-        "Market Cap": "$2.315 T",
-        "Price": "$926.06"
+        "Market Cap": "$2.224 T",
+        "Price": "$889.96"
     },
     {
         "Company Name": "Saudi Aramco",
@@ -21,103 +21,103 @@
     },
     {
         "Company Name": "Amazon",
-        "Market Cap": "$1.845 T",
-        "Price": "$177.71"
+        "Market Cap": "$1.835 T",
+        "Price": "$176.66"
     },
     {
         "Company Name": "Alphabet (Google)",
-        "Market Cap": "$1.718 T",
-        "Price": "$138.70"
+        "Market Cap": "$1.707 T",
+        "Price": "$137.84"
     },
     {
         "Company Name": "Meta Platforms (Facebook)",
-        "Market Cap": "$1.311 T",
-        "Price": "$514.28"
+        "Market Cap": "$1.293 T",
+        "Price": "$507.34"
     },
     {
         "Company Name": "Berkshire Hathaway ",
-        "Market Cap": "$870.81 B",
-        "Price": "$402.50"
+        "Market Cap": "$870.42 B",
+        "Price": "$402.32"
     },
     {
         "Company Name": "TSMC",
-        "Market Cap": "$794.85 B",
-        "Price": "$153.24"
+        "Market Cap": "$771.04 B",
+        "Price": "$148.65"
     },
     {
         "Company Name": "Eli Lilly",
-        "Market Cap": "$727.75 B",
-        "Price": "$765.92"
+        "Market Cap": "$726.87 B",
+        "Price": "$765.00"
     },
     {
         "Company Name": "Broadcom",
-        "Market Cap": "$624.31 B",
-        "Price": "$1,347"
+        "Market Cap": "$613.14 B",
+        "Price": "$1,323"
     },
     {
         "Company Name": "Novo Nordisk",
-        "Market Cap": "$592.23 B",
-        "Price": "$132.71"
+        "Market Cap": "$591.96 B",
+        "Price": "$132.65"
     },
     {
         "Company Name": "Visa",
-        "Market Cap": "$575.22 B",
-        "Price": "$280.04"
+        "Market Cap": "$575.96 B",
+        "Price": "$280.40"
     },
     {
         "Company Name": "Tesla",
-        "Market Cap": "$560.84 B",
-        "Price": "$176.10"
+        "Market Cap": "$560.14 B",
+        "Price": "$175.88"
     },
     {
         "Company Name": "JPMorgan Chase",
-        "Market Cap": "$545.77 B",
-        "Price": "$189.48"
+        "Market Cap": "$544.50 B",
+        "Price": "$189.04"
     },
     {
         "Company Name": "Walmart",
-        "Market Cap": "$482.72 B",
-        "Price": "$59.94"
+        "Market Cap": "$483.90 B",
+        "Price": "$60.09"
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$463.74 B",
-        "Price": "$928.34"
+        "Market Cap": "$462.48 B",
+        "Price": "$925.82"
     },
     {
         "Company Name": "UnitedHealth",
-        "Market Cap": "$443.52 B",
-        "Price": "$481.08"
+        "Market Cap": "$443.62 B",
+        "Price": "$481.19"
     },
     {
         "Company Name": "Mastercard",
-        "Market Cap": "$438.45 B",
-        "Price": "$470.00"
+        "Market Cap": "$438.59 B",
+        "Price": "$470.15"
     },
     {
         "Company Name": "Exxon Mobil",
-        "Market Cap": "$427.79 B",
-        "Price": "$107.82"
+        "Market Cap": "$428.26 B",
+        "Price": "$107.94"
     },
     {
         "Company Name": "ASML",
-        "Market Cap": "$402.23 B",
-        "Price": "$1,019"
+        "Market Cap": "$398.56 B",
+        "Price": "$1,010"
     },
     {
         "Company Name": "Johnson & Johnson",
-        "Market Cap": "$383.23 B",
-        "Price": "$159.10"
+        "Market Cap": "$384.65 B",
+        "Price": "$159.69"
     },
     {
         "Company Name": "Procter & Gamble",
-        "Market Cap": "$375.08 B",
-        "Price": "$159.41"
+        "Market Cap": "$377.58 B",
+        "Price": "$160.47"
     },
     {
         "Company Name": "Home Depot",
-        "Market Cap": "$373.45 B",
-        "Price": "$375.23"
+        "Market Cap": "$373.13 B",
+        "Price": "$374.91"
     },
     {
         "Company Name": "Samsung",
@@ -126,43 +126,43 @@
     },
     {
         "Company Name": "AMD",
-        "Market Cap": "$349.96 B",
-        "Price": "$216.59"
+        "Market Cap": "$338.66 B",
+        "Price": "$209.60"
     },
     {
         "Company Name": "Toyota",
-        "Market Cap": "$329.50 B",
-        "Price": "$244.47"
+        "Market Cap": "$328.81 B",
+        "Price": "$243.95"
     },
     {
         "Company Name": "Tencent",
-        "Market Cap": "$325.66 B",
-        "Price": "$34.52"
+        "Market Cap": "$324.70 B",
+        "Price": "$34.42"
     },
     {
         "Company Name": "Costco",
-        "Market Cap": "$325.47 B",
-        "Price": "$733.50"
+        "Market Cap": "$324.01 B",
+        "Price": "$730.22"
     },
     {
         "Company Name": "AbbVie",
-        "Market Cap": "$319.99 B",
-        "Price": "$181.15"
+        "Market Cap": "$319.75 B",
+        "Price": "$181.02"
     },
     {
         "Company Name": "Merck",
-        "Market Cap": "$312.35 B",
-        "Price": "$123.33"
+        "Market Cap": "$313.28 B",
+        "Price": "$123.70"
     },
     {
         "Company Name": "Oracle",
-        "Market Cap": "$309.00 B",
-        "Price": "$112.41"
+        "Market Cap": "$308.53 B",
+        "Price": "$112.24"
     },
     {
         "Company Name": "Salesforce",
-        "Market Cap": "$298.00 B",
-        "Price": "$307.22"
+        "Market Cap": "$297.08 B",
+        "Price": "$306.27"
     },
     {
         "Company Name": "Kweichow Moutai",
@@ -170,44 +170,44 @@
         "Price": "$232.63"
     },
     {
-        "Company Name": "Bank of America ",
-        "Market Cap": "$282.98 B",
-        "Price": "$35.94"
+        "Company Name": "Nestlé",
+        "Market Cap": "$280.71 B",
+        "Price": "$107.09"
     },
     {
-        "Company Name": "Nestlé",
-        "Market Cap": "$280.86 B",
-        "Price": "$107.15"
+        "Company Name": "Bank of America ",
+        "Market Cap": "$280.69 B",
+        "Price": "$35.66"
     },
     {
         "Company Name": "Chevron",
-        "Market Cap": "$276.36 B",
-        "Price": "$148.80"
+        "Market Cap": "$276.78 B",
+        "Price": "$149.03"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$266.01 B",
-        "Price": "$2,540"
+        "Market Cap": "$265.43 B",
+        "Price": "$2,535"
     },
     {
         "Company Name": "Netflix",
-        "Market Cap": "$264.12 B",
-        "Price": "$610.32"
+        "Market Cap": "$263.20 B",
+        "Price": "$608.19"
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$263.29 B",
-        "Price": "$492.38"
+        "Market Cap": "$263.08 B",
+        "Price": "$492.00"
     },
     {
         "Company Name": "Coca-Cola",
-        "Market Cap": "$256.03 B",
-        "Price": "$59.37"
+        "Market Cap": "$256.74 B",
+        "Price": "$59.54"
     },
     {
         "Company Name": "Adobe",
-        "Market Cap": "$250.60 B",
-        "Price": "$553.77"
+        "Market Cap": "$250.61 B",
+        "Price": "$553.78"
     },
     {
         "Company Name": "ICBC",
@@ -221,8 +221,8 @@
     },
     {
         "Company Name": "Accenture",
-        "Market Cap": "$240.45 B",
-        "Price": "$383.50"
+        "Market Cap": "$240.69 B",
+        "Price": "$383.88"
     },
     {
         "Company Name": "International Holding Company",
@@ -231,23 +231,18 @@
     },
     {
         "Company Name": "Thermo Fisher Scientific",
-        "Market Cap": "$228.78 B",
-        "Price": "$599.99"
+        "Market Cap": "$228.80 B",
+        "Price": "$600.04"
     },
     {
         "Company Name": "SAP",
-        "Market Cap": "$226.38 B",
-        "Price": "$193.95"
-    },
-    {
-        "Company Name": "Linde",
-        "Market Cap": "$223.96 B",
-        "Price": "$465.06"
+        "Market Cap": "$226.04 B",
+        "Price": "$193.66"
     },
     {
         "Company Name": "Pepsico",
-        "Market Cap": "$223.92 B",
-        "Price": "$162.92"
+        "Market Cap": "$224.46 B",
+        "Price": "$163.32"
     },
     {
         "Company Name": "PetroChina",
@@ -255,44 +250,44 @@
         "Price": "$1.28"
     },
     {
+        "Company Name": "Linde",
+        "Market Cap": "$223.48 B",
+        "Price": "$464.07"
+    },
+    {
         "Company Name": "Roche",
-        "Market Cap": "$218.43 B",
-        "Price": "$271.75"
+        "Market Cap": "$218.57 B",
+        "Price": "$271.92"
     },
     {
         "Company Name": "Abbott Laboratories",
-        "Market Cap": "$210.02 B",
-        "Price": "$121.04"
+        "Market Cap": "$210.25 B",
+        "Price": "$121.17"
     },
     {
         "Company Name": "McDonald",
-        "Market Cap": "$209.05 B",
-        "Price": "$289.53"
+        "Market Cap": "$209.77 B",
+        "Price": "$290.52"
     },
     {
         "Company Name": "Shell",
-        "Market Cap": "$207.45 B",
-        "Price": "$64.36"
+        "Market Cap": "$207.37 B",
+        "Price": "$64.33"
     },
     {
         "Company Name": "AstraZeneca",
-        "Market Cap": "$205.55 B",
-        "Price": "$66.30"
-    },
-    {
-        "Company Name": "Wells Fargo",
-        "Market Cap": "$205.25 B",
-        "Price": "$57.38"
+        "Market Cap": "$206.05 B",
+        "Price": "$66.46"
     },
     {
         "Company Name": "Novartis",
-        "Market Cap": "$205.23 B",
-        "Price": "$100.40"
+        "Market Cap": "$205.36 B",
+        "Price": "$100.47"
     },
     {
-        "Company Name": "Walt Disney",
-        "Market Cap": "$203.07 B",
-        "Price": "$110.71"
+        "Company Name": "Wells Fargo",
+        "Market Cap": "$205.09 B",
+        "Price": "$57.33"
     },
     {
         "Company Name": "Agricultural Bank of China",
@@ -300,24 +295,24 @@
         "Price": "$0.59"
     },
     {
+        "Company Name": "Walt Disney",
+        "Market Cap": "$202.37 B",
+        "Price": "$110.33"
+    },
+    {
         "Company Name": "Cisco",
-        "Market Cap": "$199.09 B",
-        "Price": "$49.17"
+        "Market Cap": "$200.77 B",
+        "Price": "$49.58"
     },
     {
         "Company Name": "T-Mobile US",
-        "Market Cap": "$194.95 B",
-        "Price": "$164.26"
+        "Market Cap": "$195.38 B",
+        "Price": "$164.62"
     },
     {
         "Company Name": "QUALCOMM",
-        "Market Cap": "$193.73 B",
-        "Price": "$173.60"
-    },
-    {
-        "Company Name": "Intel",
-        "Market Cap": "$191.44 B",
-        "Price": "$45.28"
+        "Market Cap": "$193.21 B",
+        "Price": "$173.13"
     },
     {
         "Company Name": "China Mobile",
@@ -325,29 +320,29 @@
         "Price": "$8.66"
     },
     {
+        "Company Name": "Intel",
+        "Market Cap": "$188.73 B",
+        "Price": "$44.64"
+    },
+    {
         "Company Name": "Danaher",
-        "Market Cap": "$188.54 B",
-        "Price": "$254.90"
+        "Market Cap": "$188.51 B",
+        "Price": "$254.85"
     },
     {
         "Company Name": "General Electric",
-        "Market Cap": "$185.72 B",
-        "Price": "$170.65"
-    },
-    {
-        "Company Name": "Alibaba",
-        "Market Cap": "$183.23 B",
-        "Price": "$73.30"
+        "Market Cap": "$185.26 B",
+        "Price": "$170.23"
     },
     {
         "Company Name": "Intuit",
-        "Market Cap": "$182.96 B",
-        "Price": "$653.50"
+        "Market Cap": "$183.17 B",
+        "Price": "$654.23"
     },
     {
-        "Company Name": "IBM",
-        "Market Cap": "$180.40 B",
-        "Price": "$196.79"
+        "Company Name": "Alibaba",
+        "Market Cap": "$182.45 B",
+        "Price": "$72.98"
     },
     {
         "Company Name": "Tata Consultancy Services",
@@ -355,29 +350,29 @@
         "Price": "$49.68"
     },
     {
+        "Company Name": "IBM",
+        "Market Cap": "$179.32 B",
+        "Price": "$195.61"
+    },
+    {
         "Company Name": "Applied Materials",
-        "Market Cap": "$174.22 B",
-        "Price": "$209.68"
+        "Market Cap": "$174.13 B",
+        "Price": "$209.57"
     },
     {
         "Company Name": "Caterpillar",
-        "Market Cap": "$170.60 B",
-        "Price": "$341.63"
-    },
-    {
-        "Company Name": "Uber",
-        "Market Cap": "$167.76 B",
-        "Price": "$80.79"
+        "Market Cap": "$170.00 B",
+        "Price": "$340.44"
     },
     {
         "Company Name": "Comcast",
-        "Market Cap": "$167.73 B",
-        "Price": "$42.23"
+        "Market Cap": "$168.12 B",
+        "Price": "$42.33"
     },
     {
         "Company Name": "Verizon",
-        "Market Cap": "$166.76 B",
-        "Price": "$39.66"
+        "Market Cap": "$166.67 B",
+        "Price": "$39.64"
     },
     {
         "Company Name": "Bank of China",
@@ -385,14 +380,24 @@
         "Price": "$0.63"
     },
     {
+        "Company Name": "Uber",
+        "Market Cap": "$165.87 B",
+        "Price": "$79.88"
+    },
+    {
         "Company Name": "American Express",
-        "Market Cap": "$162.00 B",
-        "Price": "$223.80"
+        "Market Cap": "$161.62 B",
+        "Price": "$223.28"
+    },
+    {
+        "Company Name": "Texas Instruments",
+        "Market Cap": "$158.64 B",
+        "Price": "$174.47"
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$158.54 B",
-        "Price": "$878.81"
+        "Market Cap": "$158.25 B",
+        "Price": "$877.16"
     },
     {
         "Company Name": "China Construction Bank",
@@ -400,103 +405,98 @@
         "Price": "$0.99"
     },
     {
-        "Company Name": "Texas Instruments",
-        "Market Cap": "$157.96 B",
-        "Price": "$173.72"
-    },
-    {
         "Company Name": "Siemens",
-        "Market Cap": "$157.88 B",
-        "Price": "$199.87"
+        "Market Cap": "$157.46 B",
+        "Price": "$199.34"
     },
     {
         "Company Name": "ServiceNow",
-        "Market Cap": "$156.20 B",
-        "Price": "$761.98"
-    },
-    {
-        "Company Name": "TotalEnergies",
-        "Market Cap": "$153.48 B",
-        "Price": "$65.90"
+        "Market Cap": "$155.11 B",
+        "Price": "$756.67"
     },
     {
         "Company Name": "Pfizer",
-        "Market Cap": "$152.37 B",
-        "Price": "$26.98"
+        "Market Cap": "$153.59 B",
+        "Price": "$27.20"
+    },
+    {
+        "Company Name": "TotalEnergies",
+        "Market Cap": "$153.06 B",
+        "Price": "$65.72"
     },
     {
         "Company Name": "Union Pacific Corporation",
-        "Market Cap": "$152.31 B",
-        "Price": "$249.78"
+        "Market Cap": "$152.34 B",
+        "Price": "$249.84"
     },
     {
         "Company Name": "Nike",
-        "Market Cap": "$149.76 B",
-        "Price": "$98.85"
-    },
-    {
-        "Company Name": "Pinduoduo",
-        "Market Cap": "$147.79 B",
-        "Price": "$111.24"
+        "Market Cap": "$149.89 B",
+        "Price": "$98.93"
     },
     {
         "Company Name": "Amgen",
-        "Market Cap": "$147.73 B",
-        "Price": "$275.67"
+        "Market Cap": "$147.37 B",
+        "Price": "$274.99"
     },
     {
         "Company Name": "HSBC",
-        "Market Cap": "$146.65 B",
-        "Price": "$37.52"
+        "Market Cap": "$146.84 B",
+        "Price": "$37.56"
+    },
+    {
+        "Company Name": "Pinduoduo",
+        "Market Cap": "$146.01 B",
+        "Price": "$109.90"
     },
     {
         "Company Name": "BHP Group",
-        "Market Cap": "$145.20 B",
-        "Price": "$57.38"
+        "Market Cap": "$145.07 B",
+        "Price": "$57.33"
     },
     {
         "Company Name": "Philip Morris",
-        "Market Cap": "$143.77 B",
-        "Price": "$92.61"
+        "Market Cap": "$143.89 B",
+        "Price": "$92.69"
     },
     {
         "Company Name": "Morgan Stanley",
-        "Market Cap": "$143.08 B",
-        "Price": "$87.50"
+        "Market Cap": "$142.64 B",
+        "Price": "$87.23"
     },
     {
         "Company Name": "HDFC Bank",
-        "Market Cap": "$141.69 B",
-        "Price": "$55.96"
+        "Market Cap": "$141.17 B",
+        "Price": "$55.76"
     },
     {
         "Company Name": "Royal Bank Of Canada",
-        "Market Cap": "$140.35 B",
-        "Price": "$99.27"
-    },
-    {
-        "Company Name": "Inditex",
-        "Market Cap": "$139.42 B",
-        "Price": "$22.39"
+        "Market Cap": "$140.41 B",
+        "Price": "$99.31"
     },
     {
         "Company Name": "Lowe's Companies",
-        "Market Cap": "$139.37 B",
-        "Price": "$242.81"
-    },
-    {
-        "Company Name": "Arm Holdings",
-        "Market Cap": "$139.21 B",
-        "Price": "$135.41"
+        "Market Cap": "$139.62 B",
+        "Price": "$243.25"
     },
     {
         "Company Name": "Intuitive Surgical",
-        "Market Cap": "$138.65 B",
-        "Price": "$393.55"
+        "Market Cap": "$139.00 B",
+        "Price": "$394.52"
     },
     {
-        "Company Name": "Airbus",
-        "Market Cap": "$136.30 B",
-        "Price": "$173.11"
+        "Company Name": "Inditex",
+        "Market Cap": "$138.50 B",
+        "Price": "$22.24"
+    },
+    {
+        "Company Name": "Arm Holdings",
+        "Market Cap": "$137.89 B",
+        "Price": "$134.12"
+    },
+    {
+        "Company Name": "Stryker Corporation",
+        "Market Cap": "$136.57 B",
+        "Price": "$359.16"
     }
 ]
