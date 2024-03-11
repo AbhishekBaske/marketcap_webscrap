@@ -36,8 +36,8 @@
     },
     {
         "Company Name": "Berkshire Hathaway ",
-        "Market Cap": "$877.56 B",
-        "Price": "$404.82"
+        "Market Cap": "$877.43 B",
+        "Price": "$404.76"
     },
     {
         "Company Name": "TSMC",
@@ -115,14 +115,14 @@
         "Price": "$161.55"
     },
     {
+        "Company Name": "Samsung",
+        "Market Cap": "$373.54 B",
+        "Price": "$55.26"
+    },
+    {
         "Company Name": "Home Depot",
         "Market Cap": "$369.75 B",
         "Price": "$371.52"
-    },
-    {
-        "Company Name": "Samsung",
-        "Market Cap": "$368.95 B",
-        "Price": "$55.26"
     },
     {
         "Company Name": "Tencent",
@@ -211,7 +211,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$247.54 B",
+        "Market Cap": "$246.93 B",
         "Price": "$0.52"
     },
     {
@@ -245,6 +245,11 @@
         "Price": "$469.48"
     },
     {
+        "Company Name": "PetroChina",
+        "Market Cap": "$223.71 B",
+        "Price": "$1.25"
+    },
+    {
         "Company Name": "SAP",
         "Market Cap": "$222.44 B",
         "Price": "$189.83"
@@ -253,11 +258,6 @@
         "Company Name": "Roche",
         "Market Cap": "$221.67 B",
         "Price": "$275.79"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$219.32 B",
-        "Price": "$1.25"
     },
     {
         "Company Name": "McDonald",
@@ -286,8 +286,8 @@
     },
     {
         "Company Name": "Walt Disney",
-        "Market Cap": "$206.02 B",
-        "Price": "$112.32"
+        "Market Cap": "$206.01 B",
+        "Price": "$112.31"
     },
     {
         "Company Name": "Wells Fargo",
@@ -301,7 +301,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$201.30 B",
+        "Market Cap": "$202.73 B",
         "Price": "$0.59"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
         "Company Name": "Alibaba",
-        "Market Cap": "$187.17 B",
-        "Price": "$74.87"
+        "Market Cap": "$187.15 B",
+        "Price": "$74.86"
     },
     {
         "Company Name": "Danaher",
@@ -365,6 +365,11 @@
         "Price": "$40.13"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$167.48 B",
+        "Price": "$0.63"
+    },
+    {
         "Company Name": "Applied Materials",
         "Market Cap": "$167.31 B",
         "Price": "$201.37"
@@ -373,11 +378,6 @@
         "Company Name": "Caterpillar",
         "Market Cap": "$167.27 B",
         "Price": "$334.97"
-    },
-    {
-        "Company Name": "Bank of China",
-        "Market Cap": "$166.01 B",
-        "Price": "$0.63"
     },
     {
         "Company Name": "Uber",
@@ -391,18 +391,18 @@
     },
     {
         "Company Name": "American Express",
-        "Market Cap": "$159.39 B",
-        "Price": "$220.20"
+        "Market Cap": "$159.38 B",
+        "Price": "$220.19"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$159.15 B",
+        "Price": "$0.98"
     },
     {
         "Company Name": "Texas Instruments",
         "Market Cap": "$158.38 B",
         "Price": "$174.19"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$158.26 B",
-        "Price": "$0.98"
     },
     {
         "Company Name": "Dior",
