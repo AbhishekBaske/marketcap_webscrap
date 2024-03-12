@@ -16,7 +16,7 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.058 T",
+        "Market Cap": "$2.059 T",
         "Price": "$8.51"
     },
     {
@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$368.94 B",
-        "Price": "$55.24"
+        "Market Cap": "$370.47 B",
+        "Price": "$55.47"
     },
     {
         "Company Name": "Tencent",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$302.11 B",
-        "Price": "$240.50"
+        "Market Cap": "$303.48 B",
+        "Price": "$241.59"
     },
     {
         "Company Name": "Salesforce",
@@ -211,7 +211,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$248.15 B",
+        "Market Cap": "$246.92 B",
         "Price": "$0.52"
     },
     {
@@ -256,8 +256,8 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$214.99 B",
-        "Price": "$1.23"
+        "Market Cap": "$214.51 B",
+        "Price": "$1.22"
     },
     {
         "Company Name": "McDonald",
@@ -301,7 +301,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$199.34 B",
+        "Market Cap": "$198.86 B",
         "Price": "$0.58"
     },
     {
@@ -315,14 +315,14 @@
         "Price": "$171.12"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$189.80 B",
-        "Price": "$8.60"
-    },
-    {
         "Company Name": "Intel",
         "Market Cap": "$189.66 B",
         "Price": "$44.86"
+    },
+    {
+        "Company Name": "China Mobile",
+        "Market Cap": "$189.66 B",
+        "Price": "$8.60"
     },
     {
         "Company Name": "Danaher",
@@ -376,7 +376,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$164.00 B",
+        "Market Cap": "$163.63 B",
         "Price": "$0.62"
     },
     {
@@ -416,8 +416,8 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$155.06 B",
-        "Price": "$0.97"
+        "Market Cap": "$154.17 B",
+        "Price": "$0.96"
     },
     {
         "Company Name": "TotalEnergies",
