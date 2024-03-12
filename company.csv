@@ -6,7 +6,7 @@ Saudi Aramco,$2.069 T,$8.55
 Amazon,$1.821 T,$175.39
 Alphabet (Google),$1.727 T,$139.62
 Meta Platforms (Facebook),$1.274 T,$499.75
-Berkshire Hathaway ,$875.16 B,$404.87
+Berkshire Hathaway ,$875.40 B,$404.98
 TSMC,$749.00 B,$144.40
 Eli Lilly,$717.32 B,$754.95
 Novo Nordisk,$603.55 B,$135.11
@@ -22,7 +22,7 @@ Exxon Mobil,$429.79 B,$108.32
 ASML,$407.92 B,$984.29
 Johnson & Johnson,$392.00 B,$162.74
 Procter & Gamble,$381.02 B,$161.93
-Samsung,$373.21 B,$55.88
+Samsung,$372.97 B,$55.88
 Home Depot,$372.76 B,$374.54
 Oracle,$350.59 B,$127.54
 Tencent,$348.92 B,$36.98
@@ -41,8 +41,8 @@ Netflix,$264.45 B,$611.08
 L'Oréal,$263.77 B,$492.46
 Adobe,$262.08 B,$579.14
 Coca-Cola,$260.90 B,$60.50
-ICBC,$251.77 B,$0.53
 Reliance Industries,$241.20 B,$35.65
+ICBC,$240.66 B,$0.53
 International Holding Company,$238.59 B,$108.77
 Accenture,$238.55 B,$380.48
 SAP,$230.90 B,$193.83
@@ -50,8 +50,8 @@ Thermo Fisher Scientific,$227.73 B,$597.25
 Linde,$227.04 B,$471.47
 Pepsico,$226.14 B,$164.54
 Roche,$224.11 B,$279.01
+PetroChina,$212.58 B,$1.21
 McDonald,$212.50 B,$294.31
-PetroChina,$211.88 B,$1.21
 Abbott Laboratories,$209.54 B,$120.76
 AstraZeneca,$208.96 B,$67.40
 Shell,$207.84 B,$64.51
@@ -59,12 +59,12 @@ Walt Disney,$206.28 B,$112.46
 Wells Fargo,$206.09 B,$57.61
 Novartis,$203.93 B,$99.77
 Cisco,$202.74 B,$50.07
-Agricultural Bank of China,$196.54 B,$0.58
+Agricultural Bank of China,$197.03 B,$0.58
 T-Mobile US,$194.26 B,$163.68
 QUALCOMM,$193.15 B,$173.08
 Intel,$191.27 B,$45.24
 China Mobile,$190.32 B,$8.63
-Alibaba,$190.12 B,$76.05
+Alibaba,$190.15 B,$76.06
 Danaher,$187.21 B,$253.10
 Intuit,$185.52 B,$662.64
 Tata Consultancy Services,$183.24 B,$50.65
@@ -74,10 +74,11 @@ Comcast,$171.52 B,$43.18
 Applied Materials,$170.28 B,$204.94
 Verizon,$168.71 B,$40.13
 Caterpillar,$168.40 B,$337.24
+Bank of China,$163.43 B,$0.61
 Uber,$162.63 B,$78.32
 ServiceNow,$161.85 B,$789.56
-Bank of China,$161.84 B,$0.61
-American Express,$161.16 B,$222.64
+American Express,$161.16 B,$222.65
+China Construction Bank,$160.84 B,$0.96
 Dior,$159.11 B,$881.97
 Texas Instruments,$158.94 B,$174.80
 Pfizer,$158.16 B,$28.01
@@ -85,7 +86,6 @@ Siemens,$157.75 B,$199.72
 Pinduoduo,$156.98 B,$118.16
 TotalEnergies,$154.36 B,$66.27
 Union Pacific Corporation,$153.16 B,$251.18
-China Construction Bank,$152.87 B,$0.96
 Nike,$151.78 B,$100.18
 Amgen,$148.20 B,$276.54
 Philip Morris,$146.97 B,$94.67
