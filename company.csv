@@ -2,7 +2,7 @@ Company Name,Market Cap,Price
 Microsoft,$3.005 T,$404.52
 Apple,$2.667 T,$172.75
 NVIDIA,$2.144 T,$857.74
-Saudi Aramco,$2.072 T,$8.56
+Saudi Aramco,$2.069 T,$8.55
 Amazon,$1.786 T,$171.96
 Alphabet (Google),$1.719 T,$138.94
 Meta Platforms (Facebook),$1.232 T,$483.59
@@ -15,7 +15,7 @@ Visa,$576.28 B,$280.56
 Tesla,$566.16 B,$177.77
 JPMorgan Chase,$542.34 B,$188.29
 Walmart,$488.48 B,$60.66
-LVMH,$462.45 B,$925.75
+LVMH,$460.27 B,$921.38
 UnitedHealth,$450.96 B,$489.15
 Mastercard,$437.67 B,$469.16
 Exxon Mobil,$432.57 B,$109.02
@@ -35,21 +35,21 @@ Kweichow Moutai,$305.52 B,$243.22
 Salesforce,$296.82 B,$306.00
 Bank of America ,$283.19 B,$35.89
 Chevron,$282.30 B,$152.00
-Nestlé,$281.59 B,$107.43
-Hermès,$265.52 B,"$2,526"
-L'Oréal,$262.12 B,$489.39
+Nestlé,$281.08 B,$107.23
+Hermès,$264.08 B,"$2,512"
+L'Oréal,$260.78 B,$486.88
 Netflix,$260.05 B,$600.93
 Coca-Cola,$259.78 B,$60.24
 Adobe,$253.61 B,$560.42
 ICBC,$251.77 B,$0.53
-Reliance Industries,$240.88 B,$35.60
+Reliance Industries,$241.38 B,$35.67
 International Holding Company,$238.59 B,$108.77
 Accenture,$234.00 B,$373.22
 Thermo Fisher Scientific,$228.56 B,$599.43
 Pepsico,$226.40 B,$164.73
 SAP,$226.14 B,$189.83
 Linde,$226.09 B,$469.48
-Roche,$222.56 B,$277.09
+Roche,$222.47 B,$276.98
 McDonald,$212.87 B,$294.82
 PetroChina,$212.02 B,$1.21
 AstraZeneca,$209.80 B,$67.67
@@ -66,7 +66,7 @@ China Mobile,$190.32 B,$8.63
 Intel,$189.66 B,$44.86
 Alibaba,$187.15 B,$74.86
 Danaher,$186.99 B,$252.80
-Tata Consultancy Services,$183.42 B,$50.70
+Tata Consultancy Services,$183.37 B,$50.68
 Intuit,$182.22 B,$650.87
 General Electric,$181.27 B,$166.56
 IBM,$175.76 B,$191.73
@@ -79,8 +79,8 @@ Uber,$160.86 B,$77.47
 Pfizer,$160.19 B,$28.37
 American Express,$159.38 B,$220.19
 Texas Instruments,$158.38 B,$174.19
-Dior,$157.72 B,$874.25
-Siemens,$155.84 B,$197.29
+Dior,$156.83 B,$869.33
+Siemens,$155.94 B,$197.42
 ServiceNow,$155.13 B,$756.74
 TotalEnergies,$153.96 B,$66.10
 Nike,$153.14 B,$101.08
@@ -96,6 +96,6 @@ HSBC,$141.47 B,$37.13
 Royal Bank Of Canada,$141.43 B,$100.03
 Lowe's Companies,$138.31 B,$240.96
 Inditex,$138.19 B,$22.13
-Airbus,$136.30 B,$171.72
+Airbus,$136.33 B,$171.77
 ConocoPhillips,$135.58 B,$115.25
 Stryker Corporation,$135.21 B,$355.59
