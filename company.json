@@ -320,14 +320,14 @@
         "Price": "$45.24"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$190.32 B",
-        "Price": "$8.63"
-    },
-    {
         "Company Name": "Alibaba",
         "Market Cap": "$190.15 B",
         "Price": "$76.06"
+    },
+    {
+        "Company Name": "China Mobile",
+        "Market Cap": "$189.66 B",
+        "Price": "$8.63"
     },
     {
         "Company Name": "Danaher",
