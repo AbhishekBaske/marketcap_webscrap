@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$371.02 B",
-        "Price": "$55.55"
+        "Market Cap": "$371.53 B",
+        "Price": "$55.63"
     },
     {
         "Company Name": "Tencent",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$303.09 B",
-        "Price": "$241.28"
+        "Market Cap": "$303.04 B",
+        "Price": "$241.24"
     },
     {
         "Company Name": "Salesforce",
@@ -211,18 +211,18 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$249.35 B",
+        "Market Cap": "$248.73 B",
         "Price": "$0.52"
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$244.56 B",
-        "Price": "$35.84"
+        "Market Cap": "$244.12 B",
+        "Price": "$35.78"
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.62 B",
-        "Price": "$108.78"
+        "Market Cap": "$238.59 B",
+        "Price": "$108.77"
     },
     {
         "Company Name": "Accenture",
@@ -301,7 +301,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$198.53 B",
+        "Market Cap": "$198.06 B",
         "Price": "$0.58"
     },
     {
@@ -315,14 +315,14 @@
         "Price": "$171.12"
     },
     {
+        "Company Name": "China Mobile",
+        "Market Cap": "$189.92 B",
+        "Price": "$8.61"
+    },
+    {
         "Company Name": "Intel",
         "Market Cap": "$189.66 B",
         "Price": "$44.86"
-    },
-    {
-        "Company Name": "China Mobile",
-        "Market Cap": "$189.64 B",
-        "Price": "$8.60"
     },
     {
         "Company Name": "Danaher",
@@ -336,8 +336,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$183.69 B",
-        "Price": "$50.77"
+        "Market Cap": "$183.88 B",
+        "Price": "$50.82"
     },
     {
         "Company Name": "General Electric",
@@ -375,14 +375,14 @@
         "Price": "$40.13"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$163.75 B",
-        "Price": "$0.62"
-    },
-    {
         "Company Name": "Uber",
         "Market Cap": "$163.42 B",
         "Price": "$77.47"
+    },
+    {
+        "Company Name": "Bank of China",
+        "Market Cap": "$163.38 B",
+        "Price": "$0.62"
     },
     {
         "Company Name": "American Express",
