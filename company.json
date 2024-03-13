@@ -146,7 +146,7 @@
     },
     {
         "Company Name": "Toyota",
-        "Market Cap": "$321.18 B",
+        "Market Cap": "$320.72 B",
         "Price": "$237.95"
     },
     {
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$301.31 B",
-        "Price": "$239.86"
+        "Market Cap": "$302.40 B",
+        "Price": "$240.73"
     },
     {
         "Company Name": "Salesforce",
@@ -210,11 +210,6 @@
         "Price": "$60.50"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$240.06 B",
-        "Price": "$35.48"
-    },
-    {
         "Company Name": "International Holding Company",
         "Market Cap": "$238.59 B",
         "Price": "$108.77"
@@ -223,6 +218,11 @@
         "Company Name": "Accenture",
         "Market Cap": "$238.55 B",
         "Price": "$380.48"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$237.89 B",
+        "Price": "$35.16"
     },
     {
         "Company Name": "ICBC",
@@ -256,7 +256,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$212.59 B",
+        "Market Cap": "$213.57 B",
         "Price": "$1.21"
     },
     {
@@ -301,7 +301,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$197.28 B",
+        "Market Cap": "$196.81 B",
         "Price": "$0.58"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$189.35 B",
-        "Price": "$8.61"
+        "Market Cap": "$188.09 B",
+        "Price": "$8.56"
     },
     {
         "Company Name": "Danaher",
@@ -341,8 +341,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$184.13 B",
-        "Price": "$50.89"
+        "Market Cap": "$182.54 B",
+        "Price": "$50.45"
     },
     {
         "Company Name": "General Electric",
@@ -396,8 +396,8 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$160.90 B",
-        "Price": "$0.96"
+        "Market Cap": "$160.43 B",
+        "Price": "$0.95"
     },
     {
         "Company Name": "Dior",
