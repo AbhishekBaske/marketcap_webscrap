@@ -16,8 +16,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.059 T",
-        "Price": "$8.51"
+        "Market Cap": "$2.062 T",
+        "Price": "$8.52"
     },
     {
         "Company Name": "Amazon",
@@ -81,8 +81,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$466.56 B",
-        "Price": "$933.97"
+        "Market Cap": "$469.51 B",
+        "Price": "$939.87"
     },
     {
         "Company Name": "UnitedHealth",
@@ -170,14 +170,14 @@
         "Price": "$306.62"
     },
     {
+        "Company Name": "Nestlé",
+        "Market Cap": "$284.15 B",
+        "Price": "$108.40"
+    },
+    {
         "Company Name": "Bank of America ",
         "Market Cap": "$283.74 B",
         "Price": "$35.96"
-    },
-    {
-        "Company Name": "Nestlé",
-        "Market Cap": "$282.27 B",
-        "Price": "$107.68"
     },
     {
         "Company Name": "Chevron",
@@ -186,18 +186,18 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$267.29 B",
-        "Price": "$2,552"
+        "Market Cap": "$268.15 B",
+        "Price": "$2,560"
+    },
+    {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$264.58 B",
+        "Price": "$494.81"
     },
     {
         "Company Name": "Netflix",
         "Market Cap": "$264.45 B",
         "Price": "$611.08"
-    },
-    {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$264.03 B",
-        "Price": "$493.77"
     },
     {
         "Company Name": "Adobe",
@@ -210,14 +210,14 @@
         "Price": "$60.50"
     },
     {
-        "Company Name": "International Holding Company",
-        "Market Cap": "$238.60 B",
-        "Price": "$108.78"
-    },
-    {
         "Company Name": "Accenture",
         "Market Cap": "$238.55 B",
         "Price": "$380.48"
+    },
+    {
+        "Company Name": "International Holding Company",
+        "Market Cap": "$238.54 B",
+        "Price": "$108.75"
     },
     {
         "Company Name": "ICBC",
@@ -226,8 +226,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$234.66 B",
-        "Price": "$34.68"
+        "Market Cap": "$233.83 B",
+        "Price": "$34.56"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -251,8 +251,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$222.49 B",
-        "Price": "$276.98"
+        "Market Cap": "$223.18 B",
+        "Price": "$277.84"
     },
     {
         "Company Name": "McDonald",
@@ -351,8 +351,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$180.89 B",
-        "Price": "$50.00"
+        "Market Cap": "$181.12 B",
+        "Price": "$50.06"
     },
     {
         "Company Name": "Comcast",
@@ -406,8 +406,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$158.18 B",
-        "Price": "$876.79"
+        "Market Cap": "$158.87 B",
+        "Price": "$880.62"
     },
     {
         "Company Name": "Pfizer",
@@ -416,8 +416,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$157.84 B",
-        "Price": "$199.83"
+        "Market Cap": "$157.60 B",
+        "Price": "$199.52"
     },
     {
         "Company Name": "Pinduoduo",
@@ -491,8 +491,8 @@
     },
     {
         "Company Name": "Airbus",
-        "Market Cap": "$136.73 B",
-        "Price": "$173.65"
+        "Market Cap": "$136.65 B",
+        "Price": "$173.54"
     },
     {
         "Company Name": "Stryker Corporation",
