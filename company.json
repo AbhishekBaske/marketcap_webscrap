@@ -210,6 +210,11 @@
         "Price": "$573.55"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$238.89 B",
+        "Price": "$0.52"
+    },
+    {
         "Company Name": "International Holding Company",
         "Market Cap": "$238.71 B",
         "Price": "$108.83"
@@ -218,11 +223,6 @@
         "Company Name": "Accenture",
         "Market Cap": "$237.45 B",
         "Price": "$378.72"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$236.56 B",
-        "Price": "$0.52"
     },
     {
         "Company Name": "Reliance Industries",
@@ -301,7 +301,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$195.91 B",
+        "Market Cap": "$195.80 B",
         "Price": "$0.57"
     },
     {
@@ -326,7 +326,7 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$188.11 B",
+        "Market Cap": "$188.13 B",
         "Price": "$8.56"
     },
     {
