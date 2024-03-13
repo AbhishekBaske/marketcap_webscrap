@@ -2,7 +2,7 @@ Company Name,Market Cap,Price
 Microsoft,$3.085 T,$415.28
 Apple,$2.675 T,$173.23
 NVIDIA,$2.297 T,$919.13
-Saudi Aramco,$2.062 T,$8.52
+Saudi Aramco,$2.075 T,$8.58
 Amazon,$1.821 T,$175.39
 Alphabet (Google),$1.728 T,$139.62
 Meta Platforms (Facebook),$1.274 T,$499.75
@@ -15,7 +15,7 @@ Visa,$583.19 B,$283.92
 Tesla,$565.42 B,$177.54
 JPMorgan Chase,$546.80 B,$189.84
 Walmart,$494.52 B,$61.41
-LVMH,$469.51 B,$939.87
+LVMH,$470.05 B,$940.96
 UnitedHealth,$451.14 B,$489.35
 Mastercard,$441.13 B,$472.87
 Exxon Mobil,$429.79 B,$108.32
@@ -33,23 +33,23 @@ AbbVie,$319.58 B,$180.92
 Merck,$310.65 B,$122.66
 Kweichow Moutai,$301.68 B,$240.16
 Salesforce,$297.42 B,$306.62
-Nestlé,$284.15 B,$108.40
+Nestlé,$283.76 B,$108.25
 Bank of America ,$283.74 B,$35.96
 Chevron,$282.10 B,$151.89
 Hermès,$268.15 B,"$2,560"
-L'Oréal,$264.58 B,$494.81
+L'Oréal,$265.14 B,$495.85
 Netflix,$264.45 B,$611.08
 Adobe,$262.08 B,$579.14
 Coca-Cola,$260.90 B,$60.50
+International Holding Company,$238.66 B,$108.80
 Accenture,$238.55 B,$380.48
-International Holding Company,$238.54 B,$108.75
 ICBC,$236.57 B,$0.52
 Reliance Industries,$233.83 B,$34.56
 Thermo Fisher Scientific,$227.73 B,$597.25
 Linde,$227.04 B,$471.47
 SAP,$226.24 B,$193.83
 Pepsico,$226.14 B,$164.54
-Roche,$223.18 B,$277.84
+Roche,$222.35 B,$276.81
 McDonald,$212.50 B,$294.31
 PetroChina,$212.43 B,$1.21
 Abbott Laboratories,$209.54 B,$120.76
@@ -79,10 +79,10 @@ Bank of China,$162.01 B,$0.61
 ServiceNow,$161.85 B,$789.56
 American Express,$161.16 B,$222.65
 China Construction Bank,$160.31 B,$0.95
+Dior,$159.85 B,$886.08
 Texas Instruments,$159.07 B,$174.80
-Dior,$158.87 B,$880.62
+Siemens,$158.46 B,$200.61
 Pfizer,$158.16 B,$28.01
-Siemens,$157.60 B,$199.52
 Pinduoduo,$156.98 B,$118.16
 TotalEnergies,$154.18 B,$66.27
 Union Pacific Corporation,$153.16 B,$251.18
@@ -97,5 +97,5 @@ BHP Group,$141.70 B,$56.00
 Inditex,$140.08 B,$22.50
 Lowe's Companies,$139.63 B,$243.26
 Intuitive Surgical,$138.02 B,$389.40
-Airbus,$136.65 B,$173.54
+Airbus,$136.54 B,$173.41
 Stryker Corporation,$136.28 B,$358.39
