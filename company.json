@@ -81,8 +81,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$481.34 B",
-        "Price": "$963.55"
+        "Market Cap": "$481.12 B",
+        "Price": "$963.12"
     },
     {
         "Company Name": "UnitedHealth",
@@ -170,14 +170,14 @@
         "Price": "$304.68"
     },
     {
-        "Company Name": "Nestlé",
-        "Market Cap": "$286.18 B",
-        "Price": "$109.17"
-    },
-    {
         "Company Name": "Chevron",
         "Market Cap": "$285.81 B",
         "Price": "$153.89"
+    },
+    {
+        "Company Name": "Nestlé",
+        "Market Cap": "$285.37 B",
+        "Price": "$108.87"
     },
     {
         "Company Name": "Bank of America ",
@@ -186,13 +186,13 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$276.18 B",
-        "Price": "$2,637"
+        "Market Cap": "$276.53 B",
+        "Price": "$2,640"
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$266.60 B",
-        "Price": "$498.58"
+        "Market Cap": "$266.89 B",
+        "Price": "$499.12"
     },
     {
         "Company Name": "Netflix",
@@ -256,8 +256,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$213.18 B",
-        "Price": "$265.40"
+        "Market Cap": "$212.67 B",
+        "Price": "$264.77"
     },
     {
         "Company Name": "Shell",
@@ -376,8 +376,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$162.99 B",
-        "Price": "$903.47"
+        "Market Cap": "$162.69 B",
+        "Price": "$901.83"
     },
     {
         "Company Name": "Pinduoduo",
@@ -400,6 +400,11 @@
         "Price": "$222.81"
     },
     {
+        "Company Name": "Siemens",
+        "Market Cap": "$159.64 B",
+        "Price": "$202.10"
+    },
+    {
         "Company Name": "Pfizer",
         "Market Cap": "$159.35 B",
         "Price": "$28.22"
@@ -408,11 +413,6 @@
         "Company Name": "ServiceNow",
         "Market Cap": "$159.26 B",
         "Price": "$776.88"
-    },
-    {
-        "Company Name": "Siemens",
-        "Market Cap": "$159.22 B",
-        "Price": "$201.58"
     },
     {
         "Company Name": "China Construction Bank",
@@ -486,8 +486,8 @@
     },
     {
         "Company Name": "Airbus",
-        "Market Cap": "$138.57 B",
-        "Price": "$175.99"
+        "Market Cap": "$138.66 B",
+        "Price": "$176.10"
     },
     {
         "Company Name": "ConocoPhillips",
