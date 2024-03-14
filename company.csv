@@ -2,7 +2,7 @@ Company Name,Market Cap,Price
 Microsoft,$3.084 T,$415.10
 Apple,$2.642 T,$171.13
 NVIDIA,$2.272 T,$908.88
-Saudi Aramco,$2.068 T,$8.55
+Saudi Aramco,$2.046 T,$8.46
 Amazon,$1.833 T,$176.56
 Alphabet (Google),$1.743 T,$140.77
 Meta Platforms (Facebook),$1.263 T,$495.57
@@ -23,7 +23,7 @@ Johnson & Johnson,$388.05 B,$161.10
 ASML,$384.84 B,$968.78
 Procter & Gamble,$381.89 B,$162.30
 Home Depot,$377.19 B,$378.99
-Samsung,$375.45 B,$56.27
+Samsung,$376.46 B,$56.42
 Tencent,$350.30 B,$37.04
 Oracle,$344.99 B,$125.52
 Costco,$325.65 B,$734.20
@@ -41,16 +41,16 @@ L'Oréal,$265.81 B,$497.10
 Netflix,$263.74 B,$609.45
 Coca-Cola,$263.57 B,$61.12
 Adobe,$259.55 B,$573.55
-International Holding Company,$238.72 B,$108.83
+International Holding Company,$238.60 B,$108.78
 Accenture,$237.45 B,$378.72
-ICBC,$236.60 B,$0.51
-Reliance Industries,$235.14 B,$34.75
+ICBC,$237.19 B,$0.51
+Reliance Industries,$235.28 B,$34.77
 Linde,$228.69 B,$474.89
 Pepsico,$227.19 B,$165.30
 Thermo Fisher Scientific,$226.24 B,$593.32
 SAP,$225.82 B,$192.51
 Roche,$220.13 B,$274.06
-PetroChina,$215.13 B,$1.22
+PetroChina,$214.89 B,$1.22
 Shell,$211.62 B,$65.71
 AstraZeneca,$209.52 B,$67.58
 Abbott Laboratories,$208.49 B,$120.16
@@ -64,11 +64,11 @@ T-Mobile US,$194.75 B,$164.09
 Alibaba,$190.97 B,$76.39
 QUALCOMM,$188.88 B,$169.25
 Danaher,$188.88 B,$255.35
-China Mobile,$188.46 B,$8.57
+China Mobile,$188.18 B,$8.56
 General Electric,$185.19 B,$170.16
 Intuit,$183.40 B,$655.07
 Intel,$182.77 B,$43.23
-Tata Consultancy Services,$182.22 B,$50.37
+Tata Consultancy Services,$182.75 B,$50.51
 IBM,$180.32 B,$196.70
 Comcast,$171.90 B,$43.28
 Caterpillar,$170.54 B,$341.52
@@ -76,7 +76,7 @@ Verizon,$169.26 B,$40.26
 Applied Materials,$166.64 B,$200.56
 Pinduoduo,$162.56 B,$122.36
 Uber,$162.48 B,$78.25
-Bank of China,$161.94 B,$0.61
+Bank of China,$162.31 B,$0.61
 American Express,$161.28 B,$222.81
 Dior,$161.12 B,$893.07
 Pfizer,$159.35 B,$28.22
