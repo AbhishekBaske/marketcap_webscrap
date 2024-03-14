@@ -116,7 +116,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$374.52 B",
+        "Market Cap": "$374.66 B",
         "Price": "$56.13"
     },
     {
@@ -210,14 +210,14 @@
         "Price": "$570.45"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$239.30 B",
+        "Price": "$0.51"
+    },
+    {
         "Company Name": "International Holding Company",
         "Market Cap": "$238.67 B",
         "Price": "$108.81"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$237.76 B",
-        "Price": "$0.51"
     },
     {
         "Company Name": "Accenture",
@@ -251,7 +251,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$214.85 B",
+        "Market Cap": "$215.02 B",
         "Price": "$1.22"
     },
     {
@@ -301,7 +301,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$197.51 B",
+        "Market Cap": "$197.36 B",
         "Price": "$0.58"
     },
     {
@@ -381,7 +381,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$162.28 B",
+        "Market Cap": "$162.45 B",
         "Price": "$0.61"
     },
     {
@@ -405,11 +405,6 @@
         "Price": "$220.47"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$158.89 B",
-        "Price": "$0.95"
-    },
-    {
         "Company Name": "Pfizer",
         "Market Cap": "$158.84 B",
         "Price": "$28.13"
@@ -423,6 +418,11 @@
         "Company Name": "Siemens",
         "Market Cap": "$158.34 B",
         "Price": "$200.46"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$158.10 B",
+        "Price": "$0.95"
     },
     {
         "Company Name": "Texas Instruments",
