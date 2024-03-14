@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$374.83 B",
-        "Price": "$56.17"
+        "Market Cap": "$376.35 B",
+        "Price": "$56.40"
     },
     {
         "Company Name": "Tencent",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$301.99 B",
-        "Price": "$240.40"
+        "Market Cap": "$302.73 B",
+        "Price": "$240.99"
     },
     {
         "Company Name": "Salesforce",
@@ -256,8 +256,8 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$212.61 B",
-        "Price": "$1.21"
+        "Market Cap": "$217.26 B",
+        "Price": "$1.24"
     },
     {
         "Company Name": "McDonald",
@@ -301,8 +301,8 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$195.80 B",
-        "Price": "$0.57"
+        "Market Cap": "$197.70 B",
+        "Price": "$0.58"
     },
     {
         "Company Name": "T-Mobile US",
@@ -326,8 +326,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$188.14 B",
-        "Price": "$8.56"
+        "Market Cap": "$188.42 B",
+        "Price": "$8.57"
     },
     {
         "Company Name": "General Electric",
@@ -375,6 +375,11 @@
         "Price": "$40.26"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$162.81 B",
+        "Price": "$0.61"
+    },
+    {
         "Company Name": "Uber",
         "Market Cap": "$162.63 B",
         "Price": "$78.25"
@@ -385,11 +390,6 @@
         "Price": "$122.36"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$162.07 B",
-        "Price": "$0.61"
-    },
-    {
         "Company Name": "American Express",
         "Market Cap": "$161.28 B",
         "Price": "$222.81"
@@ -398,6 +398,11 @@
         "Company Name": "Dior",
         "Market Cap": "$161.27 B",
         "Price": "$893.95"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$159.98 B",
+        "Price": "$0.96"
     },
     {
         "Company Name": "Pfizer",
@@ -413,11 +418,6 @@
         "Company Name": "Siemens",
         "Market Cap": "$159.14 B",
         "Price": "$201.47"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$159.05 B",
-        "Price": "$0.95"
     },
     {
         "Company Name": "TotalEnergies",
