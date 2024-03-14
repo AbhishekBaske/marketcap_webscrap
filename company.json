@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$375.95 B",
-        "Price": "$56.34"
+        "Market Cap": "$375.45 B",
+        "Price": "$56.27"
     },
     {
         "Company Name": "Tencent",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$299.31 B",
-        "Price": "$238.27"
+        "Market Cap": "$299.86 B",
+        "Price": "$238.71"
     },
     {
         "Company Name": "Salesforce",
@@ -215,19 +215,19 @@
         "Price": "$108.83"
     },
     {
-        "Company Name": "ICBC",
-        "Market Cap": "$237.78 B",
-        "Price": "$0.51"
-    },
-    {
         "Company Name": "Accenture",
         "Market Cap": "$237.45 B",
         "Price": "$378.72"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$236.60 B",
+        "Price": "$0.51"
+    },
+    {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$235.70 B",
-        "Price": "$34.84"
+        "Market Cap": "$235.14 B",
+        "Price": "$34.75"
     },
     {
         "Company Name": "Linde",
@@ -256,7 +256,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$214.64 B",
+        "Market Cap": "$215.13 B",
         "Price": "$1.22"
     },
     {
@@ -301,7 +301,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$197.07 B",
+        "Market Cap": "$197.55 B",
         "Price": "$0.58"
     },
     {
@@ -326,7 +326,7 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$188.32 B",
+        "Market Cap": "$188.46 B",
         "Price": "$8.57"
     },
     {
@@ -345,14 +345,14 @@
         "Price": "$43.23"
     },
     {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$182.22 B",
+        "Price": "$50.37"
+    },
+    {
         "Company Name": "IBM",
         "Market Cap": "$180.32 B",
         "Price": "$196.70"
-    },
-    {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$179.69 B",
-        "Price": "$49.66"
     },
     {
         "Company Name": "Comcast",
@@ -386,8 +386,8 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$161.57 B",
-        "Price": "$0.60"
+        "Market Cap": "$161.94 B",
+        "Price": "$0.61"
     },
     {
         "Company Name": "American Express",
@@ -416,7 +416,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$158.69 B",
+        "Market Cap": "$158.92 B",
         "Price": "$0.95"
     },
     {
