@@ -121,7 +121,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$362.72 B",
+        "Market Cap": "$362.73 B",
         "Price": "$54.34"
     },
     {
@@ -146,8 +146,8 @@
     },
     {
         "Company Name": "AbbVie",
-        "Market Cap": "$314.69 B",
-        "Price": "$178.15"
+        "Market Cap": "$314.21 B",
+        "Price": "$177.88"
     },
     {
         "Company Name": "AMD",
@@ -206,7 +206,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$239.27 B",
+        "Market Cap": "$239.42 B",
         "Price": "$0.51"
     },
     {
@@ -251,7 +251,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$216.42 B",
+        "Market Cap": "$216.53 B",
         "Price": "$1.23"
     },
     {
@@ -301,7 +301,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$197.30 B",
+        "Market Cap": "$197.23 B",
         "Price": "$0.58"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
         "Company Name": "Danaher",
-        "Market Cap": "$184.62 B",
-        "Price": "$249.59"
+        "Market Cap": "$184.48 B",
+        "Price": "$249.40"
     },
     {
         "Company Name": "Tata Consultancy Services",
@@ -381,7 +381,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$161.65 B",
+        "Market Cap": "$161.73 B",
         "Price": "$0.60"
     },
     {
@@ -415,14 +415,14 @@
         "Price": "$27.94"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$157.36 B",
-        "Price": "$0.95"
-    },
-    {
         "Company Name": "Texas Instruments",
         "Market Cap": "$157.00 B",
         "Price": "$172.52"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$155.98 B",
+        "Price": "$0.95"
     },
     {
         "Company Name": "Inditex",
@@ -481,8 +481,8 @@
     },
     {
         "Company Name": "Lowe's Companies",
-        "Market Cap": "$140.46 B",
-        "Price": "$244.72"
+        "Market Cap": "$140.47 B",
+        "Price": "$244.73"
     },
     {
         "Company Name": "Intuitive Surgical",
