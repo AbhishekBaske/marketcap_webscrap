@@ -81,8 +81,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$470.78 B",
-        "Price": "$942.43"
+        "Market Cap": "$470.73 B",
+        "Price": "$942.32"
     },
     {
         "Company Name": "UnitedHealth",
@@ -176,8 +176,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$284.03 B",
-        "Price": "$108.36"
+        "Market Cap": "$282.31 B",
+        "Price": "$107.70"
     },
     {
         "Company Name": "Bank of America ",
@@ -186,8 +186,8 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$271.09 B",
-        "Price": "$2,588"
+        "Market Cap": "$273.54 B",
+        "Price": "$2,612"
     },
     {
         "Company Name": "Netflix",
@@ -196,8 +196,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$262.46 B",
-        "Price": "$487.65"
+        "Market Cap": "$262.28 B",
+        "Price": "$487.32"
     },
     {
         "Company Name": "Coca-Cola",
@@ -215,19 +215,19 @@
         "Price": "$108.78"
     },
     {
-        "Company Name": "ICBC",
-        "Market Cap": "$238.11 B",
-        "Price": "$0.51"
-    },
-    {
         "Company Name": "Accenture",
         "Market Cap": "$237.13 B",
         "Price": "$378.21"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$236.92 B",
+        "Price": "$0.51"
+    },
+    {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$232.13 B",
-        "Price": "$34.31"
+        "Market Cap": "$232.01 B",
+        "Price": "$34.29"
     },
     {
         "Company Name": "Linde",
@@ -255,14 +255,14 @@
         "Price": "$1.23"
     },
     {
-        "Company Name": "Roche",
-        "Market Cap": "$211.92 B",
-        "Price": "$263.88"
-    },
-    {
         "Company Name": "Shell",
         "Market Cap": "$211.80 B",
         "Price": "$65.78"
+    },
+    {
+        "Company Name": "Roche",
+        "Market Cap": "$209.88 B",
+        "Price": "$261.34"
     },
     {
         "Company Name": "AstraZeneca",
@@ -326,13 +326,13 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$185.62 B",
-        "Price": "$8.44"
+        "Market Cap": "$186.18 B",
+        "Price": "$8.46"
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$183.15 B",
-        "Price": "$50.62"
+        "Market Cap": "$183.75 B",
+        "Price": "$50.79"
     },
     {
         "Company Name": "Intuit",
@@ -390,14 +390,14 @@
         "Price": "$77.65"
     },
     {
-        "Company Name": "Dior",
-        "Market Cap": "$159.81 B",
-        "Price": "$885.84"
-    },
-    {
         "Company Name": "ServiceNow",
         "Market Cap": "$159.79 B",
         "Price": "$779.49"
+    },
+    {
+        "Company Name": "Dior",
+        "Market Cap": "$159.71 B",
+        "Price": "$885.30"
     },
     {
         "Company Name": "American Express",
@@ -416,8 +416,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$157.91 B",
-        "Price": "$199.91"
+        "Market Cap": "$158.32 B",
+        "Price": "$200.44"
     },
     {
         "Company Name": "China Construction Bank",
@@ -491,8 +491,8 @@
     },
     {
         "Company Name": "Airbus",
-        "Market Cap": "$137.75 B",
-        "Price": "$174.95"
+        "Market Cap": "$137.84 B",
+        "Price": "$175.06"
     },
     {
         "Company Name": "Intuitive Surgical",
