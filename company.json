@@ -315,14 +315,14 @@
         "Price": "$73.42"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$187.71 B",
-        "Price": "$8.46"
-    },
-    {
         "Company Name": "QUALCOMM",
         "Market Cap": "$186.59 B",
         "Price": "$167.20"
+    },
+    {
+        "Company Name": "China Mobile",
+        "Market Cap": "$186.17 B",
+        "Price": "$8.46"
     },
     {
         "Company Name": "Danaher",
