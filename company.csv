@@ -2,7 +2,7 @@ Company Name,Market Cap,Price
 Microsoft,$3.094 T,$416.42
 Apple,$2.665 T,$172.62
 NVIDIA,$2.195 T,$878.36
-Saudi Aramco,$2.014 T,$8.30
+Saudi Aramco,$2.010 T,$8.28
 Amazon,$1.811 T,$174.42
 Alphabet (Google),$1.761 T,$142.17
 Meta Platforms (Facebook),$1.234 T,$484.10
@@ -34,16 +34,16 @@ Merck,$307.76 B,$121.52
 Kweichow Moutai,$298.17 B,$237.36
 Chevron,$288.89 B,$155.55
 Salesforce,$285.50 B,$294.33
-Nestlé,$281.30 B,$107.31
+Nestlé,$281.09 B,$107.24
 Bank of America ,$279.40 B,$35.41
-Hermès,$272.47 B,"$2,599"
-L'Oréal,$262.49 B,$485.35
+Hermès,$272.92 B,"$2,603"
 Netflix,$262.20 B,$605.88
+L'Oréal,$261.61 B,$483.71
 Coca-Cola,$258.23 B,$59.88
 International Holding Company,$238.67 B,$108.81
 ICBC,$238.32 B,$0.51
+Reliance Industries,$235.05 B,$34.74
 Accenture,$234.87 B,$374.60
-Reliance Industries,$234.55 B,$34.67
 Pepsico,$226.31 B,$164.66
 Linde,$225.48 B,$468.23
 SAP,$223.59 B,$188.31
@@ -51,7 +51,7 @@ Adobe,$222.86 B,$492.46
 Thermo Fisher Scientific,$222.74 B,$584.15
 PetroChina,$216.68 B,$1.23
 Shell,$212.02 B,$65.86
-Roche,$207.72 B,$258.79
+Roche,$207.95 B,$259.07
 AstraZeneca,$206.41 B,$66.31
 Wells Fargo,$205.73 B,$57.51
 Walt Disney,$205.34 B,$111.95
@@ -66,7 +66,7 @@ China Mobile,$185.83 B,$8.45
 General Electric,$184.64 B,$168.89
 Danaher,$184.48 B,$249.40
 Alibaba,$183.81 B,$73.42
-Tata Consultancy Services,$183.13 B,$50.62
+Tata Consultancy Services,$181.29 B,$50.11
 Intel,$180.28 B,$42.64
 IBM,$175.16 B,$191.07
 Intuit,$175.13 B,$625.52
@@ -76,8 +76,8 @@ Verizon,$166.02 B,$39.49
 Applied Materials,$165.05 B,$198.65
 Pinduoduo,$164.39 B,$123.74
 Bank of China,$161.66 B,$0.60
-Dior,$160.18 B,$882.45
-Siemens,$159.86 B,$202.37
+Siemens,$160.30 B,$202.94
+Dior,$160.28 B,$882.99
 TotalEnergies,$159.80 B,$68.10
 Pfizer,$158.21 B,$27.94
 American Express,$158.13 B,$218.46
@@ -95,7 +95,7 @@ Amgen,$144.09 B,$268.87
 ConocoPhillips,$141.21 B,$120.04
 BHP Group,$140.87 B,$55.67
 Royal Bank Of Canada,$140.59 B,$99.34
+Airbus,$140.56 B,$178.52
 Lowe's Companies,$140.47 B,$244.73
 Intuitive Surgical,$140.46 B,$396.28
-Airbus,$140.19 B,$178.04
 HDFC Bank,$139.85 B,$55.23
