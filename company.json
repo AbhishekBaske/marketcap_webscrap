@@ -81,8 +81,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$475.13 B",
-        "Price": "$939.68"
+        "Market Cap": "$473.91 B",
+        "Price": "$937.28"
     },
     {
         "Company Name": "UnitedHealth",
@@ -176,8 +176,8 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$281.47 B",
-        "Price": "$107.38"
+        "Market Cap": "$281.50 B",
+        "Price": "$107.39"
     },
     {
         "Company Name": "Bank of America ",
@@ -186,18 +186,18 @@
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$273.02 B",
-        "Price": "$2,604"
-    },
-    {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$262.27 B",
-        "Price": "$484.95"
+        "Market Cap": "$272.22 B",
+        "Price": "$2,597"
     },
     {
         "Company Name": "Netflix",
         "Market Cap": "$262.20 B",
         "Price": "$605.88"
+    },
+    {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$261.18 B",
+        "Price": "$482.93"
     },
     {
         "Company Name": "Coca-Cola",
@@ -261,8 +261,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$208.34 B",
-        "Price": "$259.55"
+        "Market Cap": "$208.25 B",
+        "Price": "$259.44"
     },
     {
         "Company Name": "AstraZeneca",
@@ -386,8 +386,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$160.47 B",
-        "Price": "$884.05"
+        "Market Cap": "$160.37 B",
+        "Price": "$883.51"
     },
     {
         "Company Name": "TotalEnergies",
@@ -396,8 +396,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$159.65 B",
-        "Price": "$202.12"
+        "Market Cap": "$159.44 B",
+        "Price": "$201.85"
     },
     {
         "Company Name": "Pfizer",
@@ -475,14 +475,14 @@
         "Price": "$55.67"
     },
     {
-        "Company Name": "Airbus",
-        "Market Cap": "$140.73 B",
-        "Price": "$178.73"
-    },
-    {
         "Company Name": "Royal Bank Of Canada",
         "Market Cap": "$140.59 B",
         "Price": "$99.34"
+    },
+    {
+        "Company Name": "Airbus",
+        "Market Cap": "$140.54 B",
+        "Price": "$178.49"
     },
     {
         "Company Name": "Lowe's Companies",
