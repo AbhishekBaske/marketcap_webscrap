@@ -16,8 +16,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.014 T",
-        "Price": "$8.32"
+        "Market Cap": "$2.020 T",
+        "Price": "$8.35"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -81,8 +81,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$463.94 B",
-        "Price": "$924.21"
+        "Market Cap": "$464.76 B",
+        "Price": "$925.84"
     },
     {
         "Company Name": "UnitedHealth",
@@ -181,13 +181,13 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$278.18 B",
-        "Price": "$106.13"
+        "Market Cap": "$277.24 B",
+        "Price": "$105.77"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$271.20 B",
-        "Price": "$2,576"
+        "Market Cap": "$272.18 B",
+        "Price": "$2,585"
     },
     {
         "Company Name": "Netflix",
@@ -201,13 +201,13 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$258.35 B",
-        "Price": "$478.18"
+        "Market Cap": "$258.06 B",
+        "Price": "$477.63"
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.65 B",
-        "Price": "$108.80"
+        "Market Cap": "$238.71 B",
+        "Price": "$108.83"
     },
     {
         "Company Name": "ICBC",
@@ -271,8 +271,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$206.21 B",
-        "Price": "$256.80"
+        "Market Cap": "$205.53 B",
+        "Price": "$255.96"
     },
     {
         "Company Name": "AstraZeneca",
@@ -395,24 +395,19 @@
         "Price": "$68.10"
     },
     {
+        "Company Name": "Dior",
+        "Market Cap": "$157.78 B",
+        "Price": "$872.42"
+    },
+    {
         "Company Name": "Uber",
         "Market Cap": "$157.19 B",
         "Price": "$75.70"
     },
     {
-        "Company Name": "Dior",
-        "Market Cap": "$156.99 B",
-        "Price": "$868.08"
-    },
-    {
         "Company Name": "Pfizer",
         "Market Cap": "$156.96 B",
         "Price": "$27.72"
-    },
-    {
-        "Company Name": "Siemens",
-        "Market Cap": "$156.88 B",
-        "Price": "$198.61"
     },
     {
         "Company Name": "ServiceNow",
@@ -433,6 +428,11 @@
         "Company Name": "Inditex",
         "Market Cap": "$152.37 B",
         "Price": "$24.45"
+    },
+    {
+        "Company Name": "Siemens",
+        "Market Cap": "$152.32 B",
+        "Price": "$192.83"
     },
     {
         "Company Name": "Nike",
@@ -466,8 +466,8 @@
     },
     {
         "Company Name": "Airbus",
-        "Market Cap": "$142.14 B",
-        "Price": "$180.52"
+        "Market Cap": "$142.33 B",
+        "Price": "$180.76"
     },
     {
         "Company Name": "HDFC Bank",
