@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$359.22 B",
-        "Price": "$53.82"
+        "Market Cap": "$363.21 B",
+        "Price": "$54.41"
     },
     {
         "Company Name": "Oracle",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$299.14 B",
-        "Price": "$238.13"
+        "Market Cap": "$298.66 B",
+        "Price": "$237.75"
     },
     {
         "Company Name": "Salesforce",
@@ -211,7 +211,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$238.58 B",
+        "Market Cap": "$237.37 B",
         "Price": "$0.50"
     },
     {
@@ -231,8 +231,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$232.15 B",
-        "Price": "$34.31"
+        "Market Cap": "$231.43 B",
+        "Price": "$34.20"
     },
     {
         "Company Name": "Linde",
@@ -245,14 +245,14 @@
         "Price": "$580.05"
     },
     {
-        "Company Name": "PetroChina",
-        "Market Cap": "$219.59 B",
-        "Price": "$1.25"
-    },
-    {
         "Company Name": "SAP",
         "Market Cap": "$218.34 B",
         "Price": "$186.77"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$218.13 B",
+        "Price": "$1.24"
     },
     {
         "Company Name": "Shell",
@@ -301,7 +301,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$193.34 B",
+        "Market Cap": "$192.87 B",
         "Price": "$0.57"
     },
     {
@@ -315,14 +315,14 @@
         "Price": "$166.92"
     },
     {
+        "Company Name": "China Mobile",
+        "Market Cap": "$186.12 B",
+        "Price": "$8.45"
+    },
+    {
         "Company Name": "Danaher",
         "Market Cap": "$186.01 B",
         "Price": "$251.47"
-    },
-    {
-        "Company Name": "China Mobile",
-        "Market Cap": "$185.83 B",
-        "Price": "$8.43"
     },
     {
         "Company Name": "General Electric",
@@ -341,8 +341,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$178.11 B",
-        "Price": "$48.45"
+        "Market Cap": "$178.16 B",
+        "Price": "$48.46"
     },
     {
         "Company Name": "Intuit",
@@ -426,7 +426,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$152.57 B",
+        "Market Cap": "$153.03 B",
         "Price": "$0.93"
     },
     {
