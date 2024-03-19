@@ -16,8 +16,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.007 T",
-        "Price": "$8.30"
+        "Market Cap": "$2.010 T",
+        "Price": "$8.31"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -81,8 +81,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$468.52 B",
-        "Price": "$933.33"
+        "Market Cap": "$464.65 B",
+        "Price": "$925.62"
     },
     {
         "Company Name": "UnitedHealth",
@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$363.21 B",
-        "Price": "$54.41"
+        "Market Cap": "$362.79 B",
+        "Price": "$54.35"
     },
     {
         "Company Name": "Oracle",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$298.26 B",
-        "Price": "$237.43"
+        "Market Cap": "$298.05 B",
+        "Price": "$237.26"
     },
     {
         "Company Name": "Salesforce",
@@ -181,13 +181,13 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$279.48 B",
-        "Price": "$106.62"
+        "Market Cap": "$279.22 B",
+        "Price": "$106.52"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$272.25 B",
-        "Price": "$2,586"
+        "Market Cap": "$270.06 B",
+        "Price": "$2,565"
     },
     {
         "Company Name": "Netflix",
@@ -195,23 +195,23 @@
         "Price": "$618.39"
     },
     {
-        "Company Name": "L'Oréal",
-        "Market Cap": "$259.48 B",
-        "Price": "$480.26"
-    },
-    {
         "Company Name": "Coca-Cola",
         "Market Cap": "$259.30 B",
         "Price": "$60.13"
     },
     {
+        "Company Name": "L'Oréal",
+        "Market Cap": "$259.06 B",
+        "Price": "$479.48"
+    },
+    {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.62 B",
-        "Price": "$108.78"
+        "Market Cap": "$238.65 B",
+        "Price": "$108.80"
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$236.76 B",
+        "Market Cap": "$237.36 B",
         "Price": "$0.50"
     },
     {
@@ -225,14 +225,14 @@
         "Price": "$372.67"
     },
     {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$232.98 B",
+        "Price": "$34.43"
+    },
+    {
         "Company Name": "Adobe",
         "Market Cap": "$232.54 B",
         "Price": "$513.86"
-    },
-    {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$232.32 B",
-        "Price": "$34.34"
     },
     {
         "Company Name": "Linde",
@@ -251,7 +251,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$217.15 B",
+        "Market Cap": "$217.12 B",
         "Price": "$1.24"
     },
     {
@@ -265,14 +265,14 @@
         "Price": "$113.85"
     },
     {
-        "Company Name": "Roche",
-        "Market Cap": "$207.60 B",
-        "Price": "$258.53"
-    },
-    {
         "Company Name": "Wells Fargo",
         "Market Cap": "$206.66 B",
         "Price": "$57.77"
+    },
+    {
+        "Company Name": "Roche",
+        "Market Cap": "$206.48 B",
+        "Price": "$257.14"
     },
     {
         "Company Name": "AstraZeneca",
@@ -301,7 +301,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$193.81 B",
+        "Market Cap": "$193.79 B",
         "Price": "$0.57"
     },
     {
@@ -315,14 +315,14 @@
         "Price": "$166.92"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$186.12 B",
-        "Price": "$8.45"
-    },
-    {
         "Company Name": "Danaher",
         "Market Cap": "$186.01 B",
         "Price": "$251.47"
+    },
+    {
+        "Company Name": "China Mobile",
+        "Market Cap": "$185.97 B",
+        "Price": "$8.44"
     },
     {
         "Company Name": "General Electric",
@@ -340,11 +340,6 @@
         "Price": "$42.71"
     },
     {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$178.19 B",
-        "Price": "$48.47"
-    },
-    {
         "Company Name": "Intuit",
         "Market Cap": "$176.49 B",
         "Price": "$630.39"
@@ -358,6 +353,11 @@
         "Company Name": "Caterpillar",
         "Market Cap": "$175.73 B",
         "Price": "$351.90"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$174.77 B",
+        "Price": "$48.31"
     },
     {
         "Company Name": "Comcast",
@@ -380,18 +380,13 @@
         "Price": "$200.73"
     },
     {
-        "Company Name": "Dior",
-        "Market Cap": "$159.33 B",
-        "Price": "$881.01"
-    },
-    {
         "Company Name": "American Express",
         "Market Cap": "$159.10 B",
         "Price": "$220.97"
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$158.94 B",
+        "Market Cap": "$158.92 B",
         "Price": "$0.60"
     },
     {
@@ -400,9 +395,14 @@
         "Price": "$68.10"
     },
     {
+        "Company Name": "Dior",
+        "Market Cap": "$158.07 B",
+        "Price": "$874.05"
+    },
+    {
         "Company Name": "Siemens",
-        "Market Cap": "$157.76 B",
-        "Price": "$199.72"
+        "Market Cap": "$157.29 B",
+        "Price": "$199.13"
     },
     {
         "Company Name": "Uber",
@@ -426,7 +426,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$152.57 B",
+        "Market Cap": "$152.78 B",
         "Price": "$0.93"
     },
     {
@@ -465,6 +465,11 @@
         "Price": "$87.96"
     },
     {
+        "Company Name": "Airbus",
+        "Market Cap": "$141.99 B",
+        "Price": "$180.33"
+    },
+    {
         "Company Name": "HDFC Bank",
         "Market Cap": "$141.82 B",
         "Price": "$56.01"
@@ -483,11 +488,6 @@
         "Company Name": "Royal Bank Of Canada",
         "Market Cap": "$140.35 B",
         "Price": "$99.27"
-    },
-    {
-        "Company Name": "Airbus",
-        "Market Cap": "$139.79 B",
-        "Price": "$177.53"
     },
     {
         "Company Name": "Lowe's Companies",
