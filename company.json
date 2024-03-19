@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$358.72 B",
-        "Price": "$53.74"
+        "Market Cap": "$359.22 B",
+        "Price": "$53.82"
     },
     {
         "Company Name": "Oracle",
@@ -225,14 +225,14 @@
         "Price": "$372.67"
     },
     {
-        "Company Name": "Reliance Industries",
-        "Market Cap": "$232.67 B",
-        "Price": "$34.39"
-    },
-    {
         "Company Name": "Adobe",
         "Market Cap": "$232.54 B",
         "Price": "$513.86"
+    },
+    {
+        "Company Name": "Reliance Industries",
+        "Market Cap": "$232.15 B",
+        "Price": "$34.31"
     },
     {
         "Company Name": "Linde",
@@ -341,8 +341,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$179.07 B",
-        "Price": "$48.71"
+        "Market Cap": "$178.11 B",
+        "Price": "$48.45"
     },
     {
         "Company Name": "Intuit",
