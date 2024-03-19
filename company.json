@@ -121,8 +121,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$358.67 B",
-        "Price": "$53.73"
+        "Market Cap": "$359.66 B",
+        "Price": "$53.88"
     },
     {
         "Company Name": "Oracle",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$298.58 B",
-        "Price": "$237.69"
+        "Market Cap": "$299.27 B",
+        "Price": "$238.24"
     },
     {
         "Company Name": "Salesforce",
@@ -211,7 +211,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$238.01 B",
+        "Market Cap": "$238.61 B",
         "Price": "$0.50"
     },
     {
@@ -246,8 +246,8 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$219.60 B",
-        "Price": "$1.25"
+        "Market Cap": "$220.58 B",
+        "Price": "$1.26"
     },
     {
         "Company Name": "SAP",
@@ -315,6 +315,11 @@
         "Price": "$166.92"
     },
     {
+        "Company Name": "China Mobile",
+        "Market Cap": "$186.14 B",
+        "Price": "$8.45"
+    },
+    {
         "Company Name": "Danaher",
         "Market Cap": "$186.01 B",
         "Price": "$251.47"
@@ -325,19 +330,14 @@
         "Price": "$169.91"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$185.72 B",
-        "Price": "$8.43"
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$184.10 B",
+        "Price": "$50.08"
     },
     {
         "Company Name": "Alibaba",
         "Market Cap": "$184.09 B",
         "Price": "$73.52"
-    },
-    {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$181.19 B",
-        "Price": "$50.08"
     },
     {
         "Company Name": "Intel",
@@ -425,14 +425,14 @@
         "Price": "$169.21"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$153.03 B",
-        "Price": "$0.94"
-    },
-    {
         "Company Name": "Inditex",
         "Market Cap": "$152.37 B",
         "Price": "$24.45"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$152.35 B",
+        "Price": "$0.93"
     },
     {
         "Company Name": "Nike",
