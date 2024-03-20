@@ -101,8 +101,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$382.91 B",
-        "Price": "$57.42"
+        "Market Cap": "$383.41 B",
+        "Price": "$57.50"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$298.28 B",
-        "Price": "$237.45"
+        "Market Cap": "$298.20 B",
+        "Price": "$237.39"
     },
     {
         "Company Name": "AMD",
@@ -231,8 +231,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$233.23 B",
-        "Price": "$34.47"
+        "Market Cap": "$234.41 B",
+        "Price": "$34.65"
     },
     {
         "Company Name": "Linde",
@@ -321,8 +321,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$186.31 B",
-        "Price": "$8.46"
+        "Market Cap": "$186.46 B",
+        "Price": "$8.47"
     },
     {
         "Company Name": "Alibaba",
@@ -333,11 +333,6 @@
         "Company Name": "QUALCOMM",
         "Market Cap": "$183.13 B",
         "Price": "$164.10"
-    },
-    {
-        "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$182.14 B",
-        "Price": "$48.22"
     },
     {
         "Company Name": "Intel",
@@ -358,6 +353,11 @@
         "Company Name": "Caterpillar",
         "Market Cap": "$176.72 B",
         "Price": "$353.90"
+    },
+    {
+        "Company Name": "Tata Consultancy Services",
+        "Market Cap": "$174.76 B",
+        "Price": "$48.30"
     },
     {
         "Company Name": "Comcast",
@@ -381,7 +381,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$162.57 B",
+        "Market Cap": "$162.20 B",
         "Price": "$0.61"
     },
     {
@@ -421,8 +421,8 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$155.06 B",
-        "Price": "$0.94"
+        "Market Cap": "$154.60 B",
+        "Price": "$0.93"
     },
     {
         "Company Name": "Texas Instruments",
