@@ -101,8 +101,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$396.47 B",
-        "Price": "$59.60"
+        "Market Cap": "$397.48 B",
+        "Price": "$59.75"
     },
     {
         "Company Name": "ASML",
@@ -156,8 +156,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$298.02 B",
-        "Price": "$237.24"
+        "Market Cap": "$298.76 B",
+        "Price": "$237.83"
     },
     {
         "Company Name": "Salesforce",
@@ -206,7 +206,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$241.22 B",
+        "Market Cap": "$243.05 B",
         "Price": "$0.51"
     },
     {
@@ -221,8 +221,8 @@
     },
     {
         "Company Name": "Reliance Industries",
-        "Market Cap": "$237.18 B",
-        "Price": "$35.05"
+        "Market Cap": "$236.62 B",
+        "Price": "$34.97"
     },
     {
         "Company Name": "Pepsico",
@@ -235,14 +235,14 @@
         "Price": "$519.14"
     },
     {
+        "Company Name": "PetroChina",
+        "Market Cap": "$224.89 B",
+        "Price": "$1.28"
+    },
+    {
         "Company Name": "Linde",
         "Market Cap": "$224.79 B",
         "Price": "$466.79"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$223.18 B",
-        "Price": "$1.27"
     },
     {
         "Company Name": "SAP",
@@ -316,8 +316,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$187.58 B",
-        "Price": "$8.52"
+        "Market Cap": "$187.86 B",
+        "Price": "$8.53"
     },
     {
         "Company Name": "QUALCOMM",
@@ -361,8 +361,8 @@
     },
     {
         "Company Name": "Tata Consultancy Services",
-        "Market Cap": "$173.40 B",
-        "Price": "$47.85"
+        "Market Cap": "$173.64 B",
+        "Price": "$47.92"
     },
     {
         "Company Name": "Comcast",
@@ -420,14 +420,14 @@
         "Price": "$867.88"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$154.75 B",
+        "Price": "$0.94"
+    },
+    {
         "Company Name": "Texas Instruments",
         "Market Cap": "$154.69 B",
         "Price": "$169.98"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$154.30 B",
-        "Price": "$0.94"
     },
     {
         "Company Name": "Nike",
