@@ -105,14 +105,14 @@
         "Price": "$395.20"
     },
     {
-        "Company Name": "Samsung",
-        "Market Cap": "$391.02 B",
-        "Price": "$58.78"
-    },
-    {
         "Company Name": "ASML",
         "Market Cap": "$390.95 B",
         "Price": "$990.79"
+    },
+    {
+        "Company Name": "Samsung",
+        "Market Cap": "$389.02 B",
+        "Price": "$58.48"
     },
     {
         "Company Name": "Procter & Gamble",
@@ -160,14 +160,14 @@
         "Price": "$308.39"
     },
     {
-        "Company Name": "Kweichow Moutai",
-        "Market Cap": "$296.28 B",
-        "Price": "$235.86"
-    },
-    {
         "Company Name": "Bank of America ",
         "Market Cap": "$295.97 B",
         "Price": "$37.51"
+    },
+    {
+        "Company Name": "Kweichow Moutai",
+        "Market Cap": "$294.99 B",
+        "Price": "$234.83"
     },
     {
         "Company Name": "AMD",
@@ -205,11 +205,6 @@
         "Price": "$472.57"
     },
     {
-        "Company Name": "ICBC",
-        "Market Cap": "$239.08 B",
-        "Price": "$0.51"
-    },
-    {
         "Company Name": "International Holding Company",
         "Market Cap": "$238.64 B",
         "Price": "$108.80"
@@ -223,6 +218,11 @@
         "Company Name": "Pepsico",
         "Market Cap": "$237.02 B",
         "Price": "$172.45"
+    },
+    {
+        "Company Name": "ICBC",
+        "Market Cap": "$236.67 B",
+        "Price": "$0.50"
     },
     {
         "Company Name": "Reliance Industries",
@@ -251,8 +251,8 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$221.78 B",
-        "Price": "$1.26"
+        "Market Cap": "$219.34 B",
+        "Price": "$1.25"
     },
     {
         "Company Name": "Shell",
@@ -290,14 +290,14 @@
         "Price": "$49.88"
     },
     {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$196.60 B",
-        "Price": "$0.58"
-    },
-    {
         "Company Name": "Novartis",
         "Market Cap": "$196.39 B",
         "Price": "$96.08"
+    },
+    {
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$195.65 B",
+        "Price": "$0.57"
     },
     {
         "Company Name": "Abbott Laboratories",
@@ -321,8 +321,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$188.96 B",
-        "Price": "$8.59"
+        "Market Cap": "$188.40 B",
+        "Price": "$8.57"
     },
     {
         "Company Name": "Danaher",
@@ -386,7 +386,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$162.74 B",
+        "Market Cap": "$163.11 B",
         "Price": "$0.61"
     },
     {
