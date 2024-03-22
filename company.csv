@@ -1,7 +1,7 @@
 Company Name,Market Cap,Price
 Microsoft,$3.190 T,$429.37
 Apple,$2.646 T,$171.37
-Orpea,$2.418 T,$15.19
+Orpea,$2.430 T,$15.27
 NVIDIA,$2.285 T,$914.35
 Saudi Aramco,$2.014 T,$8.32
 Amazon,$1.850 T,$178.15
@@ -18,8 +18,8 @@ Tesla,$550.39 B,$172.82
 Walmart,$495.16 B,$61.45
 Mastercard,$455.84 B,$488.64
 UnitedHealth,$453.30 B,$491.69
+LVMH,$450.49 B,$901.80
 Exxon Mobil,$450.31 B,$113.49
-LVMH,$450.27 B,$901.36
 Home Depot,$391.64 B,$395.20
 Samsung,$391.50 B,$58.85
 ASML,$390.95 B,$990.79
@@ -36,12 +36,12 @@ Bank of America ,$295.97 B,$37.51
 Kweichow Moutai,$295.79 B,$235.47
 AMD,$288.70 B,$178.68
 Chevron,$287.61 B,$154.86
-Nestlé,$277.26 B,$105.78
+Nestlé,$276.80 B,$105.60
 Netflix,$269.48 B,$622.71
-Hermès,$269.25 B,"$2,571"
+Hermès,$268.69 B,"$2,566"
 Coca-Cola,$260.69 B,$60.47
-L'Oréal,$250.82 B,$467.14
-International Holding Company,$238.64 B,$108.80
+L'Oréal,$250.44 B,$466.44
+International Holding Company,$238.94 B,$108.93
 ICBC,$238.56 B,$0.51
 Pepsico,$237.02 B,$172.45
 Reliance Industries,$236.38 B,$34.94
@@ -56,7 +56,7 @@ Walt Disney,$214.06 B,$116.70
 AstraZeneca,$205.21 B,$66.19
 Wells Fargo,$204.81 B,$57.85
 McDonald,$204.72 B,$283.53
-Roche,$202.66 B,$252.35
+Roche,$202.88 B,$252.63
 Cisco,$201.97 B,$49.88
 Novartis,$200.12 B,$96.08
 Agricultural Bank of China,$197.77 B,$0.58
@@ -87,14 +87,14 @@ Texas Instruments,$157.06 B,$172.59
 Pfizer,$156.62 B,$27.66
 Nike,$152.75 B,$100.82
 Morgan Stanley,$152.73 B,$93.40
-Dior,$151.67 B,$840.73
+Dior,$151.97 B,$842.36
 Union Pacific Corporation,$151.29 B,$248.11
 HSBC,$150.04 B,$39.50
 Lowe's Companies,$149.81 B,$261.00
+Siemens,$148.83 B,$188.41
 Amgen,$148.42 B,$276.95
-Siemens,$147.99 B,$187.35
 BHP Group,$146.49 B,$57.89
-Airbus,$145.68 B,$184.58
+Airbus,$145.44 B,$184.28
 ConocoPhillips,$145.29 B,$123.51
 Royal Bank Of Canada,$143.26 B,$100.88
 Philip Morris,$143.13 B,$92.20
