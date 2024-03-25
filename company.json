@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$390.92 B",
-        "Price": "$58.65"
+        "Market Cap": "$390.42 B",
+        "Price": "$58.57"
     },
     {
         "Company Name": "Home Depot",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$292.82 B",
-        "Price": "$233.10"
+        "Market Cap": "$292.39 B",
+        "Price": "$232.76"
     },
     {
         "Company Name": "Bank of America ",
@@ -205,14 +205,14 @@
         "Price": "$467.78"
     },
     {
+        "Company Name": "ICBC",
+        "Market Cap": "$239.91 B",
+        "Price": "$0.51"
+    },
+    {
         "Company Name": "International Holding Company",
         "Market Cap": "$238.89 B",
         "Price": "$108.91"
-    },
-    {
-        "Company Name": "ICBC",
-        "Market Cap": "$238.69 B",
-        "Price": "$0.50"
     },
     {
         "Company Name": "Pepsico",
@@ -241,7 +241,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$224.01 B",
+        "Market Cap": "$224.49 B",
         "Price": "$1.28"
     },
     {
@@ -291,7 +291,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$197.99 B",
+        "Market Cap": "$198.46 B",
         "Price": "$0.58"
     },
     {
@@ -316,8 +316,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$190.48 B",
-        "Price": "$8.65"
+        "Market Cap": "$190.33 B",
+        "Price": "$8.64"
     },
     {
         "Company Name": "QUALCOMM",
@@ -385,14 +385,14 @@
         "Price": "$122.99"
     },
     {
+        "Company Name": "Bank of China",
+        "Market Cap": "$163.08 B",
+        "Price": "$0.61"
+    },
+    {
         "Company Name": "American Express",
         "Market Cap": "$162.70 B",
         "Price": "$225.96"
-    },
-    {
-        "Company Name": "Bank of China",
-        "Market Cap": "$162.34 B",
-        "Price": "$0.61"
     },
     {
         "Company Name": "TotalEnergies",
@@ -410,14 +410,14 @@
         "Price": "$172.48"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$156.75 B",
+        "Price": "$0.95"
+    },
+    {
         "Company Name": "Inditex",
         "Market Cap": "$156.29 B",
         "Price": "$25.07"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$155.84 B",
-        "Price": "$0.95"
     },
     {
         "Company Name": "Pfizer",
