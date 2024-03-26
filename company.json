@@ -85,14 +85,14 @@
         "Price": "$114.65"
     },
     {
-        "Company Name": "LVMH",
-        "Market Cap": "$448.35 B",
-        "Price": "$894.17"
-    },
-    {
         "Company Name": "UnitedHealth",
         "Market Cap": "$447.94 B",
         "Price": "$485.88"
+    },
+    {
+        "Company Name": "LVMH",
+        "Market Cap": "$447.43 B",
+        "Price": "$892.32"
     },
     {
         "Company Name": "Mastercard",
@@ -181,13 +181,13 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$275.81 B",
-        "Price": "$105.22"
+        "Market Cap": "$277.36 B",
+        "Price": "$105.81"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$272.61 B",
-        "Price": "$2,603"
+        "Market Cap": "$272.33 B",
+        "Price": "$2,600"
     },
     {
         "Company Name": "Netflix",
@@ -201,8 +201,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$253.06 B",
-        "Price": "$473.27"
+        "Market Cap": "$253.21 B",
+        "Price": "$473.54"
     },
     {
         "Company Name": "ICBC",
@@ -211,8 +211,8 @@
     },
     {
         "Company Name": "International Holding Company",
-        "Market Cap": "$238.70 B",
-        "Price": "$108.82"
+        "Market Cap": "$238.64 B",
+        "Price": "$108.79"
     },
     {
         "Company Name": "Pepsico",
@@ -271,8 +271,8 @@
     },
     {
         "Company Name": "Roche",
-        "Market Cap": "$202.56 B",
-        "Price": "$252.15"
+        "Market Cap": "$202.34 B",
+        "Price": "$251.88"
     },
     {
         "Company Name": "McDonald",
@@ -426,8 +426,8 @@
     },
     {
         "Company Name": "Dior",
-        "Market Cap": "$151.12 B",
-        "Price": "$832.25"
+        "Market Cap": "$151.32 B",
+        "Price": "$833.33"
     },
     {
         "Company Name": "Amgen",
@@ -441,8 +441,8 @@
     },
     {
         "Company Name": "Siemens",
-        "Market Cap": "$149.58 B",
-        "Price": "$189.37"
+        "Market Cap": "$149.82 B",
+        "Price": "$189.68"
     },
     {
         "Company Name": "Morgan Stanley",
@@ -461,8 +461,8 @@
     },
     {
         "Company Name": "Airbus",
-        "Market Cap": "$145.90 B",
-        "Price": "$184.86"
+        "Market Cap": "$145.81 B",
+        "Price": "$184.75"
     },
     {
         "Company Name": "Lowe's Companies",
