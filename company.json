@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$397.16 B",
-        "Price": "$59.62"
+        "Market Cap": "$397.66 B",
+        "Price": "$59.70"
     },
     {
         "Company Name": "Home Depot",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$297.42 B",
-        "Price": "$236.76"
+        "Market Cap": "$296.60 B",
+        "Price": "$236.11"
     },
     {
         "Company Name": "Bank of America ",
@@ -206,7 +206,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$244.54 B",
+        "Market Cap": "$245.16 B",
         "Price": "$0.51"
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$224.48 B",
+        "Market Cap": "$223.75 B",
         "Price": "$1.28"
     },
     {
@@ -291,8 +291,8 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$198.65 B",
-        "Price": "$0.58"
+        "Market Cap": "$199.59 B",
+        "Price": "$0.59"
     },
     {
         "Company Name": "Novartis",
@@ -315,14 +315,14 @@
         "Price": "$161.12"
     },
     {
-        "Company Name": "China Mobile",
-        "Market Cap": "$190.07 B",
-        "Price": "$8.63"
-    },
-    {
         "Company Name": "QUALCOMM",
         "Market Cap": "$189.82 B",
         "Price": "$167.52"
+    },
+    {
+        "Company Name": "China Mobile",
+        "Market Cap": "$189.78 B",
+        "Price": "$8.62"
     },
     {
         "Company Name": "Danaher",
@@ -410,6 +410,11 @@
         "Price": "$24.72"
     },
     {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$155.57 B",
+        "Price": "$0.95"
+    },
+    {
         "Company Name": "Texas Instruments",
         "Market Cap": "$155.48 B",
         "Price": "$170.85"
@@ -418,11 +423,6 @@
         "Company Name": "Pfizer",
         "Market Cap": "$155.32 B",
         "Price": "$27.43"
-    },
-    {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$155.12 B",
-        "Price": "$0.95"
     },
     {
         "Company Name": "Dior",
