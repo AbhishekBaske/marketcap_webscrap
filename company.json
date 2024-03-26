@@ -106,8 +106,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$396.16 B",
-        "Price": "$59.47"
+        "Market Cap": "$397.16 B",
+        "Price": "$59.62"
     },
     {
         "Company Name": "Home Depot",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$294.28 B",
-        "Price": "$234.27"
+        "Market Cap": "$297.42 B",
+        "Price": "$236.76"
     },
     {
         "Company Name": "Bank of America ",
@@ -206,7 +206,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$243.31 B",
+        "Market Cap": "$244.54 B",
         "Price": "$0.51"
     },
     {
@@ -235,14 +235,14 @@
         "Price": "$507.23"
     },
     {
-        "Company Name": "PetroChina",
-        "Market Cap": "$225.70 B",
-        "Price": "$1.29"
-    },
-    {
         "Company Name": "Linde",
         "Market Cap": "$225.59 B",
         "Price": "$466.90"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$224.48 B",
+        "Price": "$1.28"
     },
     {
         "Company Name": "Walt Disney",
@@ -291,7 +291,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$199.12 B",
+        "Market Cap": "$198.65 B",
         "Price": "$0.58"
     },
     {
@@ -315,14 +315,14 @@
         "Price": "$161.12"
     },
     {
+        "Company Name": "China Mobile",
+        "Market Cap": "$190.07 B",
+        "Price": "$8.63"
+    },
+    {
         "Company Name": "QUALCOMM",
         "Market Cap": "$189.82 B",
         "Price": "$167.52"
-    },
-    {
-        "Company Name": "China Mobile",
-        "Market Cap": "$187.95 B",
-        "Price": "$8.53"
     },
     {
         "Company Name": "Danaher",
