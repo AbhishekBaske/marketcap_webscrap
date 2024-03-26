@@ -2,7 +2,7 @@ Company Name,Market Cap,Price
 Microsoft,$3.142 T,$422.86
 Apple,$2.638 T,$170.85
 NVIDIA,$2.375 T,$950.02
-Saudi Aramco,$1.997 T,$8.26
+Saudi Aramco,$1.994 T,$8.24
 Alphabet (Google),$1.871 T,$151.15
 Amazon,$1.866 T,$179.71
 Meta Platforms (Facebook),$1.282 T,$503.02
@@ -16,8 +16,8 @@ JPMorgan Chase,$561.15 B,$194.82
 Tesla,$549.79 B,$172.63
 Walmart,$488.07 B,$60.57
 Exxon Mobil,$454.91 B,$114.65
+LVMH,$448.35 B,$894.17
 UnitedHealth,$447.94 B,$485.88
-LVMH,$444.87 B,$887.23
 Mastercard,$444.09 B,$476.04
 Samsung,$396.59 B,$59.54
 ASML,$388.28 B,$978.93
@@ -35,15 +35,15 @@ Salesforce,$296.87 B,$306.06
 Bank of America ,$290.84 B,$36.86
 Chevron,$290.60 B,$156.47
 AMD,$288.62 B,$178.63
-Nestlé,$275.44 B,$105.08
+Nestlé,$275.81 B,$105.22
+Hermès,$272.61 B,"$2,603"
 Netflix,$271.53 B,$627.46
-Hermès,$271.25 B,"$2,590"
 Coca-Cola,$260.39 B,$60.40
-L'Oréal,$252.43 B,$472.08
+L'Oréal,$253.06 B,$473.27
 ICBC,$246.36 B,$0.51
 International Holding Company,$238.70 B,$108.82
 Pepsico,$237.24 B,$172.60
-Reliance Industries,$234.05 B,$34.59
+Reliance Industries,$234.15 B,$34.61
 Adobe,$229.54 B,$507.23
 SAP,$228.52 B,$195.28
 Linde,$224.84 B,$466.90
@@ -53,7 +53,7 @@ Thermo Fisher Scientific,$218.70 B,$573.56
 Shell,$217.00 B,$67.42
 Accenture,$209.88 B,$333.82
 AstraZeneca,$205.71 B,$65.86
-Roche,$202.16 B,$251.65
+Roche,$202.56 B,$252.15
 McDonald,$201.17 B,$278.62
 Cisco,$201.16 B,$49.68
 Wells Fargo,$200.84 B,$56.73
@@ -73,7 +73,7 @@ Applied Materials,$173.20 B,$208.46
 IBM,$173.07 B,$188.79
 Verizon,$171.82 B,$40.87
 Comcast,$169.36 B,$42.64
-Tata Consultancy Services,$168.90 B,$46.68
+Tata Consultancy Services,$168.39 B,$46.54
 Uber,$164.89 B,$79.41
 Bank of China,$164.25 B,$0.62
 American Express,$162.75 B,$226.03
@@ -84,15 +84,15 @@ China Construction Bank,$156.96 B,$0.96
 Texas Instruments,$155.48 B,$170.85
 Pfizer,$155.32 B,$27.43
 Inditex,$154.71 B,$24.72
-Dior,$150.63 B,$829.54
+Dior,$151.12 B,$832.25
 Amgen,$150.49 B,$280.82
 HSBC,$150.21 B,$39.52
+Siemens,$149.58 B,$189.37
 Morgan Stanley,$149.03 B,$91.14
-Siemens,$148.78 B,$188.35
 Union Pacific Corporation,$148.69 B,$243.85
 ConocoPhillips,$148.49 B,$126.23
+Airbus,$145.90 B,$184.86
 Lowe's Companies,$145.79 B,$254.00
-Airbus,$145.54 B,$184.41
 BHP Group,$144.13 B,$56.96
 Arm Holdings,$142.19 B,$138.31
 Nike,$142.04 B,$93.75
