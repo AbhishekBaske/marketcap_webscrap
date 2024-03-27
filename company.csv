@@ -1,15 +1,15 @@
 Company Name,Market Cap,Price
 Microsoft,$3.139 T,$421.65
 Apple,$2.638 T,$169.71
-NVIDIA,$2.375 T,$925.61
+NVIDIA,$2.314 T,$925.61
 Saudi Aramco,$1.991 T,$8.23
 Alphabet (Google),$1.870 T,$151.70
-Amazon,$1.865 T,$178.30
+Amazon,$1.852 T,$178.30
 Meta Platforms (Facebook),$1.281 T,$495.89
 Berkshire Hathaway ,$886.60 B,$411.57
 Eli Lilly,$736.74 B,$774.90
 TSMC,$720.16 B,$138.84
-Broadcom,$626.35 B,"$1,331"
+Broadcom,$617.04 B,"$1,331"
 Novo Nordisk,$578.35 B,$129.41
 Visa,$577.62 B,$280.60
 Tesla,$565.84 B,$177.67
@@ -17,52 +17,52 @@ JPMorgan Chase,$563.77 B,$195.73
 Walmart,$488.07 B,$60.51
 Exxon Mobil,$454.91 B,$113.79
 UnitedHealth,$453.87 B,$492.31
-LVMH,$446.49 B,$890.45
+LVMH,$446.30 B,$890.07
 Mastercard,$444.09 B,$476.80
-Samsung,$395.04 B,$59.35
+Samsung,$393.16 B,$59.07
 ASML,$388.28 B,$971.30
 Home Depot,$380.06 B,$379.93
 Procter & Gamble,$377.77 B,$160.55
 Johnson & Johnson,$375.37 B,$155.77
 Tencent,$359.88 B,$38.05
 Oracle,$347.60 B,$126.47
-Toyota,$342.86 B,$253.72
+Toyota,$342.77 B,$253.72
 Costco,$324.19 B,$730.98
 Merck,$317.89 B,$125.52
 AbbVie,$317.28 B,$179.19
 Salesforce,$296.87 B,$305.83
-Kweichow Moutai,$296.60 B,$236.11
+Kweichow Moutai,$295.71 B,$235.40
 Bank of America ,$292.66 B,$37.09
 Chevron,$290.60 B,$155.27
 AMD,$288.62 B,$177.87
-Nestlé,$276.96 B,$105.66
+Nestlé,$276.90 B,$105.64
 Netflix,$272.30 B,$629.24
-Hermès,$270.88 B,"$2,586"
+Hermès,$270.76 B,"$2,585"
 Coca-Cola,$260.99 B,$60.54
-L'Oréal,$251.42 B,$470.20
-ICBC,$244.25 B,$0.51
+L'Oréal,$251.32 B,$470.00
+ICBC,$243.66 B,$0.51
+Reliance Industries,$239.46 B,$35.39
 International Holding Company,$238.66 B,$108.81
 Pepsico,$237.41 B,$172.73
-Reliance Industries,$234.12 B,$34.60
 Adobe,$229.71 B,$507.60
 SAP,$229.54 B,$196.66
 Linde,$225.16 B,$467.55
-PetroChina,$222.69 B,$1.27
+PetroChina,$222.38 B,$1.27
 Walt Disney,$219.98 B,$119.93
-Thermo Fisher Scientific,$218.70 B,$568.82
-Shell,$214.87 B,$66.76
+Thermo Fisher Scientific,$216.89 B,$568.82
+Shell,$214.89 B,$66.76
 Accenture,$211.49 B,$336.39
-AstraZeneca,$205.71 B,$66.33
-Agricultural Bank of China,$202.47 B,$0.59
-Roche,$201.97 B,$251.42
+AstraZeneca,$205.65 B,$66.33
+Agricultural Bank of China,$202.19 B,$0.59
+Roche,$201.93 B,$251.37
 McDonald,$201.17 B,$278.62
-Cisco,$201.10 B,$49.55
 Wells Fargo,$200.84 B,$56.68
-Novartis,$196.74 B,$95.27
+Cisco,$200.63 B,$49.55
+Novartis,$195.74 B,$95.27
 Abbott Laboratories,$193.47 B,$111.50
 T-Mobile US,$191.20 B,$161.10
 General Electric,$189.73 B,$173.55
-China Mobile,$188.37 B,$8.56
+China Mobile,$188.81 B,$8.58
 QUALCOMM,$186.99 B,$167.07
 Danaher,$183.78 B,$248.46
 Alibaba,$179.68 B,$71.48
@@ -70,32 +70,32 @@ Intuit,$179.20 B,$640.05
 Caterpillar,$177.97 B,$356.39
 Intel,$177.53 B,$41.99
 Applied Materials,$173.20 B,$206.67
-IBM,$173.07 B,$188.50
+IBM,$172.80 B,$188.50
 Verizon,$171.82 B,$40.85
-Tata Consultancy Services,$169.82 B,$46.54
-Comcast,$169.36 B,$42.48
-Bank of China,$165.59 B,$0.62
+Tata Consultancy Services,$170.11 B,$46.62
+Comcast,$168.72 B,$42.48
+Bank of China,$165.36 B,$0.62
 Uber,$164.89 B,$77.91
 American Express,$162.75 B,$224.46
 ServiceNow,$159.60 B,$778.57
 Pinduoduo,$159.56 B,$120.10
-China Construction Bank,$159.23 B,$0.96
+China Construction Bank,$158.78 B,$0.96
 TotalEnergies,$158.62 B,$67.65
 Pfizer,$156.22 B,$27.59
-Texas Instruments,$155.48 B,$167.91
 Inditex,$155.09 B,$24.78
-Dior,$151.01 B,$831.62
+Texas Instruments,$152.80 B,$167.91
 Amgen,$151.00 B,$281.77
+Dior,$150.94 B,$831.26
 HSBC,$150.76 B,$39.70
-Siemens,$150.04 B,$189.94
+Siemens,$149.97 B,$189.86
 Morgan Stanley,$149.26 B,$91.28
-Union Pacific Corporation,$148.69 B,$240.69
-ConocoPhillips,$148.49 B,$125.99
-Airbus,$145.92 B,$184.90
-Lowe's Companies,$145.79 B,$251.42
+ConocoPhillips,$148.21 B,$125.99
+Union Pacific Corporation,$146.76 B,$240.69
+Airbus,$145.86 B,$184.82
+Lowe's Companies,$143.85 B,$251.42
 BHP Group,$143.09 B,$56.55
 Arm Holdings,$142.29 B,$127.96
 Nike,$142.04 B,$92.58
 Philip Morris,$141.50 B,$90.38
 Intuitive Surgical,$140.93 B,$397.63
-Royal Bank Of Canada,$140.28 B,$99.15
+Royal Bank Of Canada,$140.18 B,$99.15
