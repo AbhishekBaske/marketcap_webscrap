@@ -101,8 +101,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$396.03 B",
-        "Price": "$59.50"
+        "Market Cap": "$395.04 B",
+        "Price": "$59.35"
     },
     {
         "Company Name": "ASML",
@@ -155,14 +155,14 @@
         "Price": "$179.19"
     },
     {
-        "Company Name": "Kweichow Moutai",
-        "Market Cap": "$297.29 B",
-        "Price": "$236.66"
-    },
-    {
         "Company Name": "Salesforce",
         "Market Cap": "$296.87 B",
         "Price": "$305.83"
+    },
+    {
+        "Company Name": "Kweichow Moutai",
+        "Market Cap": "$296.60 B",
+        "Price": "$236.11"
     },
     {
         "Company Name": "Bank of America ",
@@ -206,7 +206,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$243.03 B",
+        "Market Cap": "$244.25 B",
         "Price": "$0.51"
     },
     {
@@ -316,8 +316,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$188.93 B",
-        "Price": "$8.59"
+        "Market Cap": "$188.37 B",
+        "Price": "$8.56"
     },
     {
         "Company Name": "QUALCOMM",
@@ -376,7 +376,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$165.22 B",
+        "Market Cap": "$165.59 B",
         "Price": "$0.62"
     },
     {
@@ -401,7 +401,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$159.00 B",
+        "Market Cap": "$159.23 B",
         "Price": "$0.96"
     },
     {
