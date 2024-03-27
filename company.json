@@ -101,7 +101,7 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$393.48 B",
+        "Market Cap": "$393.66 B",
         "Price": "$59.12"
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$222.88 B",
+        "Market Cap": "$222.90 B",
         "Price": "$1.27"
     },
     {
@@ -376,7 +376,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$166.12 B",
+        "Market Cap": "$165.65 B",
         "Price": "$0.62"
     },
     {
@@ -395,11 +395,6 @@
         "Price": "$68.42"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$158.79 B",
-        "Price": "$0.96"
-    },
-    {
         "Company Name": "Inditex",
         "Market Cap": "$157.64 B",
         "Price": "$25.32"
@@ -413,6 +408,11 @@
         "Company Name": "Pfizer",
         "Market Cap": "$157.30 B",
         "Price": "$27.78"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$156.59 B",
+        "Price": "$0.96"
     },
     {
         "Company Name": "ServiceNow",
