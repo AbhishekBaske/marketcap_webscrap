@@ -16,8 +16,8 @@
     },
     {
         "Company Name": "Saudi Aramco",
-        "Market Cap": "$2.000 T",
-        "Price": "$8.27"
+        "Market Cap": "$1.988 T",
+        "Price": "$8.22"
     },
     {
         "Company Name": "Alphabet (Google)",
@@ -91,8 +91,8 @@
     },
     {
         "Company Name": "LVMH",
-        "Market Cap": "$445.45 B",
-        "Price": "$887.71"
+        "Market Cap": "$448.14 B",
+        "Price": "$893.07"
     },
     {
         "Company Name": "Mastercard",
@@ -101,8 +101,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$393.83 B",
-        "Price": "$59.17"
+        "Market Cap": "$393.60 B",
+        "Price": "$59.14"
     },
     {
         "Company Name": "ASML",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$295.61 B",
-        "Price": "$235.33"
+        "Market Cap": "$295.70 B",
+        "Price": "$235.40"
     },
     {
         "Company Name": "Bank of America ",
@@ -181,13 +181,13 @@
     },
     {
         "Company Name": "Nestlé",
-        "Market Cap": "$277.46 B",
-        "Price": "$105.85"
+        "Market Cap": "$277.64 B",
+        "Price": "$105.92"
     },
     {
         "Company Name": "Hermès",
-        "Market Cap": "$273.48 B",
-        "Price": "$2,594"
+        "Market Cap": "$275.05 B",
+        "Price": "$2,609"
     },
     {
         "Company Name": "Netflix",
@@ -201,8 +201,8 @@
     },
     {
         "Company Name": "L'Oréal",
-        "Market Cap": "$253.12 B",
-        "Price": "$471.74"
+        "Market Cap": "$253.30 B",
+        "Price": "$472.08"
     },
     {
         "Company Name": "Reliance Industries",
@@ -211,7 +211,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$241.80 B",
+        "Market Cap": "$241.82 B",
         "Price": "$0.51"
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "Company Name": "PetroChina",
-        "Market Cap": "$222.83 B",
+        "Market Cap": "$222.90 B",
         "Price": "$1.27"
     },
     {
@@ -271,18 +271,18 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$202.16 B",
+        "Market Cap": "$202.22 B",
         "Price": "$0.59"
-    },
-    {
-        "Company Name": "Roche",
-        "Market Cap": "$201.35 B",
-        "Price": "$250.71"
     },
     {
         "Company Name": "McDonald",
         "Market Cap": "$201.17 B",
         "Price": "$278.62"
+    },
+    {
+        "Company Name": "Roche",
+        "Market Cap": "$201.02 B",
+        "Price": "$250.29"
     },
     {
         "Company Name": "Wells Fargo",
@@ -316,7 +316,7 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$188.64 B",
+        "Market Cap": "$188.66 B",
         "Price": "$8.58"
     },
     {
@@ -376,7 +376,7 @@
     },
     {
         "Company Name": "Bank of China",
-        "Market Cap": "$166.08 B",
+        "Market Cap": "$166.13 B",
         "Price": "$0.62"
     },
     {
@@ -406,7 +406,7 @@
     },
     {
         "Company Name": "China Construction Bank",
-        "Market Cap": "$158.76 B",
+        "Market Cap": "$158.81 B",
         "Price": "$0.96"
     },
     {
@@ -425,6 +425,11 @@
         "Price": "$167.91"
     },
     {
+        "Company Name": "Siemens",
+        "Market Cap": "$151.09 B",
+        "Price": "$191.28"
+    },
+    {
         "Company Name": "Amgen",
         "Market Cap": "$151.00 B",
         "Price": "$281.77"
@@ -435,14 +440,9 @@
         "Price": "$39.70"
     },
     {
-        "Company Name": "Siemens",
-        "Market Cap": "$150.45 B",
-        "Price": "$190.47"
-    },
-    {
         "Company Name": "Dior",
-        "Market Cap": "$149.54 B",
-        "Price": "$828.91"
+        "Market Cap": "$149.95 B",
+        "Price": "$831.17"
     },
     {
         "Company Name": "Morgan Stanley",
@@ -461,8 +461,8 @@
     },
     {
         "Company Name": "Airbus",
-        "Market Cap": "$146.60 B",
-        "Price": "$185.75"
+        "Market Cap": "$146.74 B",
+        "Price": "$185.93"
     },
     {
         "Company Name": "Lowe's Companies",
