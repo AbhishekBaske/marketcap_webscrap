@@ -101,8 +101,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$394.21 B",
-        "Price": "$59.20"
+        "Market Cap": "$395.20 B",
+        "Price": "$59.35"
     },
     {
         "Company Name": "ASML",
@@ -136,7 +136,7 @@
     },
     {
         "Company Name": "Toyota",
-        "Market Cap": "$340.65 B",
+        "Market Cap": "$342.68 B",
         "Price": "$252.15"
     },
     {
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$295.69 B",
-        "Price": "$235.39"
+        "Market Cap": "$296.56 B",
+        "Price": "$236.08"
     },
     {
         "Company Name": "Salesforce",
@@ -211,7 +211,7 @@
     },
     {
         "Company Name": "ICBC",
-        "Market Cap": "$239.28 B",
+        "Market Cap": "$240.51 B",
         "Price": "$0.50"
     },
     {
@@ -240,14 +240,14 @@
         "Price": "$466.23"
     },
     {
+        "Company Name": "PetroChina",
+        "Market Cap": "$223.14 B",
+        "Price": "$1.27"
+    },
+    {
         "Company Name": "Walt Disney",
         "Market Cap": "$221.91 B",
         "Price": "$120.98"
-    },
-    {
-        "Company Name": "PetroChina",
-        "Market Cap": "$221.44 B",
-        "Price": "$1.26"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -256,7 +256,7 @@
     },
     {
         "Company Name": "Shell",
-        "Market Cap": "$214.89 B",
+        "Market Cap": "$215.20 B",
         "Price": "$66.76"
     },
     {
@@ -306,7 +306,7 @@
     },
     {
         "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$196.87 B",
+        "Market Cap": "$196.40 B",
         "Price": "$0.58"
     },
     {
@@ -316,8 +316,8 @@
     },
     {
         "Company Name": "China Mobile",
-        "Market Cap": "$188.87 B",
-        "Price": "$8.58"
+        "Market Cap": "$189.29 B",
+        "Price": "$8.60"
     },
     {
         "Company Name": "QUALCOMM",
@@ -380,14 +380,14 @@
         "Price": "$227.75"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$162.33 B",
-        "Price": "$0.61"
-    },
-    {
         "Company Name": "Uber",
         "Market Cap": "$162.19 B",
         "Price": "$78.11"
+    },
+    {
+        "Company Name": "Bank of China",
+        "Market Cap": "$161.60 B",
+        "Price": "$0.61"
     },
     {
         "Company Name": "TotalEnergies",
@@ -420,14 +420,14 @@
         "Price": "$116.66"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$153.43 B",
-        "Price": "$0.94"
-    },
-    {
         "Company Name": "Amgen",
         "Market Cap": "$153.43 B",
         "Price": "$286.30"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$153.21 B",
+        "Price": "$0.94"
     },
     {
         "Company Name": "Morgan Stanley",
