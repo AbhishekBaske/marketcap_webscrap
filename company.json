@@ -101,8 +101,8 @@
     },
     {
         "Company Name": "Samsung",
-        "Market Cap": "$394.71 B",
-        "Price": "$59.28"
+        "Market Cap": "$394.21 B",
+        "Price": "$59.20"
     },
     {
         "Company Name": "ASML",
@@ -161,8 +161,8 @@
     },
     {
         "Company Name": "Kweichow Moutai",
-        "Market Cap": "$295.68 B",
-        "Price": "$235.38"
+        "Market Cap": "$295.69 B",
+        "Price": "$235.39"
     },
     {
         "Company Name": "Salesforce",
@@ -205,14 +205,14 @@
         "Price": "$474.75"
     },
     {
-        "Company Name": "ICBC",
-        "Market Cap": "$244.20 B",
-        "Price": "$0.51"
-    },
-    {
         "Company Name": "Reliance Industries",
         "Market Cap": "$242.38 B",
         "Price": "$35.82"
+    },
+    {
+        "Company Name": "ICBC",
+        "Market Cap": "$239.28 B",
+        "Price": "$0.50"
     },
     {
         "Company Name": "International Holding Company",
@@ -240,14 +240,14 @@
         "Price": "$466.23"
     },
     {
-        "Company Name": "PetroChina",
-        "Market Cap": "$222.90 B",
-        "Price": "$1.27"
-    },
-    {
         "Company Name": "Walt Disney",
         "Market Cap": "$221.91 B",
         "Price": "$120.98"
+    },
+    {
+        "Company Name": "PetroChina",
+        "Market Cap": "$221.44 B",
+        "Price": "$1.26"
     },
     {
         "Company Name": "Thermo Fisher Scientific",
@@ -280,11 +280,6 @@
         "Price": "$282.02"
     },
     {
-        "Company Name": "Agricultural Bank of China",
-        "Market Cap": "$202.07 B",
-        "Price": "$0.59"
-    },
-    {
         "Company Name": "Cisco",
         "Market Cap": "$201.52 B",
         "Price": "$49.77"
@@ -308,6 +303,11 @@
         "Company Name": "Abbott Laboratories",
         "Market Cap": "$196.90 B",
         "Price": "$113.48"
+    },
+    {
+        "Company Name": "Agricultural Bank of China",
+        "Market Cap": "$196.87 B",
+        "Price": "$0.58"
     },
     {
         "Company Name": "T-Mobile US",
@@ -375,14 +375,14 @@
         "Price": "$46.08"
     },
     {
-        "Company Name": "Bank of China",
-        "Market Cap": "$165.65 B",
-        "Price": "$0.62"
-    },
-    {
         "Company Name": "American Express",
         "Market Cap": "$163.98 B",
         "Price": "$227.75"
+    },
+    {
+        "Company Name": "Bank of China",
+        "Market Cap": "$162.33 B",
+        "Price": "$0.61"
     },
     {
         "Company Name": "Uber",
@@ -410,11 +410,6 @@
         "Price": "$27.78"
     },
     {
-        "Company Name": "China Construction Bank",
-        "Market Cap": "$156.59 B",
-        "Price": "$0.96"
-    },
-    {
         "Company Name": "ServiceNow",
         "Market Cap": "$155.59 B",
         "Price": "$759.00"
@@ -423,6 +418,11 @@
         "Company Name": "Pinduoduo",
         "Market Cap": "$154.99 B",
         "Price": "$116.66"
+    },
+    {
+        "Company Name": "China Construction Bank",
+        "Market Cap": "$153.43 B",
+        "Price": "$0.94"
     },
     {
         "Company Name": "Amgen",
